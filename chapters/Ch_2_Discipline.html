@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.41">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>2: Discipline – SOC 105</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-48ffa3e5b9d089919c6712c39e5b00f2.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-c8841fbd2916f57421e9aa5fa160fdfe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">SOC 105</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../chapters/Ch_0_Overview.html"> 
+<span class="menu-text">Overview</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-part-i-(orientation" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Part I (Orientation)</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-part-i-(orientation">    
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_1_Imagination.html">
+ <span class="dropdown-text">1: Imagination</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_2_Discipline.html">
+ <span class="dropdown-text">2: Discipline</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_3_Method.html">
+ <span class="dropdown-text">3: Method(s) in Sociology</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-part-ii-(foundations" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Part II (Foundations)</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-part-ii-(foundations">    
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_4_Meaning.html">
+ <span class="dropdown-text">4: Meaning</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_5_Interaction.html">
+ <span class="dropdown-text">5: Socialization and Interaction</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_6_Structures.html">
+ <span class="dropdown-text">6: Structures and Organizations</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_7_Identity.html">
+ <span class="dropdown-text">7: Identity and Socialization</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_8_Discipline.html">
+ <span class="dropdown-text">Ch_8_Discipline</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_9_Inequality.html">
+ <span class="dropdown-text">9: Inequality</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-part-iii-(elaborations" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Part III (Elaborations)</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-part-iii-(elaborations">    
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_10_Race.html">
+ <span class="dropdown-text">10: Race and Ethnicity</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_11_Gender.html">
+ <span class="dropdown-text">11: Gender</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_12_Globalization.html">
+ <span class="dropdown-text">12: Globalization</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_13_Politics.html">
+ <span class="dropdown-text">Ch_13_Politics</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_14_Economics.html">
+ <span class="dropdown-text">Ch_14_Economics</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_15_Environment.html">
+ <span class="dropdown-text">Ch_15_Environment</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../chapters/Ch_16_Health.html">
+ <span class="dropdown-text">Ch_16_Health</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#what-is-a-science" id="toc-what-is-a-science" class="nav-link" data-scroll-target="#what-is-a-science">What Is A Science?</a>
+  <ul class="collapse">
+  <li><a href="#what-is-a-theory" id="toc-what-is-a-theory" class="nav-link" data-scroll-target="#what-is-a-theory">What Is A Theory?</a></li>
+  <li><a href="#what-is-a-hypothesis" id="toc-what-is-a-hypothesis" class="nav-link" data-scroll-target="#what-is-a-hypothesis">What Is A Hypothesis?</a></li>
+  <li><a href="#what-is-evidence" id="toc-what-is-evidence" class="nav-link" data-scroll-target="#what-is-evidence">What Is Evidence?</a></li>
+  <li><a href="#what-is-a-method" id="toc-what-is-a-method" class="nav-link" data-scroll-target="#what-is-a-method">What Is A Method?</a></li>
+  <li><a href="#some-tensions-in-a-pluralistic-science" id="toc-some-tensions-in-a-pluralistic-science" class="nav-link" data-scroll-target="#some-tensions-in-a-pluralistic-science">Some Tensions In A Pluralistic Science</a></li>
+  </ul></li>
+  <li><a href="#key-concepts-and-theories-in-contemporary-sociology" id="toc-key-concepts-and-theories-in-contemporary-sociology" class="nav-link" data-scroll-target="#key-concepts-and-theories-in-contemporary-sociology">Key Concepts and Theories in Contemporary Sociology</a>
+  <ul class="collapse">
+  <li><a href="#key-concepts" id="toc-key-concepts" class="nav-link" data-scroll-target="#key-concepts">Key Concepts</a>
+  <ul class="collapse">
+  <li><a href="#social-construction" id="toc-social-construction" class="nav-link" data-scroll-target="#social-construction">Social Construction</a></li>
+  <li><a href="#social-order-and-social-change" id="toc-social-order-and-social-change" class="nav-link" data-scroll-target="#social-order-and-social-change">Social Order and Social Change</a></li>
+  <li><a href="#agency-and-structure" id="toc-agency-and-structure" class="nav-link" data-scroll-target="#agency-and-structure">Agency and Structure</a></li>
+  <li><a href="#micro-macro-meso" id="toc-micro-macro-meso" class="nav-link" data-scroll-target="#micro-macro-meso">Micro, Macro, Meso</a></li>
+  </ul></li>
+  <li><a href="#key-theories-in-contemporary-sociology" id="toc-key-theories-in-contemporary-sociology" class="nav-link" data-scroll-target="#key-theories-in-contemporary-sociology">Key Theories in Contemporary Sociology</a>
+  <ul class="collapse">
+  <li><a href="#structuralfunctionalism" id="toc-structuralfunctionalism" class="nav-link" data-scroll-target="#structuralfunctionalism">Structural/Functionalism</a></li>
+  <li><a href="#conflict-theorymarxism" id="toc-conflict-theorymarxism" class="nav-link" data-scroll-target="#conflict-theorymarxism">Conflict Theory/Marxism</a></li>
+  <li><a href="#symbolic-interactionism" id="toc-symbolic-interactionism" class="nav-link" data-scroll-target="#symbolic-interactionism">Symbolic Interactionism</a></li>
+  <li><a href="#practice-theory" id="toc-practice-theory" class="nav-link" data-scroll-target="#practice-theory">Practice Theory</a></li>
+  <li><a href="#challenges-to-the-current-theoretical-moment" id="toc-challenges-to-the-current-theoretical-moment" class="nav-link" data-scroll-target="#challenges-to-the-current-theoretical-moment">Challenges to the Current Theoretical Moment</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="Ch_2_Discipline.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">2: Discipline</h1>
+<p class="subtitle lead">Sociology, Science, and Their Core Concepts</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introduction" class="level1 page-columns page-full">
+<h1>Introduction</h1>
+<p>Here is one (very negative) view about the current state of Sociology:</p>
+<div class="page-columns page-full"><blockquote class="blockquote">
+<p>According to Ray Rodrigues, chancellor of the state university system, Florida lawmakers began eyeing general education as a target of reform after complaints from parents. Their children would come home for Thanksgiving break during their first semester in college and would “be communicating cultural Marxism”…Under SB 266 [a Florida state law intended to eliminate “woke” ideology], courses that count toward general-education credit should “promote and preserve the constitutional republic” through “traditional, historically accurate” coursework. The law also says that “core courses” may not “distort significant historical events,” “include a curriculum that teaches identity politics,” or be based on theories that systemic racism, sexism, oppression, and privilege are inherent in American institutions.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+</blockquote><div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;<a href="https://www-chronicle-com.proxy.library.stonybrook.edu/article/the-curricular-cull">“Is Sociology Being Saved — or Debased — in Florida?”</a> <em>Chronicle of Higher Education</em>, March 16, 2026.</p></div></div></div>
+<p>There is much to unpack in this statement. For now, we will leave aside the meaning of “cultural Marxism.”<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> We will also only briefly note that colleges explicitly advertise themselves as places to “push boundaries, challenge assumptions and redefine what’s possible,”<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> so one would <em>expect</em> young people to <em>want</em> to discuss new and interesting ideas with their family. We will also only glancingly note that “promot[ing] and preserv[ing] the constitutional republic” is <em>itself</em> an ideological goal, and that pursuing it explicitly could and would bias our understanding of society just like an explicitly “woke” one would.</p>
+<div class="no-row-height column-margin column-container"><div id="fn2"><p><sup>2</sup>&nbsp;I seriously doubt that Rodrigues and his allies are reading Gramsci, Lukacs, or Benjamin, and instead, are simply using “cultural Marxism” as a catch-all for ideologies they don’t like. See A.J.A. Woods, <em>The Cultural Marxism Conspiracy</em>, Verso, 2026.</p></div><div id="fn3"><p><sup>3</sup>&nbsp;<a href="https://www.stonybrook.edu/">Stony Brook’s Webpage</a>, accessed June 27th, 2026.</p></div></div><p>Instead, I want to take aim at what seems to be a foundational assumption of those criticizing sociology: that there is a way to pursue a completely unbiased, objective, neutral study of society. The authors of the Flordia state law imply, by claiming to cleanse University curriculum of “distortions,” that there <em>is</em> an objective, true, and indisputable nature of society and history that is like the things we know about the physical history of the universe, biological dynamics, or the engineering of the material environment.</p>
+<p>As you will see in this chapter, at a very basic level sociology (and the rest of the social sciences) do not work this way. This is because they take as their central object <em>people in society</em>, and since people <em>react</em> to their understandings about the world and the meaning they take from it, they need to be studied in a different way than rocks, planets, and pathogens. However, this does <em>not</em> mean that the social sciences and particularly sociology are therefore simply a realm where we assert opinions and call them facts; instead, it means that we have a wide inventory of careful, systematic ways of understanding the world, and our job here in part is to introduce them.</p>
+</section>
+<section id="what-is-a-science" class="level1">
+<h1>What Is A Science?</h1>
+<p>To answer the question “what kind of science is sociology?”, we need to answer a prior question: just what is a <strong>science</strong>? Science is fundamentally a systematic investigation of what the world is like, and its organization strives to achieves two major things.</p>
+<p><code>no supernatural expalanation</code></p>
+<p><code>no settling of theoretical or empirical disputes by appeals to only power or authority</code></p>
+<section id="what-is-a-theory" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-a-theory">What Is A Theory?</h2>
+<p><code>A theory is a statement about how at least two different elements of the world relate to one another.</code></p>
+<p><code>They can vary from descriptive to highly formal statements.</code></p>
+</section>
+<section id="what-is-a-hypothesis" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-a-hypothesis">What Is A Hypothesis?</h2>
+<p><code>Scientists generally think that theories are best when they are parsimonious (containing a few simple elements) and general (able to explain at least a whole class of cases). One way to extend and deepen theories is to ask what they *predict* about the world.  If that prediction comes to pass, we typically call the underlying theory *corroborated*, and when it does not, we typically call the prediction *falsified*.  Collectively, this process of making guesses based on our theoretical knowledge and then trying them out in the world is what we call **hypothetical** reasoning.</code></p>
+</section>
+<section id="what-is-evidence" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-evidence">What Is Evidence?</h2>
+<p><code>At base, any science is interested in a phenomenon of some kind (plural "phenomna"), which is the broad label for something taking place in the world. When we are interested in one or a few phenomena, we usually call them *particular*, and when we are interested in very broad phenomena, we call them *general*.</code></p>
+<p><code>"Evidence" is the general name for the traces of phenomena we can observe, either directly with our senses or through various well-understood technological apparatuses.</code></p>
+</section>
+<section id="what-is-a-method" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-a-method">What Is A Method?</h2>
+<p><code>A "method" is just a name for how these bodies of theory and evidnce are put into dialog with one another.  Having sets of ways to establish this dialog allows use to form 'communities of inquiry,' which is to say, groups of scientists who share familiarity with a given method.</code></p>
+</section>
+<section id="some-tensions-in-a-pluralistic-science" class="level2">
+<h2 class="anchored" data-anchor-id="some-tensions-in-a-pluralistic-science">Some Tensions In A Pluralistic Science</h2>
+<p>How I have described science above is quite broad, and encompasses everything from a naturalist wading in a tidal pond to a theoretical physicist hypothesizing about the birth of the universe to an anthropologist observing a group’s folkways. This is a highly <em>plural</em> view of science, which emphasizes its diveristy and resists efforts to reduce it to one or another “best” version—that is, instead of saying that laboratory experiments are indisputably the “most scientific” of any method, or that economics has a self-evidently better body of theory than political science, the theme of this perspective on science is that <em>any</em> method, kind of evidence, and theory should be considered as “science” so long as it does not appeal to supernatural explanations or pure authority and power to justify itself.</p>
+<p><code>The technical problem of commensuration</code></p>
+<p><code>Te substantive problem of scarcity---only so many resources in society, not enough to fund every method or science.  So what counts as "useful"?</code></p>
+</section>
+</section>
+<section id="key-concepts-and-theories-in-contemporary-sociology" class="level1">
+<h1>Key Concepts and Theories in Contemporary Sociology</h1>
+<section id="key-concepts" class="level2">
+<h2 class="anchored" data-anchor-id="key-concepts">Key Concepts</h2>
+<section id="social-construction" class="level3">
+<h3 class="anchored" data-anchor-id="social-construction">Social Construction</h3>
+<p>One of the simplest and most direct, but also most notorious, concepts in sociology is social construction. If you have ever played any kind of game, engaged in make-believe with a young child, read fiction, or traveled in an unfamiliar culture, you have encountered social constructions and been aware of doing so. But <em>also</em>, if you ever used a bank, been in love, celebrated a birthday, or spoken to another person, you’ve also encountered a social construction, but perhaps with less awareness.</p>
+</section>
+<section id="social-order-and-social-change" class="level3">
+<h3 class="anchored" data-anchor-id="social-order-and-social-change">Social Order and Social Change</h3>
+<p><code>The two classic, "big" statements of this are Durkheim's dissertation book and Tonnies.</code></p>
+</section>
+<section id="agency-and-structure" class="level3">
+<h3 class="anchored" data-anchor-id="agency-and-structure">Agency and Structure</h3>
+</section>
+<section id="micro-macro-meso" class="level3">
+<h3 class="anchored" data-anchor-id="micro-macro-meso">Micro, Macro, Meso</h3>
+</section>
+</section>
+<section id="key-theories-in-contemporary-sociology" class="level2">
+<h2 class="anchored" data-anchor-id="key-theories-in-contemporary-sociology">Key Theories in Contemporary Sociology</h2>
+<section id="structuralfunctionalism" class="level3">
+<h3 class="anchored" data-anchor-id="structuralfunctionalism">Structural/Functionalism</h3>
+</section>
+<section id="conflict-theorymarxism" class="level3">
+<h3 class="anchored" data-anchor-id="conflict-theorymarxism">Conflict Theory/Marxism</h3>
+</section>
+<section id="symbolic-interactionism" class="level3">
+<h3 class="anchored" data-anchor-id="symbolic-interactionism">Symbolic Interactionism</h3>
+</section>
+<section id="practice-theory" class="level3">
+<h3 class="anchored" data-anchor-id="practice-theory">Practice Theory</h3>
+</section>
+<section id="challenges-to-the-current-theoretical-moment" class="level3">
+<h3 class="anchored" data-anchor-id="challenges-to-the-current-theoretical-moment">Challenges to the Current Theoretical Moment</h3>
+
+
+</section>
+</section>
+</section>
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
