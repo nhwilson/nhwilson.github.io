@@ -1,0 +1,41 @@
+---
+title: "4: Meaning"
+format:
+  html:
+    mainfont: "Source Serif Pro"
+    monofont: "Source Sans Pro"
+    grid:
+      margin-width: 350px
+  pdf: default
+toc: False
+reference-location: margin
+citation-location: margin
+bibliography: ../nick.bib
+csl: ../american-sociological-association.csl
+---
+
+# What is "Meaning" and why is it so important to Sociology?
+
+`Micro: Weber's basic sociological terms`
+
+`Macro: Durkheim's views about norms?`
+
+`The essence of social construction is knowing the "aboutness" of a phenomenon`
+
+## Meaning as unifying
+
+## Meaning as a source of conflict and a vector for power
+
+# Cultural Universals
+
+## Marriage
+
+## Property Rights
+
+## Religious Ritual
+
+## Language
+
+# A brief history of civilization with a specific focus on culture
+
+# Dynamics today

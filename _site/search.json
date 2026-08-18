@@ -1,0 +1,632 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Sociology OER",
+    "section": "",
+    "text": "Welcome to Sociology 105–a.k.a., the introduction to the field!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "chapters/part_3/Ch_16_Health.html",
+    "href": "chapters/part_3/Ch_16_Health.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘16. Health’ date = 2024-05-31T15:18:31-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_3/Ch_14_Economics.html",
+    "href": "chapters/part_3/Ch_14_Economics.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘14. The Economy’ date = 2024-05-31T15:17:36-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_3/Ch_11_Gender_Sexuality.html",
+    "href": "chapters/part_3/Ch_11_Gender_Sexuality.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘11. Gender and Sexuality’ date = 2024-05-31T15:15:38-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_3/Ch_10_Race_Ethnicity.html",
+    "href": "chapters/part_3/Ch_10_Race_Ethnicity.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘10. Race and Ethnicity’ date = 2024-05-31T15:15:22-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_4/Ch_19_Environment.html",
+    "href": "chapters/part_4/Ch_19_Environment.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘19. The Environment’ date = 2024-05-31T15:18:57-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_4/Ch_17_Polarization.html",
+    "href": "chapters/part_4/Ch_17_Polarization.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘17. Polarization’ date = 2024-05-31T15:18:49-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_1/Ch_1_Imagination.html",
+    "href": "chapters/part_1/Ch_1_Imagination.html",
+    "title": "Stepping Outside (of Yourself)",
+    "section": "",
+    "text": "+++ title = ‘01. The Sociological Imagination’ date = 2024-05-31T15:13:15-04:00 draft = true +++\n\nStepping Outside (of Yourself)\nIn 2023, the New York Metropolitan Area had the worst traffic in the United States, and the 20th worst in the entire world. It took New York drivers an average of almost 24 minutes to travel 6 miles–about four minutes faster than the worst city in continental North America, Toronto, but about three minutes slower than Washington, D.C., and about four slower than San Francisco.\nIntroduce the sociological imagination via the example of a traffic jam here on Long Island.\n\n\nOne Phrasing: The Sociological Imagination\nC. Wright Mills described the sociological imagination and its key constitutent concepts.\n\n\nAnother Phrasing: The Souls of Society\nW.E.B. DuBois was ambiguous about whether *anyone* could achieve second sight, but let's say that they can.\n\n\nReferences and Further Reading"
+  },
+  {
+    "objectID": "chapters/part_1/Ch_2_Discipline.html",
+    "href": "chapters/part_1/Ch_2_Discipline.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘02. Sociology as Discipline’ date = 2024-05-31T15:13:25-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_2/Ch_7_Identity.html",
+    "href": "chapters/part_2/Ch_7_Identity.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘07. Identity and the Self’ date = 2024-05-31T15:14:59-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_2/Ch_4_Meaning.html",
+    "href": "chapters/part_2/Ch_4_Meaning.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘04. Meaning’ date = 2024-05-31T15:14:22-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_2/Ch_8_Discipline.html",
+    "href": "chapters/part_2/Ch_8_Discipline.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘08. Power and Discipline’ date = 2024-05-31T15:15:10-04:00 draft = true +++"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "+++ title = ‘An Introduction to the Introduction’ date = 2024-05-31T13:51:45-04:00 draft = true type = ‘book’ +++\n{{&lt; figure src=\"mid_goh.jpg\" label=\"mid-goh\" title=\"View from Orbit in the Style of van Gogh\" caption=\"Midjourney.\" attr=\"\" alt=\"alt\" link=\"#\" &gt;}}\n\nWelcome!\nMy name is Nick Wilson,{{&lt; marginnote &gt;}}Formally, I am an Associate Professor of Sociology at Stony Brook University, but I don’t particularly like such trappings, especially in person, so please just call me “Nick.” Note, however, that many of your professors will want to be addressed formally![ ] and these are my extended lecture notes to Introduction to Sociology. I’ve been teaching this course here at Stony Brook University since the Fall of 2016.\n\n\nWhy these notes?\nOver the course of teaching introduction to sociology (with enrollments of around 250 students), I’ve grown increasingly dissatisfied with the textbook I was using, and, indeed, any one that I could find. This was for several reasons.\n\nCost. Most textbooks seem unjustifiably expensive today. A quick glance at Amazon shows that they can range from $30 to over $150 to buy, and still a substantial amount of money to rent.\nQuality. While most textbooks are nominally written by well-known academics, as we will see, sociology is a notoriously difficult subject to even introduce, so the quality of textbooks varies wildly, both within and among the different offerings.\nVoice. {{&lt; marginnote &gt;}}I think I am most influenced by the writing styles of George Orwell (in “Politics and the English Language”), Christopher Lasch (in Plain Style), and Strunk and White’s Elements of Style.{{&lt; /marginnote &gt;}}You will find that I prefer to write prose in a direct, conversational, active style, and this is something that is surprisingly hard to find in a textbook. Even ones that are written “simply” tend to overdo the passive voice, pointlessly elevate jargon, exaggerate the unity and certainty of sociology’s findings, and employ other false trappings of scientific authority.\nDatedness. {{&lt; marginnote &gt;}}For instance, it is only now that textbooks are even acknowledging, much less considering the impact of, COVID-19.{{&lt; /marginnote &gt;}} Because traditional textbooks take so long to conceive, write, vet, and physically produce, they are usually surprisingly dated by the time they are published.\nIntellectual divergence. Finally, I also noticed that I increasingly disagreed with most available textbooks. I especially chafed at them oversimplifying sociology. In my view, the field is ambiguous, difficult, and challenging; indeed, it is one of the hardest sciences to practice, because it has the most complex object of study–society itself. By extension, I have come to believe that an introduction to sociology should be clear, but not simple.\n\nWith those reasons in mind, beginning in the summer of 2024 I decided to transform and extend my lecture slides into these notes, and I worked intensively to complete the first draft of these notes in the first half of 2026.\n\n\nStructure of these notes\nThese notes consist of twenty chapters and an introduction. To begin, discuss how to use these notes, and how their style reflects how I think about sociology (and how I believe you should too!)\n\nPart I\nThen, in Part I, I discuss sociology’s distintive intellectual style and heritage,{{&lt; sidenote &gt;}}Chapter 1: Imagination.{{&lt; /sidenote &gt;}} its place among other disciplines,{{&lt; sidenote &gt;}}Chapter 2: Discipline.{{&lt; /sidenote &gt;}} and then its (several) methods and their benefits and challenges of each.{{&lt; sidenote &gt;}}Chapter 3: Methods.{{&lt; /sidenote &gt;}}\n\n\nPart II\nAfter that, since this a course meant to introduce you to the field, the bulk of the notes, comprising six chapters, is in Part II, which oulines what I consider to be the fundamental conceptual building blocks in sociology. I think sociology is fundamentally oriented around the intersection of meaning and action,{{&lt; sidenote &gt;}}Chapter 4: Meaning and Action.{{&lt; /sidenote &gt;}} especially in contexts of interaction,{{&lt; sidenote &gt;}}Chapter 5: Interaction.{{&lt; /sidenote &gt;}} is usually organized following social structures,{{&lt; sidenote &gt;}}Chapter 6: Social Structure.{{&lt; /sidenote &gt;}} the result of which are qualities we have usually called identities or selves.{{&lt; sidenote &gt;}}Chapter 7: Identity.{{&lt; /sidenote &gt;}} Finally, there are two special characteristics of social structures that are such common features of sociological analysis that they have become foundational: that your place in social structures is not what it is only because of everyone’s agreement, but also because of power and discipline;{{&lt; sidenote &gt;}}Chapter 8: Power and Discipline.{{&lt; /sidenote &gt;}} and that, especially in complex societies, almost every social structure exhibits some form of inequality.{{&lt; sidenote &gt;}}Chapter 9: Inequality.{{&lt; /sidenote &gt;}}\n\n\nPart III\nPart III combines these building blocks, along with the two world-historical shifts of central interest to sociologists (the emergence and eventual dominance of capitalism and the rise, transformation, and dissolution of large empires) to understand key features of the era in which we live, “modernity.” The forces at work in this era are different from what came before in critical ways, and affect everything from our identites–our sense of race and ethnicity {{&lt; sidenote &gt;}}Chapter 10: Race and Ethnicity.{{&lt; /sidenote &gt;}}, gender and sexuality {{&lt; sidenote &gt;}}Chapter 11: Gender and Sexuality.{{&lt; /sidenote &gt;}}, and even how we imagine our place in the world{{&lt; sidenote &gt;}}Chapter 12: Globalization.{{&lt; /sidenote &gt;}}–and has decisively reorganized our lives through political{{&lt; sidenote &gt;}}Chapter 13: Politics.{{&lt; /sidenote &gt;}}, economic{{&lt; sidenote &gt;}}Chapter 14: Economics.{{&lt; /sidenote &gt;}}, intellectual{{&lt; sidenote &gt;}}Chapter 15: Education.{{&lt; /sidenote &gt;}}, and even biological{{&lt; sidenote &gt;}}Chapter 16: Health.{{&lt; /sidenote &gt;}} change.\n\n\nPart IV\nOne key cultural feature of modernity is that it does not define any particular end for our global society. Instead, sociologists have recognized that it tends to express four tensions, which are the subject of Part IV. The first tension is that, while people are collectively organized to a level we have never before seen in human history, we struggle to feel our social obligations to one another, and are at risk to regress into polarized camps, which in turn can lead to decay and even violence.{{&lt; sidenote &gt;}}Chapter 17: Polarization.{{&lt; /sidenote &gt;}} Second, while a distinctive human skill, the employment of technology on a large scale, has led to unimaginable abundance and ease, it also risks slipping beyond our collective control.{{&lt; sidenote &gt;}}Chapter 18: Technology.{{&lt; /sidenote &gt;}} Third, one of the key domains this technological dynamic has played out is in our relationship to the environment, and especially anthropogenic climate change.{{&lt; sidenote &gt;}}Chapter 19:The Environment.{{&lt; /sidenote &gt;}} Finally, the notes close by reflecting on the search for meaning in the modern world, and what it takes to live a long, happy, fulfilling life.{{&lt; sidenote &gt;}}Chapter 20: Flourishing.{{&lt; /sidenote &gt;}}\n\n\nRoadmap and Checklist\nWhile this remains a working draft, this section helps me to keep track of the state of the project, including incidental notes for each chapter/section.\n\nPrologue/How to read these notes.\n\nDraft begun 24.07.07\n\nImagination\nDiscipline\nMethod\nMeaning\nInteraction\nStructures\nIdentity\nDiscipline\nInequality\nRace and Ethnicity\nGender and Sexuality\nGlobalization\nPolitics\nEconomics\nEducation\nHealth\nPolarization\nTechnology\nEnvironment\nFlourishing"
+  },
+  {
+    "objectID": "chapters/part_2/Ch_6_Structures.html",
+    "href": "chapters/part_2/Ch_6_Structures.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘06. Social Structures and Organizations’ date = 2024-05-31T15:26:38-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_2/Ch_5_Interaction.html",
+    "href": "chapters/part_2/Ch_5_Interaction.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘05. Interaction’ date = 2024-05-31T15:14:31-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_2/Ch_9_Inequality.html",
+    "href": "chapters/part_2/Ch_9_Inequality.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘09. Inequality and Class’ date = 2024-05-31T15:14:48-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_1/Ch_3_Method.html",
+    "href": "chapters/part_1/Ch_3_Method.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘03. Sociological Method(s)’ date = 2024-05-31T15:13:32-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/prologue/Ch_0_intro.html",
+    "href": "chapters/prologue/Ch_0_intro.html",
+    "title": "How to read these notes",
+    "section": "",
+    "text": "+++ title = ‘How To Read These Notes’ draft = false type = ‘book’ +++\nExplain the best way to read the notes, focusing on (1) how I test, and (2) how that affects interacting with the notes relative to lecture and supplementary materials."
+  },
+  {
+    "objectID": "chapters/prologue/Ch_0_intro.html#how-i-test",
+    "href": "chapters/prologue/Ch_0_intro.html#how-i-test",
+    "title": "How to read these notes",
+    "section": "How I test",
+    "text": "How I test"
+  },
+  {
+    "objectID": "chapters/prologue/Ch_0_intro.html#consequences-of-how-i-test-for-how-to-read-these-notes",
+    "href": "chapters/prologue/Ch_0_intro.html#consequences-of-how-i-test-for-how-to-read-these-notes",
+    "title": "How to read these notes",
+    "section": "Consequences of how I test for how to read these notes",
+    "text": "Consequences of how I test for how to read these notes"
+  },
+  {
+    "objectID": "chapters/prologue/Ch_0_intro.html#references-links-and-supplementary-material",
+    "href": "chapters/prologue/Ch_0_intro.html#references-links-and-supplementary-material",
+    "title": "How to read these notes",
+    "section": "References, links, and supplementary material",
+    "text": "References, links, and supplementary material"
+  },
+  {
+    "objectID": "chapters/part_4/Ch_18_Technology.html",
+    "href": "chapters/part_4/Ch_18_Technology.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘18. Technology’ date = 2024-05-31T15:19:03-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_4/Ch_20_Flourishing.html",
+    "href": "chapters/part_4/Ch_20_Flourishing.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘20. Flourishing’ date = 2024-05-31T15:19:10-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_3/Ch_13_Politics.html",
+    "href": "chapters/part_3/Ch_13_Politics.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘13. Politics’ date = 2024-05-31T15:17:28-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_3/Ch_15_Education.html",
+    "href": "chapters/part_3/Ch_15_Education.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘15. Education’ date = 2024-05-31T15:18:23-04:00 draft = true +++"
+  },
+  {
+    "objectID": "chapters/part_3/Ch_12_Globalization.html",
+    "href": "chapters/part_3/Ch_12_Globalization.html",
+    "title": "SOC 105",
+    "section": "",
+    "text": "+++ title = ‘12. Global Embeddings’ date = 2024-05-31T15:17:20-04:00 draft = true +++"
+  },
+  {
+    "objectID": "Demo.html",
+    "href": "Demo.html",
+    "title": "Demonstration Code for Tufte Layout in Quarto",
+    "section": "",
+    "text": "── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.1     ✔ readr     2.2.0\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ lubridate 1.9.5     ✔ tibble    3.3.1\n✔ purrr     1.2.2     ✔ tidyr     1.3.2\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nIntroduction\nThe purpose of this page is to demonstrate various code chunks and features of the Quarto Web Tufte setup, and save them for further use later.\nThis is an attempt to understand how to best render attractive text in a web format according to the tufte style. It turns out that one of the easiest ways to do this (in a widely supported format) is via quarto, which has an excellent demonstration of how this works.\n\n\nGeneral Inventory\n\nLooks like footnotes are handled natively.1\n\n1 That is, you can just write them in markdown as normal, and given the yaml config in the header, they will be placed in the margin.\n# Code blocks also work as you would expect them to,\n# and render in the page directly on knitting.\n\n1 + 1\n\n[1] 2\n\n\n\nYou can also specify a bibtext file in the yaml header, and, when in Visual mode within the RStudio IDE, it will read the file and auto-complete citations, letting you embed them (with marginal full cites) in text like this: (Wilson 2023).\nYou can also specify arbitrary marginal content (the rendered version is seen to the right) by enclosing it in column-margin blocks as below:\n\n\nWilson, Nicholas Hoover. 2023. Modernity’s Corruption: Empire and Morality in the Making of British India. New York: Columbia University Press.\n\n\n\n\nThe cover of a great, recent album, Bushido, from the Melo Music Group\n\n\nNotably, formatting and links render correctly within links.\n\n    ::: column-margin\n    [arbitrary content]\n    :::\n\nIt is relatively straightforward to render a plot in the “main column”, simply by executing a code block.\n\n\nggplot(mtcars, aes(x = mpg, y = hp)) + geom_point()\n\n\n\n\n\n\n\n\n\nFull-width content is easy, again by enclosing it in a code block like this:2\n\n2 To get the image to properly render across the whole page, you need to add .column-page-right!    ::: {.fullwidth .column-page-right}\n    Any _full width_ content here.\n    :::\n\n\n\n\nA banner\n\n\n\nThis is a span that has the class aside which places it in the margin without a footnote number.\n\n\n\n\n\n\n\n\n\nFigure 1: Test data, demonstrated for you.\n\n\n\n\n\n\nReferences\nIf you want to, you can also arbitrarily generate a bibliography:"
+  },
+  {
+    "objectID": "index.html#one-phrasing-the-soul-of-society",
+    "href": "index.html#one-phrasing-the-soul-of-society",
+    "title": "Introduction to Sociology OER",
+    "section": "One Phrasing: The Soul of Society",
+    "text": "One Phrasing: The Soul of Society\nThink back, and the chances are that you will remember a time when you felt different from other children. This may have been a moment when you were picked first or last for something, or when people thought you were especially funny or serious. Maybe they wanted you to play certain kinds of games, or expected you to start working earlier or later than others.\nDepending on how good your memory is, you might also remember the reasons that other people gave for treating you like they did. The reasons could have been idiosyncratic–you’re too tall or short, or people loved or hated the haircut you chose–but if you heard the same reasons over and over, and across many different people, the chances are that they represented social categories which formed the basis for how people perceived you.\n\n\nA social category is a shared basis for grouping people together or dividing them apart. Social categories include gender, race, ethnicity, national origin, ability, appearance, and social class.\nOne of the first sociologists to recognize this dynamic was W.E.B. Du Bois, who wrote about it in The Souls of Black Folk (2007). Du Bois opens the book with his own painful childhood memory:\n\nI was a little thing, away up in the hills of New England…In a wee wooden schoolhouse, something put it into the boys’ and girls’ heads to buy gorgeous visiting-cards––ten cents a package––and exchange. The exchange was merry, till one girl, a tall newcomer, refused my card,––refused it peremptorily, with a glance. Then it dawned upon me with a certain suddenness that I was different from the others; or like, mayhap, in heart and life and longing, but shut out from their world by a vast veil. I had thereafter no desire to tear down that veil, to creep through; I held all beyond it in common contempt, and lived above it in a region of blue sky and great wandering shadows. (Du Bois 2007:8.)\n\nDu Bois, W. E. B. 2007. The Souls of Black Folk. edited by B. H. Edwards. Oxford England ; New York: Oxford University Press.\n\nW.E.B. DuBois was ambiguous about whether *anyone* could achieve second sight, but let's say that they can."
+  },
+  {
+    "objectID": "index.html#another-phrasing-the-sociological-imagination",
+    "href": "index.html#another-phrasing-the-sociological-imagination",
+    "title": "Introduction to Sociology OER",
+    "section": "Another Phrasing: The Sociological Imagination",
+    "text": "Another Phrasing: The Sociological Imagination\nC. Wright Mills described the sociological imagination and its key constitutent concepts.\nThis is a span that has the class aside which places it in the margin without a footnote number.\n\n\n\n\n\n\n\n\n\nFigure 1: Test data, demonstrated for you."
+  },
+  {
+    "objectID": "chapters/Prologue.html",
+    "href": "chapters/Prologue.html",
+    "title": "Prologue",
+    "section": "",
+    "text": "Explain the best way to read the notes, focusing on (1) how I test, and (2) how that affects interacting with the notes relative to lecture and supplementary materials."
+  },
+  {
+    "objectID": "chapters/Prologue.html#how-i-test",
+    "href": "chapters/Prologue.html#how-i-test",
+    "title": "Prologue",
+    "section": "How I test",
+    "text": "How I test"
+  },
+  {
+    "objectID": "chapters/Prologue.html#consequences-of-how-i-test-for-how-to-read-these-notes",
+    "href": "chapters/Prologue.html#consequences-of-how-i-test-for-how-to-read-these-notes",
+    "title": "Prologue",
+    "section": "Consequences of how I test for how to read these notes",
+    "text": "Consequences of how I test for how to read these notes"
+  },
+  {
+    "objectID": "chapters/Prologue.html#references-links-and-supplementary-material",
+    "href": "chapters/Prologue.html#references-links-and-supplementary-material",
+    "title": "Prologue",
+    "section": "References, links, and supplementary material",
+    "text": "References, links, and supplementary material"
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html",
+    "href": "chapters/Ch_0_Overview.html",
+    "title": "Overview Of The Text",
+    "section": "",
+    "text": "Welcome to the lecture notes for SOC 105 at Stony Brook University! My name is Nick Wilson, and I’ve been teaching this course here since the Fall of 2016. Until now, I employed a regular textbook, but this semester have decided to transition to these typed lecture notes.\n\n\nFormally, I am an Associate Professor of Sociology at Stony Brook University, but I don’t particularly like such trappings, especially in person, so please just call me “Nick.” Note, however, that many of your professors want to be addressed formally!\n\n\nOver the course of teaching introduction to sociology (with enrollments of around 250 students), I’ve grown increasingly dissatisfied with the textbook I was using, and, indeed, any one that I could find. This was for several reasons.\n\nCost. Most textbooks seem unjustifiably expensive today. A quick glance at Amazon shows that they can range from $30 to over $150 to buy, and still a substantial amount of money to rent.\nQuality. While most textbooks are nominally written by well-known academics, as we will see, sociology is a notoriously difficult subject to even introduce, so the quality of textbooks varies wildly, both within and among the different offerings.\nVoice. You will find that I prefer to write prose in a direct, conversational, active style, and this is something that is surprisingly hard to find in a textbook. Even ones that are written “simply” tend to overdo the passive voice, pointlessly elevate jargon, exaggerate the unity and certainty of sociology’s findings, and employ other false trappings of scientific authority.1\nDatedness. Because traditional textbooks take so long to conceive, write, vet, and physically produce, they are usually surprisingly dated by the time they are published.2\nIntellectual divergence. Finally, I also noticed that I increasingly disagreed with most available textbooks. I especially chafed at them oversimplifying sociology. In my view, the field is ambiguous, difficult, and challenging; indeed, it is one of the hardest sciences to practice, because it has the most complex object of study—society itself. By extension, I have come to believe that an introduction to sociology should be clear, but not simple.\n\n1 I think I am most influenced by the writing styles of George Orwell (in “Politics and the English Language”), Christopher Lasch (in Plain Style), and Strunk and White’s Elements of Style. For nerdy detail, see below.2 For instance, it is only now that textbooks are even acknowledging, much less considering the impact of, COVID-19.With those reasons in mind, beginning in the summer of 2024 I decided to transform and extend my lecture slides into these notes, and I worked intensively to complete the first draft of these notes in the summer of 2026."
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#part-i-orientation",
+    "href": "chapters/Ch_0_Overview.html#part-i-orientation",
+    "title": "Overview Of The Text",
+    "section": "Part I: Orientation",
+    "text": "Part I: Orientation\nIn Part I, I discuss sociology’s distinctive intellectual style and heritage,3 its place among other disciplines,4 and then its (several) methods and their benefits and challenges of each.5\n3 Chapter 1: Imagination.4 Chapter 2: Discipline.5 Chapter 3: Methods."
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#part-ii-conceptual-foundation",
+    "href": "chapters/Ch_0_Overview.html#part-ii-conceptual-foundation",
+    "title": "Overview Of The Text",
+    "section": "Part II: Conceptual Foundation",
+    "text": "Part II: Conceptual Foundation\nAfter that, since this a course meant to introduce you to the field, the bulk of the notes, comprising six chapters, is in Part II, which oulines what I consider to be the fundamental conceptual building blocks in sociology. I think sociology is fundamentally oriented around the intersection of meaning and action,6 especially in contexts of interaction,7 is usually organized following social structures,8 the result of which are qualities we have usually called identities or selves.9 Finally, there are two special characteristics of social structures that are such common features of sociological analysis that they have become foundational: that your place in social structures is not what it is only because of everyone’s agreement, but also because of power and discipline;10 and that, especially in complex societies, almost every social structure exhibits some form of inequality.11\n6 Chapter 4: Meaning and Action.7 Chapter 5: Interaction.8 Chapter 6: Social Structure.9 Chapter 7: Identity.10 Chapter 8: Power and Discipline.11 Chapter 9: Inequality."
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#part-iii-elaborations",
+    "href": "chapters/Ch_0_Overview.html#part-iii-elaborations",
+    "title": "Overview Of The Text",
+    "section": "Part III: Elaborations",
+    "text": "Part III: Elaborations\nPart III combines these building blocks, along with the two world-historical shifts of central interest to sociologists (the emergence and eventual dominance of capitalism and the rise, transformation, and dissolution of large empires) to understand key features of the era in which we live, “modernity.” The forces at work in this era are different from what came before in critical ways, and affect everything from our identities–our sense of race and ethnicity,12 gender and sexuality,13 and even how we imagine our place in the world14–and has decisively reorganized our lives through political,15 economic,16 environmental,17 and even biological18 change.\n12 Chapter 10: Race and Ethnicity.13 Chapter 11: Gender and Sexuality.14 Chapter 12: Globalization.15 Chapter 13: Politics.16 Chapter 14: Economics.17 Chapter 15: Environment.18 Chapter 16: Health."
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#part-iv-the-frontier",
+    "href": "chapters/Ch_0_Overview.html#part-iv-the-frontier",
+    "title": "Overview Of The Text",
+    "section": "Part IV: The Frontier",
+    "text": "Part IV: The Frontier\nOne key cultural feature of modernity is that it does not define any particular end for our global society. Instead, sociologists have recognized that it tends to express four tensions, which are the subject of Part IV. The first tension is that, while people are collectively organized to a level we have never before seen in human history, we struggle to feel our social obligations to one another, and are at risk to regress into polarized camps, which in turn can lead to decay and even violence.18 Second, while a distinctive human skill, the employment of technology on a large scale, has led to unimaginable abundance and ease, it also risks slipping beyond our collective control.19 Third, one of the key domains this technological dynamic has played out is in our relationship to the environment, and especially anthropogenic climate change.20 Finally, the notes close by reflecting on the search for meaning in the modern world, and what it takes to live a long, happy, fulfilling life.21\n18 Chapter 17: Polarization.19 Chapter 18: Technology.20 Chapter 19:The Environment.21 Chapter 20: Flourishing."
+  },
+  {
+    "objectID": "chapters/Ch_1_Imagination.html",
+    "href": "chapters/Ch_1_Imagination.html",
+    "title": "1: Imagination",
+    "section": "",
+    "text": "In 2023, the New York Metropolitan Area had the worst traffic in the United States, and the 20th worst in the entire world. It took New York drivers an average of almost 24 minutes to travel 6 miles—about four minutes faster than the worst city in continental North America (Toronto) but about three minutes slower than Washington, D.C., and about four slower than San Francisco.\nOne way to demonstrate how dramatic these differences can be is to compare how long it takes to get from two pairs of equidistant places in different parts of the United States. From Stony Brook University to the middle of Manhattan, as you can see from the below screencap of Google Maps, is a little over 60 miles. If we ask Google Maps to predict our commute by saying we’ll leave SBU at 8 AM on a Friday, and ask it to take the most direct highway route possible, we can see that the estimate is somewhere between 90 and 150 minutes.\n\n\n\nThe Commute Time to Manhattan Predicted by Google Maps, 8 AM Departure, August 14th, 2026.\n\n\nBy contrast, consider another part of the country that is nearly the same distance (about 64 miles): between Topeka, KS and Kansas City.1 As you can see below, this journey usually takes a little more than half the time. Why?\n1 This also follows the interstate, and departs at 8 AM on a Summer Friday.\n\n\nThe Commute from Topeka to Kansas City Predicted by Google Maps, 8 AM Departure, August 14th, 2026.\n\n\nThe next time you are sitting on Nicholls Road or 347, behind a heating-oil delivery truck but before you get to a lane-narrowing, and after someone just cut you off making an unprotected left just as the light turned green the intersection before,2 you can ask yourself this question.\n2 I hate the Long-Island convention of turning left in front of traffic the moment a light turns green. This is illegal, and is called an “unprotected left.” The New York State Drivers Manual Section 4266 (Right of Way) states: “If drivers approaching from opposite directions reach an intersection at about the same time, a driver that turns left must yield to traffic that moves straight or turns right…For any left turn, the law requires you to yield to any traffic headed toward you that is close enough to be a hazard.” End of rant.There are two basic kinds of answer. At the personal level, the answer to the question “why am I stuck in traffic?” leaves you with a simple answer: “because these jerks won’t get off the road!” But the essence of sociology is to look beyond the personal to ask, in turn, why do all those other jerks people have to be on the road? It is, in other words, to expand our perspective from purely personal answers to questions of why things happen in the world to those that involve social causes and forces.\nSo, why are you sitting in traffic? On Long Island, there are lots of reasons, but a few of them are:\n\n\nThe social domain is any set of actions, interactions, beliefs, or material structures that draw from shared meanings or require coordinating people.\n\nLong Island has few, infrequent, and expensive public transit options, especially within the Island. Of the 15 counties assessed by the Center for Neighborhood Technology, Suffolk County has a 3.8 “overall transit score” compared to a 9.9 for New York City (on a 10-point scale.)\nPedestrians get killed a lot\nThere are few sidwalks and bike lanes\nThe island's suburban expansion was designed that way, by robert moses.\nPeople are having to work more, and longer hours, and farther away from their workplace."
+  },
+  {
+    "objectID": "chapters/Ch_1_Imagination.html#one-phrasing-the-soul-of-society",
+    "href": "chapters/Ch_1_Imagination.html#one-phrasing-the-soul-of-society",
+    "title": "1: Imagination",
+    "section": "One Phrasing: The Soul of Society",
+    "text": "One Phrasing: The Soul of Society\nThe first statement was made by W.E.B. DuBois (1868-1963),3 who, in addition to being the first black man to earn a Ph.D. from Harvard, spent his notable career writing works exploring the legacies of slavery and race in the United States. He also wrote The Souls of Black Folk, which expressed his vision of the sociological imagination.\n3 \n\n\nW.E.B. DuBois in 1907, rocking the absolute pants off that goatee. Source.\n\n\nTo get a sense of the point DuBois wants to make about the sociological imagination in The Souls of Black Folk, think back to when you were a child. Chances are that you will remember a time when other children or adults made you feel different. Maybe you were picked first or last for something; maybe people thought you were especially funny, serious, pretty, or ugly; maybe children wanted you to play certain kinds of games and not others; maybe your parents warned you about playing with other kinds of children; maybe they expected you to start working earlier or later than others.\nDepending on how good your memory is, you might also remember the reasons that other people gave for treating you like they did. The reasons could have been idiosyncratic–you’re too tall or short, or people loved or hated the haircut you chose–but if you heard the same reasons over and over, and across many different people, the chances are that they represented social categories which formed the basis for how people perceived you.\nDuBois recognized this dynamic too, and wrote about it in The Souls of Black Folk (2007), opening the book with his own painful childhood memory:\n\nI was a little thing, away up in the hills of New England…In a wee wooden schoolhouse, something put it into the boys’ and girls’ heads to buy gorgeous visiting-cards––ten cents a package––and exchange. The exchange was merry, till one girl, a tall newcomer, refused my card,––refused it peremptorily, with a glance. Then it dawned upon me with a certain suddenness that I was different from the others; or like, mayhap, in heart and life and longing, but shut out from their world by a vast veil. I had thereafter no desire to tear down that veil, to creep through; I held all beyond it in common contempt, and lived above it in a region of blue sky and great wandering shadows. (Du Bois 2007:8.)\n\nDu Bois, W. E. B. 2007. The Souls of Black Folk. edited by B. H. Edwards. New York: Oxford University Press.\n\n\n\nA social category is a shared basis for grouping people together or dividing them apart. Social categories include gender, race, ethnicity, national origin, ability, appearance, and class.\nTODO: Introduce second sight and reflexivity; the former is a precursor to the latter.\nW.E.B. DuBois was ambiguous about whether *anyone* could achieve second sight, but let's say that they can.\nDuBois is making two points: first, that there *are* external forces affecting our experience based on who people perceive us to be, and second, that, if we cultivate it, we can bring those influence to the level of conscious awareness."
+  },
+  {
+    "objectID": "chapters/Ch_1_Imagination.html#another-phrasing-the-sociological-imagination",
+    "href": "chapters/Ch_1_Imagination.html#another-phrasing-the-sociological-imagination",
+    "title": "1: Imagination",
+    "section": "Another Phrasing: The Sociological Imagination",
+    "text": "Another Phrasing: The Sociological Imagination\nC. Wright Mills described the sociological imagination and its key constitutent concepts.\n\n\nA social force is any action taken by a person or group, intentional or unintentional, that brings about a state of affairs in the world, and which an individual perceives as external to themselves.\n\nTroubles are the effects of social forces, limited to the perception of psychological effects like happiness, joy, sadness, and anxiety.\n\nIssues are the effects of social forces, when considered at the level of categories and groups of people.\n\nCherished values are deeply-held, meaningful desires, goals, or states of affairs about which people may or may not be aware, and which, depending on circumstance, they may or may not perceive to be under threat."
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#how-to-read-these-notes",
+    "href": "chapters/Ch_0_Overview.html#how-to-read-these-notes",
+    "title": "Overview Of The Text",
+    "section": "How to read these notes",
+    "text": "How to read these notes"
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#how-i-test",
+    "href": "chapters/Ch_0_Overview.html#how-i-test",
+    "title": "Overview Of The Text",
+    "section": "How I test",
+    "text": "How I test\nI think that SOC 105—and particularly the way I organize and teach it—is unusual among introductory college courses. There is very little memorization necessary to do well. Instead, I ask that you try to grasp key concepts and understand how they relate to the world around us. Accordingly, I ask three classes of question on my exams (which, by the way, are all multiple choice and taken in class on a scantron sheet).\n\nConceptual questions. I want to know whether you can reasonably tell the content of a concept in the course22 and tell whether it is different from other terms.23 So my exams generally contain a good number of questions that ask you to both identify a concept given a description (and vice versa) as well as to tell the difference among key concepts.\nApplication questions. I also want to assess your ability to make connections between concepts and empirical material–you should be able to tell if an application of a concept is appropriate to some phenomenon, and what leverage it gives us in understanding it.24 Since I want to know how well you do this beyond simply memorizing what I’ve talked about in the course, questions I ask on exams in this category will only rarely be from applications and examples I discussed in lecture or these notes. Usually, they will be something new.\n“Big” empirical questions. I hate questions that require memorizing empirical details—this is no longer how any of us learn, process, or store information. When it comes to knowing and remembering facts about the world, I care far more that you’re able to understand why that fact is significant relevant to a particular purpose, concept, theory, or phemonenon. Thus I will ask you factual questions that are highly relevant to concepts and phenomena in the different units, but I will not ask about nit-picky, subtle differences.25\n\n22 Like “race,” “inequality,” “social order,” “bureaucracy” and so on.23 I’d like to know whether you can differentiate among a “formal” and “informal” organization, for instance.24 For instance, “capitalism” would be a strange concept to use to think about an economic organization with no money or investment for profit, and some interactions are best seen through the lens of “gender,” while others might be less so.25 For instance, relative to education, I might ask whether “very few,” “about half,” or “almost all” of the U.S. population has a Ph.D. degree. Knowing the answer makes a big difference in your understanding of the stakes of education in the U.S., but knowing whether the answer is 1.4% or 1.5% of the population does not.26 This is both because I think sociology is awesome and want to arouse your curiosity in it, and also because I have no reason to try and “weed out” anyone.27 I am not saying “common-sense!” There are important times where a sociological understanding of a word that we use in everyday life diverges quite a bit. So if you don’t study and try to just wing an exam, you’ll be disappointed.Two further comments are warranted. The first is that I really want you to be successful in this course.26 Therefore, I will never ask you a “gotcha” or trick question on an exam. Almost always, the right answer is the obvious27 one—provided you have studied!—so you shouldn’t agonize over the possibility that I’m playing mind games with you.\nSecond, you may have already noted that conceptual questions, application questions, and big empirical questions, even when they’re narrowed-down in the way I describe above, cover a huge amount of logical ground. So how do you know which concepts, applications, and phenomena to focus on when you study? For a clue, notice that there are basically three sources of information available to you in this course: what you read before class, what I present on the slides in class, and what I say about those slides and the reading. As you can see from the below diagram, where these three sources of information overlap is where I would concentrate my focus!\n\n\n\nOverlaps in sources of course information."
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#consequences-of-how-i-test-for-how-to-read-these-notes",
+    "href": "chapters/Ch_0_Overview.html#consequences-of-how-i-test-for-how-to-read-these-notes",
+    "title": "Overview Of The Text",
+    "section": "Consequences of how I test for how to read these notes",
+    "text": "Consequences of how I test for how to read these notes"
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#why-these-notes",
+    "href": "chapters/Ch_0_Overview.html#why-these-notes",
+    "title": "Overview Of The Text",
+    "section": "",
+    "text": "Over the course of teaching introduction to sociology (with enrollments of around 250 students), I’ve grown increasingly dissatisfied with the textbook I was using, and, indeed, any one that I could find. This was for several reasons.\n\nCost. Most textbooks seem unjustifiably expensive today. A quick glance at Amazon shows that they can range from $30 to over $150 to buy, and still a substantial amount of money to rent.\nQuality. While most textbooks are nominally written by well-known academics, as we will see, sociology is a notoriously difficult subject to even introduce, so the quality of textbooks varies wildly, both within and among the different offerings.\nVoice. You will find that I prefer to write prose in a direct, conversational, active style, and this is something that is surprisingly hard to find in a textbook. Even ones that are written “simply” tend to overdo the passive voice, pointlessly elevate jargon, exaggerate the unity and certainty of sociology’s findings, and employ other false trappings of scientific authority.1\nDatedness. Because traditional textbooks take so long to conceive, write, vet, and physically produce, they are usually surprisingly dated by the time they are published.2\nIntellectual divergence. Finally, I also noticed that I increasingly disagreed with most available textbooks. I especially chafed at them oversimplifying sociology. In my view, the field is ambiguous, difficult, and challenging; indeed, it is one of the hardest sciences to practice, because it has the most complex object of study—society itself. By extension, I have come to believe that an introduction to sociology should be clear, but not simple.\n\n1 I think I am most influenced by the writing styles of George Orwell (in “Politics and the English Language”), Christopher Lasch (in Plain Style), and Strunk and White’s Elements of Style. For nerdy detail, see below.2 For instance, it is only now that textbooks are even acknowledging, much less considering the impact of, COVID-19.With those reasons in mind, beginning in the summer of 2024 I decided to transform and extend my lecture slides into these notes, and I worked intensively to complete the first draft of these notes in the summer of 2026."
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html",
+    "href": "chapters/Ch_2_Discipline.html",
+    "title": "2: Discipline",
+    "section": "",
+    "text": "Here is one (very negative) view about the current state of Sociology:\n\nAccording to Ray Rodrigues, chancellor of the state university system, Florida lawmakers began eyeing general education as a target of reform after complaints from parents. Their children would come home for Thanksgiving break during their first semester in college and would “be communicating cultural Marxism”…Under SB 266 [a Florida state law intended to eliminate “woke” ideology], courses that count toward general-education credit should “promote and preserve the constitutional republic” through “traditional, historically accurate” coursework. The law also says that “core courses” may not “distort significant historical events,” “include a curriculum that teaches identity politics,” or be based on theories that systemic racism, sexism, oppression, and privilege are inherent in American institutions.1\n1 “Is Sociology Being Saved — or Debased — in Florida?” Chronicle of Higher Education, March 16, 2026.\nThere is much to unpack in this statement. For now, we will leave aside the meaning of “cultural Marxism.”2 We will also only briefly note that colleges explicitly advertise themselves as places to “push boundaries, challenge assumptions and redefine what’s possible,”3 so one would expect young people to want to discuss new and interesting ideas with their family. We will also only glancingly note that “promot[ing] and preserv[ing] the constitutional republic” is itself an ideological goal, and that pursuing it explicitly could and would bias our understanding of society just like an explicitly “woke” one would.\n2 I seriously doubt that Rodrigues and his allies are reading Gramsci, Lukacs, or Benjamin, and instead, are simply using “cultural Marxism” as a catch-all for ideologies they don’t like. See A.J.A. Woods, The Cultural Marxism Conspiracy, Verso, 2026.3 Stony Brook’s Webpage, accessed June 27th, 2026.Instead, I want to take aim at what seems to be a foundational assumption of those criticizing sociology: that there is a way to pursue a completely unbiased, objective, neutral study of society. The authors of the Flordia state law imply, by claiming to cleanse University curriculum of “distortions,” that there is an objective, true, and indisputable nature of society and history that is like the things we know about the physical history of the universe, biological dynamics, or the engineering of the material environment.\nAs you will see in this chapter, at a very basic level sociology (and the rest of the social sciences) do not work this way. This is because they take as their central object people in society, and since people react to their understandings about the world and the meaning they take from it, they need to be studied in a different way than rocks, planets, and pathogens. However, this does not mean that the social sciences and particularly sociology are therefore simply a realm where we assert opinions and call them facts; instead, it means that we have a wide inventory of careful, systematic ways of understanding the world, and our job here in part is to introduce them."
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#what-is-a-theory",
+    "href": "chapters/Ch_2_Discipline.html#what-is-a-theory",
+    "title": "2: Discipline",
+    "section": "What Is A Theory?",
+    "text": "What Is A Theory?\nA theory is a statement about how at least two different elements of the world relate to one another.\nThey can vary from descriptive to highly formal statements."
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#what-is-a-hypothesis",
+    "href": "chapters/Ch_2_Discipline.html#what-is-a-hypothesis",
+    "title": "2: Discipline",
+    "section": "What Is A Hypothesis?",
+    "text": "What Is A Hypothesis?\nScientists generally think that theories are best when they are parsimonious (containing a few simple elements) and general (able to explain at least a whole class of cases). One way to extend and deepen theories is to ask what they *predict* about the world.  If that prediction comes to pass, we typically call the underlying theory *corroborated*, and when it does not, we typically call the prediction *falsified*.  Collectively, this process of making guesses based on our theoretical knowledge and then trying them out in the world is what we call **hypothetical** reasoning."
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#what-is-a-method",
+    "href": "chapters/Ch_2_Discipline.html#what-is-a-method",
+    "title": "2: Discipline",
+    "section": "What Is A Method?",
+    "text": "What Is A Method?\nA \"method\" is just a name for how these bodies of theory and evidnce are put into dialog with one another.  Having sets of ways to establish this dialog allows use to form 'communities of inquiry,' which is to say, groups of scientists who share familiarity with a given method."
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#some-tensions-in-a-pluralistic-science",
+    "href": "chapters/Ch_2_Discipline.html#some-tensions-in-a-pluralistic-science",
+    "title": "2: Discipline",
+    "section": "Some Tensions In A Pluralistic Science",
+    "text": "Some Tensions In A Pluralistic Science\nHow I have described science above is quite broad, and encompasses everything from a naturalist wading in a tidal pond to a theoretical physicist hypothesizing about the birth of the universe to an anthropologist observing a group’s folkways. This is a highly plural view of science, which emphasizes its diveristy and resists efforts to reduce it to one or another “best” version—that is, instead of saying that laboratory experiments are indisputably the “most scientific” of any method, or that economics has a self-evidently better body of theory than political science, the theme of this perspective on science is that any method, kind of evidence, and theory should be considered as “science” so long as it does not appeal to supernatural explanations or pure authority and power to justify itself.\nThe technical problem of commensuration\nTe substantive problem of scarcity---only so many resources in society, not enough to fund every method or science.  So what counts as \"useful\"?"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#what-is-evidence",
+    "href": "chapters/Ch_2_Discipline.html#what-is-evidence",
+    "title": "2: Discipline",
+    "section": "What Is Evidence?",
+    "text": "What Is Evidence?\nAt base, any science is interested in a phenomenon of some kind (plural \"phenomna\"), which is the broad label for something taking place in the world. When we are interested in one or a few phenomena, we usually call them *particular*, and when we are interested in very broad phenomena, we call them *general*.\n\"Evidence\" is the general name for the traces of phenomena we can observe, either directly with our senses or through various well-understood technological apparatuses."
+  },
+  {
+    "objectID": "chapters/Ch_11_Gender.html",
+    "href": "chapters/Ch_11_Gender.html",
+    "title": "11: Gender",
+    "section": "",
+    "text": "https://kim-hipwell.medium.com/why-gamete-production-does-not-define-sex-ae80eb67c379\n(Excellent Graphic) https://static.scientificamerican.com/sciam/cache/file/164FE5CE-FBA6-493F-B9EA84B04830354E_source.jpg"
+  },
+  {
+    "objectID": "chapters/Ch_3_Method.html",
+    "href": "chapters/Ch_3_Method.html",
+    "title": "Chapter 3: Method(s) in Sociology",
+    "section": "",
+    "text": "You can arrange methods, in one way, according to how much the resemble everyday experience.  Each item on the list is counterposed with a challenge associated with it---there is no royal road to \"perfect\" knowledge in sociology!"
+  },
+  {
+    "objectID": "chapters/Ch_3_Method.html#ethnographic-analysis-reflexivity",
+    "href": "chapters/Ch_3_Method.html#ethnographic-analysis-reflexivity",
+    "title": "Chapter 3: Method(s) in Sociology",
+    "section": "Ethnographic Analysis: Reflexivity",
+    "text": "Ethnographic Analysis: Reflexivity"
+  },
+  {
+    "objectID": "chapters/Ch_3_Method.html#quantitative-analysis-key-statistical-terms",
+    "href": "chapters/Ch_3_Method.html#quantitative-analysis-key-statistical-terms",
+    "title": "Chapter 3: Method(s) in Sociology",
+    "section": "Quantitative Analysis: Key Statistical Terms",
+    "text": "Quantitative Analysis: Key Statistical Terms"
+  },
+  {
+    "objectID": "chapters/Ch_3_Method.html#experimental-analysis-ecological-validity",
+    "href": "chapters/Ch_3_Method.html#experimental-analysis-ecological-validity",
+    "title": "Chapter 3: Method(s) in Sociology",
+    "section": "Experimental Analysis: Ecological Validity",
+    "text": "Experimental Analysis: Ecological Validity"
+  },
+  {
+    "objectID": "chapters/Ch_3_Method.html#historical-analysis-archival-silences",
+    "href": "chapters/Ch_3_Method.html#historical-analysis-archival-silences",
+    "title": "Chapter 3: Method(s) in Sociology",
+    "section": "Historical Analysis: Archival Silences",
+    "text": "Historical Analysis: Archival Silences"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#social-construction",
+    "href": "chapters/Ch_2_Discipline.html#social-construction",
+    "title": "Chapter 2: Discipline",
+    "section": "Social Construction",
+    "text": "Social Construction\nOne of the simplest and most direct, but also most notorious, concepts in sociology is social construction. If you have ever played any kind of game, engaged in make-believe with a young child, read fiction, or traveled in an unfamiliar culture, you have encountered social constructions and been aware of doing so. But also, if you ever used a bank, been in love, celebrated a birthday, or spoken to another person, you’ve also encountered a social construction, but perhaps with less awareness."
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#social-order",
+    "href": "chapters/Ch_2_Discipline.html#social-order",
+    "title": "Chapter 2: Discipline",
+    "section": "Social Order",
+    "text": "Social Order"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#social-order-and-social-change",
+    "href": "chapters/Ch_2_Discipline.html#social-order-and-social-change",
+    "title": "Chapter 2: Discipline",
+    "section": "Social Order and Social Change",
+    "text": "Social Order and Social Change\nThe two classic, \"big\" statements of this are Durkheim's dissertation book and Tonnies."
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#agency-and-structure",
+    "href": "chapters/Ch_2_Discipline.html#agency-and-structure",
+    "title": "Chapter 2: Discipline",
+    "section": "Agency and Structure",
+    "text": "Agency and Structure"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#micro-macro-meso",
+    "href": "chapters/Ch_2_Discipline.html#micro-macro-meso",
+    "title": "Chapter 2: Discipline",
+    "section": "Micro, Macro, Meso",
+    "text": "Micro, Macro, Meso"
+  },
+  {
+    "objectID": "chapters/Ch_7_Identity.html",
+    "href": "chapters/Ch_7_Identity.html",
+    "title": "7: Identity and Socialization",
+    "section": "",
+    "text": "So far in the “foundations” section of these notes, we have talked about how meaning is at the core of sociological understanding, how that meaning is basically constituted in interactions, and how those interactions are patterned by groups, structures, and organizations.\nNow, however, it is time to tack back to our senses of ourselves. One reason for doing this is simple: each of the previous steps we have taken emphasizes increasing complexity, especially in modern society, and we now must consider the effects of that complexity on the meanings others attribute to others (and that they attribute to us) and that we attribute to ourselves. In other words, it is time to consider identity.\n\nIntroduction: Getting Drunk and High….for Research!1\nBecker on \"Becoming a Marihuana User.\"\n\n1 Note: Do not get drunk and high “for research.” That is not a thing, and it does not absolve from being safe and responsible.\nOn the necessity of socialization and interaction\nwhy do we need socialization in the first place?\nthe key vector for socialization is through interaction\nDistinction between social and self-identity as an outcome of interaction and social structures.\nIn modern societies, identity is pretty sticky, and feels pretty natural.\nIt is *not* just \"personality,\" but an account of who you are, how you should behave, a composite of your roles, and so on."
+  },
+  {
+    "objectID": "chapters/Ch_4_Meaning.html",
+    "href": "chapters/Ch_4_Meaning.html",
+    "title": "Ch_4_Meaning",
+    "section": "",
+    "text": "Micro: Weber's basic sociological terms\nMacro: Durkheim's views about norms?\nThe essence of social construction is knowing the \"aboutness\" of a phenomenon"
+  },
+  {
+    "objectID": "chapters/Ch_4_Meaning.html#marriage",
+    "href": "chapters/Ch_4_Meaning.html#marriage",
+    "title": "Ch_4_Meaning",
+    "section": "Marriage",
+    "text": "Marriage"
+  },
+  {
+    "objectID": "chapters/Ch_4_Meaning.html#property-rights",
+    "href": "chapters/Ch_4_Meaning.html#property-rights",
+    "title": "Ch_4_Meaning",
+    "section": "Property Rights",
+    "text": "Property Rights"
+  },
+  {
+    "objectID": "chapters/Ch_4_Meaning.html#religious-ritual",
+    "href": "chapters/Ch_4_Meaning.html#religious-ritual",
+    "title": "Ch_4_Meaning",
+    "section": "Religious Ritual",
+    "text": "Religious Ritual"
+  },
+  {
+    "objectID": "chapters/Ch_4_Meaning.html#language",
+    "href": "chapters/Ch_4_Meaning.html#language",
+    "title": "Ch_4_Meaning",
+    "section": "Language",
+    "text": "Language"
+  },
+  {
+    "objectID": "chapters/Ch_5_Interaction.html",
+    "href": "chapters/Ch_5_Interaction.html",
+    "title": "Ch_5_Interaction",
+    "section": "",
+    "text": "Basic concepts of interaction\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn interaction is mediated when some technology (e.g., writing or digital interaction) is the way that at least two people connect.\nOne key technology we have discovered, a means of materializing our culture, is through the mediation of interaction.  That is, there we can have interactions with others, and ourselves, via a set of traces exchanged intentionally or not.  These span everything from moves in games, to built structures, to writing, to digital ineractions."
+  },
+  {
+    "objectID": "chapters/Ch_5_Interaction.html#the-normal-structure",
+    "href": "chapters/Ch_5_Interaction.html#the-normal-structure",
+    "title": "Ch_5_Interaction",
+    "section": "The Normal Structure",
+    "text": "The Normal Structure"
+  },
+  {
+    "objectID": "chapters/Ch_5_Interaction.html#eruptions-of-interaction",
+    "href": "chapters/Ch_5_Interaction.html#eruptions-of-interaction",
+    "title": "Ch_5_Interaction",
+    "section": "Eruptions of Interaction",
+    "text": "Eruptions of Interaction"
+  },
+  {
+    "objectID": "chapters/Ch_5_Interaction.html#unequal-interactions",
+    "href": "chapters/Ch_5_Interaction.html#unequal-interactions",
+    "title": "Ch_5_Interaction",
+    "section": "Unequal Interactions",
+    "text": "Unequal Interactions"
+  },
+  {
+    "objectID": "chapters/Ch_5_Interaction.html#mediated-interactions",
+    "href": "chapters/Ch_5_Interaction.html#mediated-interactions",
+    "title": "Ch_5_Interaction",
+    "section": "",
+    "text": "An interaction is mediated when some technology (e.g., writing or digital interaction) is the way that at least two people connect.\nOne key technology we have discovered, a means of materializing our culture, is through the mediation of interaction.  That is, there we can have interactions with others, and ourselves, via a set of traces exchanged intentionally or not.  These span everything from moves in games, to built structures, to writing, to digital ineractions."
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#structuralfunctionalism",
+    "href": "chapters/Ch_2_Discipline.html#structuralfunctionalism",
+    "title": "Chapter 2: Discipline",
+    "section": "Structural/Functionalism",
+    "text": "Structural/Functionalism"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#conflict-theorymarxism",
+    "href": "chapters/Ch_2_Discipline.html#conflict-theorymarxism",
+    "title": "Chapter 2: Discipline",
+    "section": "Conflict Theory/Marxism",
+    "text": "Conflict Theory/Marxism"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#symbolic-interactionism",
+    "href": "chapters/Ch_2_Discipline.html#symbolic-interactionism",
+    "title": "Chapter 2: Discipline",
+    "section": "Symbolic Interactionism",
+    "text": "Symbolic Interactionism"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#practice-theory",
+    "href": "chapters/Ch_2_Discipline.html#practice-theory",
+    "title": "Chapter 2: Discipline",
+    "section": "Practice Theory",
+    "text": "Practice Theory"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#challenges-to-the-current-theoretical-moment",
+    "href": "chapters/Ch_2_Discipline.html#challenges-to-the-current-theoretical-moment",
+    "title": "Chapter 2: Discipline",
+    "section": "Challenges to the Current Theoretical Moment",
+    "text": "Challenges to the Current Theoretical Moment"
+  },
+  {
+    "objectID": "chapters/Ch_12_Globalization.html",
+    "href": "chapters/Ch_12_Globalization.html",
+    "title": "12: Globalization",
+    "section": "",
+    "text": "It is easier to describe “globalization” in terms of the kind of thinking it is meant to avoid than describe it directly. Put directly, it seems to repeat a sociological truism: we are all connected, and always have been.1 And yet, as I have already noted in the previous two units, a key feature of modern culture is to look away from these ongoing connections.2\n1 This goes for everything from the very terms of our interaction to begin with, to the understandings we gain from socialization, to our identities, to the social structures we depend upon, and so on.2 Put simply, rather than see how race and gender are socially constructed, we instead perpetually seek ways to naturalize both of them.3 There is much debate about when exactly “modernity,” started, but most people date it to around the year 1500 CE or so.So too it is with some of our largest-scale units of social interest. Since the beginning of the modern era,3 our default has increasingly been to think of “states”–no matter how they vary–as relatively self-contained units of analysis. By consequence, a great deal of the statistics and observations we use to understand the social world are constituted at that level: we think of the economic performance of the United States, China, or even the European Union as a single “thing,” we consider the movement of people in terms of citizenship in sovereign states, and we even imagine ourselves to belong to national cultures.\nSo, to get our heads around the massive, consequential social construction of nations and states in the modern world, we have to ask three big questions:\n\nWhere did this order come from?\nWhat is its structure and dynamics today? and\nWhat are its consequences?"
+  },
+  {
+    "objectID": "chapters/Ch_6_Structures.html",
+    "href": "chapters/Ch_6_Structures.html",
+    "title": "6: Structures and Organizations",
+    "section": "",
+    "text": "So far, our journey through the foundational concepts in sociology has taken us through meaning—the significance that the world holds for us—and interaction—how those meanings emerge from cues we see in the world around us and in other people. I have also emphasized the increasing complexity of society,1 which is to say, the now nearly-overwhelming set of meanings and interactions that are available to you, as a member of a Contemporary Industrial Society.\n1 In my discussion of cultural development in human societies."
+  },
+  {
+    "objectID": "chapters/Ch_6_Structures.html#the-power-of-groups",
+    "href": "chapters/Ch_6_Structures.html#the-power-of-groups",
+    "title": "6: Structures and Organizations",
+    "section": "The Power of Groups",
+    "text": "The Power of Groups\nFrom small group analysis/Asch, demonstrate the kinds of coercion a group can exhibit."
+  },
+  {
+    "objectID": "chapters/Ch_6_Structures.html#the-power-of-organizations",
+    "href": "chapters/Ch_6_Structures.html#the-power-of-organizations",
+    "title": "6: Structures and Organizations",
+    "section": "The Power of Organizations",
+    "text": "The Power of Organizations\nDemonstrate the necessity and power of formal organizations in the modern world to categorize and control people."
+  },
+  {
+    "objectID": "chapters/Ch_9_Inequality.html",
+    "href": "chapters/Ch_9_Inequality.html",
+    "title": "9: Inequality",
+    "section": "",
+    "text": "Introduction: Origins of Inequality, and Its Inevitability\nModern societies are defined by differentiation, and so inevitably the question arises of how those differences are to be interrelated.\nHowever, there are an enormous number of axes of inequality--that is, bases on which to arrange relationships.\nThe degree of inequality is also important, and much contemporary argument involves the distinction between absolute and relative inequality.\nThere are also enormous consequences to inequality, both absolute and relative.\n\n\nContemporary Inequalities of Note: Global, National, Local\nGlobal inequality: the GINI coefficient and global absolute poverty.\nNational inequality: relative poverty, health, and its consequences\nLocal inequality: Census Tract Analysis of Long Island Communities\n\n\nPoverty and Perversity: Moralized Contemporary Debates About Inequality\nAddress contemporary debates about inequality, and demonstrate their roots in values."
+  },
+  {
+    "objectID": "chapters/Ch_10_Race.html",
+    "href": "chapters/Ch_10_Race.html",
+    "title": "10: Race and Ethnicity",
+    "section": "",
+    "text": "Introduction\nWhy worry about race?  Answer: it's one of the key anchors of both social- and self-identity in the modern world, and (and the macro level) is also a key vector of conflict and solidarity."
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#logical-flow",
+    "href": "chapters/Ch_0_Overview.html#logical-flow",
+    "title": "Overview Of The Text",
+    "section": "Logical Flow",
+    "text": "Logical Flow\nI’ve tried to keep each unit within these notes fairly tightly self-contained, which means you should be able to read each one without having to read all of the others. At the same time, I’ve also (especially at the beginning and end of each unit) tried to tie the units together into a logical sequence, so you will also (hopefully) understand a larger picture of why particular units come before and after one another, and why others are clustered together.\nThis duality implies that there are two levels on which you can understand any given unit: first, on its own terms19; and second, in the context of the mosaic of sociology as represented by all the units together. Consequently, it is a good idea to ask yourself two kinds of question when reading a unit:\n19 For instance, what do you learn about Race or Gender just by reading those units?\nWhat are the three or four main conceptual and empirical points I need to know about the topic covered in the unit? How do empirical and conceptual details in the unit relate back too these “big” points?\n\nand\n\nHow does this unit fit into the course? How does it help me understand units that came before, and flow into those that follow it? How would my understanding of other units change if I didn’t know the information in this one?"
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#marginal-helpers",
+    "href": "chapters/Ch_0_Overview.html#marginal-helpers",
+    "title": "Overview Of The Text",
+    "section": "Marginal Helpers",
+    "text": "Marginal Helpers\nDepending on how you are reading this overview, you will see a more-or-less evident right hand column running alongside the main text. In it, post three main things:\n\n\nBoldface type is a more noticeable form of text used to emphasize important ideas or words.\n\nAsides, both empirical or personal. (You’ll just have to read them to find out which they are!) I don’t consider these essential to grasping the main points of a chapter, but (I hope) they can add context for interested readers.\nDefinitions. Throughout the text, when you encounter a boldface term in the main column, I have tried to state a plain definition nearby20 in the right-hand column. This is both for your convenience (to alert you to key terms), but also so you can see the term both in its content (used in the main column) and abstracted out of that context to its most general form (in the right-hand column).21\nLinks and references. Typically, the first time I discuss a data source, book or article in the text, you will see a reference to it in the right-hand column. Likewise, since sociology’s empirical depth is virtually bottomless, I will sometimes also provide links and materials for further exploration by those who are interested.\n\n20 Where exactly the definitions are placed is partly a function of the underlying software used to render this text, and partly how you are viewing it.21 You’ll notice that an important exception to this rule is when I use boldface type to announce the key element of a list, like this one—I haven’t given you definitions for “asides” or, well, “definitions.”"
+  },
+  {
+    "objectID": "chapters/Ch_0_Overview.html#links-and-references",
+    "href": "chapters/Ch_0_Overview.html#links-and-references",
+    "title": "Overview Of The Text",
+    "section": "Links and References",
+    "text": "Links and References"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#key-concepts",
+    "href": "chapters/Ch_2_Discipline.html#key-concepts",
+    "title": "2: Discipline",
+    "section": "Key Concepts",
+    "text": "Key Concepts\n\nSocial Construction\nOne of the simplest and most direct, but also most notorious, concepts in sociology is social construction. If you have ever played any kind of game, engaged in make-believe with a young child, read fiction, or traveled in an unfamiliar culture, you have encountered social constructions and been aware of doing so. But also, if you ever used a bank, been in love, celebrated a birthday, or spoken to another person, you’ve also encountered a social construction, but perhaps with less awareness.\n\n\nSocial Order and Social Change\nThe two classic, \"big\" statements of this are Durkheim's dissertation book and Tonnies.\n\n\nAgency and Structure\n\n\nMicro, Macro, Meso"
+  },
+  {
+    "objectID": "chapters/Ch_2_Discipline.html#key-theories-in-contemporary-sociology",
+    "href": "chapters/Ch_2_Discipline.html#key-theories-in-contemporary-sociology",
+    "title": "2: Discipline",
+    "section": "Key Theories in Contemporary Sociology",
+    "text": "Key Theories in Contemporary Sociology\n\nStructural/Functionalism\n\n\nConflict Theory/Marxism\n\n\nSymbolic Interactionism\n\n\nPractice Theory\n\n\nChallenges to the Current Theoretical Moment"
+  }
+]

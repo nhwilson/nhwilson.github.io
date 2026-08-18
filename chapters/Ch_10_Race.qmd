@@ -1,0 +1,19 @@
+---
+title: "10: Race and Ethnicity"
+format:
+  html:
+    mainfont: "Source Serif Pro"
+    monofont: "Source Sans Pro"
+    grid:
+      margin-width: 350px
+  pdf: default
+reference-location: margin
+citation-location: margin
+bibliography: ../nick.bib
+csl: ../american-sociological-association.csl
+toc: False
+---
+
+# Introduction
+
+`Why worry about race?  Answer: it's one of the key anchors of both social- and self-identity in the modern world, and (and the macro level) is also a key vector of conflict and solidarity.`

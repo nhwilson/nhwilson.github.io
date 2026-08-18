@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "SOC 105"
+  navbar:
+    left:
+      - href: chapters/Ch_0_Overview.qmd
+        text: Overview
+      - text: "Part I (Orientation)"
+        menu:
+          - chapters/Ch_1_Imagination.qmd
+          - chapters/Ch_2_Discipline.qmd
+          - chapters/Ch_3_Method.qmd
+      - text: "Part II (Foundations)"
+        menu:
+          - chapters/Ch_4_Meaning.qmd
+          - chapters/Ch_5_Interaction.qmd
+          - chapters/Ch_6_Structures.qmd
+          - chapters/Ch_7_Identity.qmd
+          - chapters/Ch_8_Discipline.qmd
+          - chapters/Ch_9_Inequality.qmd
+      - text: "Part III (Elaborations)"
+        menu:
+          - chapters/Ch_10_Race.qmd
+          - chapters/Ch_11_Gender.qmd
+          - chapters/Ch_12_Globalization.qmd
+          - chapters/Ch_13_Politics.qmd
+          - chapters/Ch_14_Economics.qmd
+          - chapters/Ch_15_Environment.qmd
+          - chapters/Ch_16_Health.qmd
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

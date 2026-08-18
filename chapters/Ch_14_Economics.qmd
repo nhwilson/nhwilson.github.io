@@ -1,0 +1,14 @@
+---
+title: "Ch_14_Economics"
+format:
+  html:
+    mainfont: "Source Serif Pro"
+    monofont: "Source Sans Pro"
+    grid:
+      margin-width: 350px
+  pdf: default
+reference-location: margin
+citation-location: margin
+bibliography: ../nick.bib
+csl: ../american-sociological-association.csl
+---

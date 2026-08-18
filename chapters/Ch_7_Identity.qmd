@@ -1,0 +1,36 @@
+---
+title: "7: Identity and Socialization"
+format:
+  html:
+    mainfont: "Source Serif Pro"
+    monofont: "Source Sans Pro"
+    grid:
+      margin-width: 350px
+  pdf: default
+reference-location: margin
+citation-location: margin
+bibliography: ../nick.bib
+csl: ../american-sociological-association.csl
+---
+
+So far in the "foundations" section of these notes, we have talked about how meaning is at the core of sociological understanding, how that meaning is basically constituted in interactions, and how those interactions are patterned by groups, structures, and organizations.
+
+Now, however, it is time to tack back to our senses of ourselves. One reason for doing this is simple: each of the previous steps we have taken emphasizes increasing complexity, especially in modern society, and we now must consider the effects of that complexity on the meanings others attribute to others (and that they attribute to us) and that we attribute to ourselves. In other words, it is time to consider **identity**.
+
+# Introduction: Getting Drunk and High....for Research![^1]
+
+[^1]: Note: Do not get drunk and high "for research." That is not a thing, and it does not absolve from being safe and responsible.
+
+`Becker on "Becoming a Marihuana User."`
+
+# On the necessity of socialization and interaction
+
+`why do we need socialization in the first place`?
+
+`the key vector for socialization is through interaction`
+
+`Distinction between social and self-identity as an outcome of interaction and social structures.`
+
+`In modern societies, identity is pretty sticky, and feels pretty natural.`
+
+`It is *not* just "personality," but an account of who you are, how you should behave, a composite of your roles, and so on.`

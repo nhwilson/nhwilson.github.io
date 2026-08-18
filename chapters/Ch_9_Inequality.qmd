@@ -1,0 +1,37 @@
+---
+title: "9: Inequality"
+format:
+  html:
+    mainfont: "Source Serif Pro"
+    monofont: "Source Sans Pro"
+    grid:
+      margin-width: 350px
+  pdf: default
+reference-location: margin
+citation-location: margin
+bibliography: ../nick.bib
+csl: ../american-sociological-association.csl
+toc: False
+---
+
+# Introduction: Origins of Inequality, and Its Inevitability
+
+`Modern societies are defined by differentiation, and so inevitably the question arises of how those differences are to be interrelated.`
+
+`However, there are an enormous number of axes of inequality--that is, bases on which to arrange relationships.`
+
+`The degree of inequality is also important, and much contemporary argument involves the distinction between absolute and relative inequality.`
+
+`There are also enormous consequences to inequality, both absolute and relative.`
+
+# Contemporary Inequalities of Note: Global, National, Local
+
+`Global inequality: the GINI coefficient and global absolute poverty.`
+
+`National inequality: relative poverty, health, and its consequences`
+
+`Local inequality: Census Tract Analysis of Long Island Communities`
+
+# Poverty and Perversity: Moralized Contemporary Debates About Inequality
+
+`Address contemporary debates about inequality, and demonstrate their roots in values.`

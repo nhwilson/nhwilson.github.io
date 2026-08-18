@@ -1,0 +1,311 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod,
+  oneside]{scrartcl}
+\usepackage{xcolor}
+\usepackage[left=1in,marginparwidth=2.0666666666667in,textwidth=4.1333333333333in,marginparsep=0.3in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{sidenotes}{}{\usepackage{sidenotes}}
+\@ifpackageloaded{marginnote}{}{\usepackage{marginnote}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Chapter 2: Discipline},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Chapter 2: Discipline}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Sociology, Science, and Core Concepts?}
+\author{}
+\date{}
+\begin{document}
+\maketitle
+
+
+\section{Introduction}\label{introduction}
+
+Here is one (very negative) view about the current state of Sociology:
+
+\begin{quote}
+According to Ray Rodrigues, chancellor of the state university system,
+Florida lawmakers began eyeing general education as a target of reform
+after complaints from parents. Their children would come home for
+Thanksgiving break during their first semester in college and would ``be
+communicating cultural Marxism''\ldots Under SB 266 {[}a Florida state
+law intended to eliminate ``woke'' ideology{]}, courses that count
+toward general-education credit should ``promote and preserve the
+constitutional republic'' through ``traditional, historically accurate''
+coursework. The law also says that ``core courses'' may not ``distort
+significant historical events,'' ``include a curriculum that teaches
+identity politics,'' or be based on theories that systemic racism,
+sexism, oppression, and privilege are inherent in American
+institutions.\sidenote{\footnotesize \href{https://www-chronicle-com.proxy.library.stonybrook.edu/article/the-curricular-cull}{``Is
+  Sociology Being Saved --- or Debased --- in Florida?''}
+  \emph{Chronicle of Higher Education}, March 16, 2026.}
+\end{quote}
+
+There is much to unpack in this statement. For now, we will leave aside
+the meaning of ``cultural Marxism.''\sidenote{\footnotesize I seriously doubt that
+  Rodrigues and his allies are reading Gramsci, Lukacs, or Benjamin, and
+  instead, are simply using ``cultural Marxism'' as a catch-all for
+  ideologies they don't like. See A.J.A. Woods, \emph{The Cultural
+  Marxism Conspiracy}, Verso, 2026.} We will also only briefly note that
+colleges explicitly advertise themselves as places to ``push boundaries,
+challenge assumptions and redefine what's possible,''\sidenote{\footnotesize \href{https://www.stonybrook.edu/}{Stony
+  Brook's Webpage}, accessed June 27th, 2026.} so one would
+\emph{expect} young people to \emph{want} to discuss new and interesting
+ideas with their family. We will also only glancingly note that
+``promot{[}ing{]} and preserv{[}ing{]} the constitutional republic'' is
+\emph{itself} an ideological goal, and that pursuing it explicitly could
+and would bias our understanding of society just like an explicitly
+``woke'' one would.
+
+Instead, I want to take aim at what seems to be a foundational
+assumption of those criticizing sociology: that there is a way to pursue
+a completely unbiased, objective, neutral study of society. The authors
+of the Flordia state law imply, by claiming to cleanse University
+curriculum of ``distortions,'' that there \emph{is} an objective, true,
+and indisputable nature of society and history that is like the things
+we know about the physical history of the universe, biological dynamics,
+or the engineering of the material environment.
+
+As you will see in this chapter, at a very basic level sociology (and
+the rest of the social sciences) do not work this way. This is because
+they take as their central object \emph{people in society}, and since
+people \emph{react} to their understandings about the world and the
+meaning they take from it, they need to be studied in a different way
+than rocks, planets, and pathogens. However, this does \emph{not} mean
+that the social sciences and particularly sociology are therefore simply
+a realm where we assert opinions and call them facts; instead, it means
+that we have a wide inventory of careful, systematic ways of
+understanding the world, and our job here in part is to introduce them.
+
+\section{What Is A Science?}\label{what-is-a-science}
+
+To answer the question ``what kind of science is sociology?'', we need
+to answer a prior question: just what is a \textbf{science}? Science is
+fundamentally a systematic investigation of what the world is like, and
+its organization strives to achieves two major things.
+
+\texttt{no\ supernatural\ expalanation}
+
+\texttt{no\ settling\ of\ theoretical\ or\ empirical\ disputes\ by\ appeals\ to\ only\ power\ or\ authority}
+
+\subsection{What Is A Theory?}\label{what-is-a-theory}
+
+\texttt{A\ theory\ is\ a\ statement\ about\ how\ at\ least\ two\ different\ elements\ of\ the\ world\ relate\ to\ one\ another.}
+
+\texttt{They\ can\ vary\ from\ descriptive\ to\ highly\ formal\ statements.}
+
+\subsection{What Is A Hypothesis?}\label{what-is-a-hypothesis}
+
+\texttt{Scientists\ generally\ think\ that\ theories\ are\ best\ when\ they\ are\ parsimonious\ (containing\ a\ few\ simple\ elements)\ and\ general\ (able\ to\ explain\ at\ least\ a\ whole\ class\ of\ cases).\ One\ way\ to\ extend\ and\ deepen\ theories\ is\ to\ ask\ what\ they\ *predict*\ about\ the\ world.\ \ If\ that\ prediction\ comes\ to\ pass,\ we\ typically\ call\ the\ underlying\ theory\ *corroborated*,\ and\ when\ it\ does\ not,\ we\ typically\ call\ the\ prediction\ *falsified*.\ \ Collectively,\ this\ process\ of\ making\ guesses\ based\ on\ our\ theoretical\ knowledge\ and\ then\ trying\ them\ out\ in\ the\ world\ is\ what\ we\ call\ **hypothetical**\ reasoning.}
+
+\subsection{What Is Evidence?}\label{what-is-evidence}
+
+\subsection{What Is A Method?}\label{what-is-a-method}
+
+\subsection{Some Tensions In A Pluralistic
+Science}\label{some-tensions-in-a-pluralistic-science}
+
+\section{Key Concepts in Contemporary
+Sociology}\label{key-concepts-in-contemporary-sociology}
+
+\subsection{Social Construction}\label{social-construction}
+
+One of the simplest and most direct, but also most notorious, concepts
+in sociology is social construction. If you have ever played any kind of
+game, engaged in make-believe with a young child, read fiction, or
+traveled in an unfamiliar culture, you have encountered social
+constructions and been aware of doing so. But \emph{also}, if you ever
+used a bank, been in love, celebrated a birthday, or spoken to another
+person, you've also encountered a social construction, but perhaps with
+less awareness.
+
+\subsection{Social Order and Social
+Change}\label{social-order-and-social-change}
+
+\texttt{The\ two\ classic,\ "big"\ statements\ of\ this\ are\ Durkheim\textquotesingle{}s\ dissertation\ book\ and\ Tonnies.}
+
+\subsection{Agency and Structure}\label{agency-and-structure}
+
+\subsection{Micro, Macro, Meso}\label{micro-macro-meso}
+
+\section{Key Theories in Contemporary
+Sociology}\label{key-theories-in-contemporary-sociology}
+
+\subsection{Structural/Functionalism}\label{structuralfunctionalism}
+
+\subsection{Conflict Theory/Marxism}\label{conflict-theorymarxism}
+
+\subsection{Symbolic Interactionism}\label{symbolic-interactionism}
+
+\subsection{Practice Theory}\label{practice-theory}
+
+\subsection{Challenges to the Current Theoretical
+Moment}\label{challenges-to-the-current-theoretical-moment}
+
+
+
+
+\end{document}

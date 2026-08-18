@@ -1,0 +1,30 @@
+---
+title: "12: Globalization"
+format:
+  html:
+    mainfont: "Source Serif Pro"
+    monofont: "Source Sans Pro"
+    grid:
+      margin-width: 350px
+  pdf: default
+reference-location: margin
+citation-location: margin
+bibliography: ../nick.bib
+csl: ../american-sociological-association.csl
+---
+
+It is easier to describe "globalization" in terms of the kind of thinking it is meant to avoid than describe it directly. Put directly, it seems to repeat a sociological truism: we are all connected, and always have been.[^1] And yet, as I have already noted in the previous two units, a key feature of modern culture is to look away from these ongoing connections.[^2]
+
+[^1]: This goes for everything from the very terms of our interaction to begin with, to the understandings we gain from socialization, to our identities, to the social structures we depend upon, and so on.
+
+[^2]: Put simply, rather than see how race and gender are socially constructed, we instead perpetually seek ways to naturalize both of them.
+
+So too it is with some of our largest-scale units of social interest. Since the beginning of the modern era,[^3] our default has increasingly been to think of "states"--no matter how they vary--as relatively self-contained units of analysis. By consequence, a great deal of the statistics and observations we use to understand the social world are constituted at that level: we think of the economic performance of the United States, China, or even the European Union as a single "thing," we consider the movement of people in terms of citizenship in sovereign states, and we even imagine ourselves to belong to national cultures.
+
+[^3]: There is much debate about when exactly "modernity," started, but most people date it to around the year 1500 CE or so.
+
+So, to get our heads around the massive, consequential social construction of nations and states in the modern world, we have to ask three big questions:
+
+1.  Where did this order come from?
+2.  What is its structure and dynamics today? and
+3.  What are its consequences?
