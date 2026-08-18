@@ -5,7 +5,7 @@ website:
   title: "SOC 105"
   navbar:
     left:
-      - href: chapters/Ch_0_Overview.qmd
+      - href: index.qmd
         text: Overview
       - text: "Part I (Orientation)"
         menu:
