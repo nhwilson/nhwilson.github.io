@@ -10,7 +10,7 @@ format:
   pdf: default
 reference-location: margin
 citation-location: margin
-bibliography: ../nick.bib
+bibliography: nick.bib
 csl: american-sociological-association.csl
 ---
 
