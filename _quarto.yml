@@ -29,7 +29,7 @@ website:
           - chapters/Ch_14_Economics.qmd
           - chapters/Ch_15_Environment.qmd
           - chapters/Ch_16_Health.qmd
-      - about.qmd
+      - chapters/license.qmd
 
 format:
   html:
