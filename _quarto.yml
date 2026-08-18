@@ -41,3 +41,6 @@ format:
 
 editor: visual
 
+# configuration for gh-pages rendering
+execute:
+  freeze: auto
