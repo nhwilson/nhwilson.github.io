@@ -16,6 +16,12 @@ csl: ../american-sociological-association.csl
 
 # What is "Meaning" and why is it so important to Sociology?
 
+Look at this illustration.  What do you see?
+
+![An Optical Illusion^[This illusion is the famous "rabbit and duck" illustration, originally [from](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion) an 1884 German Newspaper, which is commonly used to demonstrate the "gestalt shift" in psychology by which the illustration's appearance suddenly shifts from "being" a rabbit to "being" a duck.]](../images/4_rabbit_and_duck.png)
+
+`some people see a rabbit, some see a duck.  Some see both at different moments.  But the point for us is that a series of mechanisms in your brain convert the lines on the page---more properly, the pixels digitally representing the lines made by someone's hand inspired by actual rabbits and ducks---into something that you recognize as an intergrated thing.  Sociologists (and anthropologists, philosophers, congnitive scientists, literary theorists, and on and on) summarize this process of recognition using the terms **meaning** or **significance**.`
+
 `Micro: Weber's basic sociological terms`
 
 `Macro: Durkheim's views about norms?`

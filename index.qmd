@@ -1,5 +1,6 @@
 ---
-title: "Overview Of The Text"
+title: "SOC 105 Lecture Notes"
+sutitle: "Overview and Introduction"
 format:
   html:
     mainfont: "Source Serif Pro"
