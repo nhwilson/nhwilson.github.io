@@ -15,7 +15,9 @@ bibliography: nick.bib
 csl: american-sociological-association.csl
 ---
 
+::: {style="text-align: center;"}
 !["Bernal Interior" by Rick Guidice, ca. 1970s. [Source](https://pdimagearchive.org/images/33f8f1c3-0565-4157-9ef8-9dd887eb881e/)](images/0_header_3.jpg){fig-align="center" width="633"}
+:::
 
 # Welcome!
 
@@ -148,27 +150,3 @@ Two further comments are warranted. The first is that I *really* want you to be 
 Second, you may have already noted that conceptual questions, application questions, and big empirical questions, even when they're narrowed-down in the way I describe above, cover a huge amount of logical ground. So how do you know *which* concepts, applications, and phenomena to focus on when you study? For a clue, notice that there are basically three sources of information available to you in this course: what you read before class, what I present on the slides in class, and what I say about those slides and the reading. As you can see from the below [diagram](#fig_exam), where these three sources of information overlap is where *I* would concentrate my focus!
 
 ![Overlaps in sources of course information.](images/0_exam_diagram_2.png){#fig_exam}
-
-# Excursus on plain style in sociology {#excursus}
-
-One recurring theme in these notes regards the intellectual status of sociology; briefly, is it a science or not? My position can be summarized as "of course sociology is a science, but we also need to expand our naive views of what a 'science' is." Sociology strives to reveal what is true about the world, while also recognizing that the world is full of different phenomena that require different methods and approaches for us to know them adequately.
-
-One consequence of this position about the nature of sociology is that there are radically different ways to express it. At one extreme, you can find sociologists who wish that the social world could be expressed in a neat series of equations
-
-This position stands opposed to another view, which also affirms sociology's status as a science.
-
-`You can either express yourself in a radically-positivst way, with equations, or in a radically-hermeneutic way, with obtuse prose.  In between, however, is a style that is well-suited to connecting facts of different kinds and insight from different places: something like a "plain stlye" of sociologoical writing.`
-
-# Headers
-
-<https://pdimagearchive.org/images/8117fce7-b4a0-4202-b3ca-10a34e9a522b/>
-
-<https://pdimagearchive.org/images/0d211438-9c25-40cb-80eb-bc803adde947/>
-
-<https://pdimagearchive.org/images/e173b8e2-278d-45bb-b9b5-1b95cc476e8d/>
-
-<https://pdimagearchive.org/images/03004e0d-34d8-4430-8edf-257222dab956/>
-
-<https://pdimagearchive.org/images/35f7ccc7-70ed-48be-bcca-674b42d78298/>
-
-<https://pdimagearchive.org/images/2f7e84f1-695b-4ee5-938e-c0eda10950fd/>
