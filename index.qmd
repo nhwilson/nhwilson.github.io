@@ -15,6 +15,8 @@ bibliography: nick.bib
 csl: american-sociological-association.csl
 ---
 
+!["Bernal Interior" by Rick Guidice, ca. 1970s. [Source](https://pdimagearchive.org/images/33f8f1c3-0565-4157-9ef8-9dd887eb881e/)](images/0_header_3.jpg){fig-align="center" width="633"}
+
 # Welcome!
 
 Welcome to the lecture notes for SOC 105 at Stony Brook University! My name is Nick Wilson, and I've been teaching this course here since the Fall of 2016. Until now, I employed a regular textbook, but this semester have decided to transition to these typed lecture notes.
@@ -156,3 +158,17 @@ One consequence of this position about the nature of sociology is that there are
 This position stands opposed to another view, which also affirms sociology's status as a science.
 
 `You can either express yourself in a radically-positivst way, with equations, or in a radically-hermeneutic way, with obtuse prose.  In between, however, is a style that is well-suited to connecting facts of different kinds and insight from different places: something like a "plain stlye" of sociologoical writing.`
+
+# Headers
+
+<https://pdimagearchive.org/images/8117fce7-b4a0-4202-b3ca-10a34e9a522b/>
+
+<https://pdimagearchive.org/images/0d211438-9c25-40cb-80eb-bc803adde947/>
+
+<https://pdimagearchive.org/images/e173b8e2-278d-45bb-b9b5-1b95cc476e8d/>
+
+<https://pdimagearchive.org/images/03004e0d-34d8-4430-8edf-257222dab956/>
+
+<https://pdimagearchive.org/images/35f7ccc7-70ed-48be-bcca-674b42d78298/>
+
+<https://pdimagearchive.org/images/2f7e84f1-695b-4ee5-938e-c0eda10950fd/>

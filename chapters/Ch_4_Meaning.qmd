@@ -16,7 +16,9 @@ csl: ../american-sociological-association.csl
 
 # What is "Meaning" and why is it so important to Sociology?
 
-Look at this illustration.^[This illusion is the famous "rabbit and duck" illustration, originally [from](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion) an 1884 German Newspaper, which is commonly used to demonstrate the "gestalt shift" in psychology by which the illustration's appearance suddenly shifts from "being" a rabbit to "being" a duck.]  What do you see?
+Look at this illustration.[^1] What do you see?
+
+[^1]: This illusion is the famous "rabbit and duck" illustration, originally [from](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion) an 1884 German Newspaper, which is commonly used to demonstrate the "gestalt shift" in psychology by which the illustration's appearance suddenly shifts from "being" a rabbit to "being" a duck.
 
 ![An Optical Illusion](../images/4_rabbit_and_duck.png)
 
