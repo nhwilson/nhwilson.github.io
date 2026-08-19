@@ -40,15 +40,25 @@ The next time you are sitting on Nicholls Road or 347, behind a heating-oil deli
 
 There are two basic kinds of answer. At the personal level, the answer to the question "why am I stuck in traffic?" leaves you with a simple answer: "because these jerks won't get off the road!" But the essence of sociology is to look *beyond* the personal to ask, in turn, why do all those other ~~jerks~~ people have to be on the road? It is, in other words, to expand our perspective from purely personal answers to questions of why things happen in the world to those that involve **social** causes and forces.
 
-So, why are you sitting in traffic? On Long Island, there are lots of reasons, but a few of them are:
+So, why are you sitting in traffic? On Long Island, there are lots of reasons!
 
 ::: column-margin
 The **social** domain is any set of actions, interactions, beliefs, or material structures that draw from shared meanings or require coordinating people.
 :::
 
-- Long Island has few, infrequent, and expensive public transit options, especially *within* the Island. Of the 15 counties [assessed](https://alltransit.cnt.org/rankings/) by the Center for Neighborhood Technology, Suffolk County has a 3.8 "overall transit score" compared to a 9.9 for New York City (on a 10-point scale.)
-- `Pedestrians get killed a lot`
-- `There are few sidwalks and bike lanes`
+First, Long Island has few, infrequent, and expensive public transit options, especially *within* the Island. Of the 15 counties [assessed](https://alltransit.cnt.org/rankings/) by the Center for Neighborhood Technology, Suffolk County has a 3.8 "overall transit score" compared to a 9.9 for New York City (on a 10-point scale.)
+
+Beyond public transit, second, your options for non-car transportation are limited.  For instance, it is dangerous to walk; Long Island also has *terrible* sidewalk coordination, as demonstrated by this [OpenSidewalkMap](https://www.opensidewalkmap.com/40.9160929/-73.1137309/13.33) visualization of the area right around campus.
+![There are few sidewalks around Stony Brook's Campus, limiting safe travel by foot.](../images/1_sidewalks.png)
+
+::: column-margin
+To get a sense of what a stark contrast this is, compare it to a sidewalk map for an equally-suburban-ish location next to a University in Baltimore. ![Sidewalks around Johns Hopkins in Baltimore, MD](../images/1_sidewalks_2.png)
+:::
+
+The story for bike lanes is also [quite limited](https://gisapps.suffolkcountyny.gov/hikebike/).
+
+We can go deeper: to explain why Long Island ended up with poor public transit and heavily dependent on cars, we have to probe its social history.
+
 - `The island's suburban expansion was designed that way, by robert moses.`
 - `People are having to work more, and longer hours, and farther away from their workplace.`
 
