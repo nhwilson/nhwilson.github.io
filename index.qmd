@@ -10,7 +10,7 @@ format:
     toc: false
   pdf: default
 reference-location: margin
-citation-location: margin
+#citation-location: margin
 bibliography: nick.bib
 csl: american-sociological-association.csl
 ---
@@ -150,3 +150,8 @@ Two further comments are warranted. The first is that I *really* want you to be 
 Second, you may have already noted that conceptual questions, application questions, and big empirical questions, even when they're narrowed-down in the way I describe above, cover a huge amount of logical ground. So how do you know *which* concepts, applications, and phenomena to focus on when you study? For a clue, notice that there are basically three sources of information available to you in this course: what you read before class, what I present on the slides in class, and what I say about those slides and the reading. As you can see from the below [diagram](#fig_exam), where these three sources of information overlap is where *I* would concentrate my focus!
 
 ![Overlaps in sources of course information.](images/0_exam_diagram_2.png){#fig_exam}
+
+### References
+
+::: {#refs}
+:::
