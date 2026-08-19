@@ -37,7 +37,7 @@ Over the course of teaching introduction to sociology (with enrollments of aroun
 4.  **Datedness.** Because traditional textbooks take so long to conceive, write, vet, and physically produce, they are usually surprisingly dated by the time they are published.[^2]
 5.  **Intellectual divergence.** Finally, I also noticed that I increasingly disagreed with most available textbooks. I especially chafed at them oversimplifying sociology. In my view, the field is ambiguous, difficult, and challenging; indeed, it is one of the hardest sciences to practice, because it has the most complex object of study---society itself. By extension, I have come to believe that an introduction to sociology should be clear, but not simple.
 
-[^1]: I think I am most influenced by the writing styles of George Orwell (in "Politics and the English Language"), Christopher Lasch (in *Plain Style*), and Strunk and White's *Elements of Style*. For nerdy detail, see [below](#excursus).
+[^1]: I think I am most influenced by the writing styles of George Orwell [-@orwellPoliticsEnglishLanguage2013], Christopher Lasch [-@laschPlainStyleGuide2002], and Strunk and White's [-@strunkjrElementsStyleFourth2009].
 
 [^2]: For instance, it is only now that textbooks are even acknowledging, much less considering the impact of, COVID-19.
 
