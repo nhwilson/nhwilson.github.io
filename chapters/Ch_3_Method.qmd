@@ -12,25 +12,3 @@ citation-location: margin
 bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 ---
-
-`You can arrange methods, in one way, according to how much the resemble everyday experience.  Each item on the list is counterposed with a challenge associated with it---there is no royal road to "perfect" knowledge in sociology!`
-
-# Ethnography
-
-## Ethnographic Analysis: Reflexivity
-
-# Experiments
-
-## Experimental Analysis: Ecological Validity
-
-# Surveys
-
-## Key Statistical Terms
-
-## Quantitative Analysis: Sampling Bias and Embedded Data
-
-`Both traditional sampling bias and the embedding of bias in bayesian/ML approaches.`
-
-# Historical and Comparative Sociology
-
-## Historical Analysis: Archival Silences

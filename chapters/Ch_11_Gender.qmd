@@ -12,6 +12,3 @@ citation-location: margin
 bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 ---
-
-- <https://kim-hipwell.medium.com/why-gamete-production-does-not-define-sex-ae80eb67c379>
-- (Excellent Graphic) <https://static.scientificamerican.com/sciam/cache/file/164FE5CE-FBA6-493F-B9EA84B04830354E_source.jpg>

@@ -13,23 +13,3 @@ bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 toc: False
 ---
-
-# Socialization
-
-# Social Interaction
-
-`Basic concepts of interaction`
-
-## The Normal Structure
-
-## Eruptions of Interaction
-
-## Unequal Interactions
-
-## Mediated Interactions
-
-::: column-margin
-An interaction is **mediated** when some technology (e.g., writing or digital interaction) is the way that at least two people connect.
-:::
-
-`One key technology we have discovered, a means of materializing our culture, is through the mediation of interaction.  That is, there we can have interactions with others, and ourselves, via a set of traces exchanged intentionally or not.  These span everything from moves in games, to built structures, to writing, to digital ineractions.`
