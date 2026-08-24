@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "SOC 105"
+  google-analytics: "G-1F9ZPDGGE0"
+  title: "Stony Brook University SOC 105"
   navbar:
     left:
       - href: index.qmd
