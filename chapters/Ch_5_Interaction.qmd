@@ -33,3 +33,5 @@ An interaction is **mediated** when some technology (e.g., writing or digital in
 :::
 
 `One key technology we have discovered, a means of materializing our culture, is through the mediation of interaction.  That is, there we can have interactions with others, and ourselves, via a set of traces exchanged intentionally or not.  These span everything from moves in games, to built structures, to writing, to digital ineractions.`
+
+TODO: Clicker question on most-used emoji in text or online conversation
