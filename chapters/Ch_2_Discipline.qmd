@@ -30,11 +30,23 @@ There is much to unpack in this statement. For now, we will leave aside the mean
 
 Instead, I want to take aim at what seems to be a foundational assumption of those criticizing sociology: that there is a way to pursue a completely unbiased, objective, neutral study of society. The authors of the Flordia state law imply, by claiming to cleanse University curriculum of "distortions," that there *is* an objective, true, and indisputable nature of society and history that is like the things we know about the physical history of the universe, biological dynamics, or the engineering of the material environment.
 
-As you will see in this chapter, at a very basic level sociology (and the rest of the social sciences) do not work this way. This is because they take as their central object *people in society*, and since people *react* to their understandings about the world and the meaning they take from it, they need to be studied in a different way than rocks, planets, and pathogens. However, this does *not* mean that the social sciences and particularly sociology are therefore simply a realm where we assert opinions and call them facts; instead, it means that we have a wide inventory of careful, systematic ways of understanding the world, and our job here in part is to introduce them.
+As you will see below, at a very basic level sociology (and the rest of the social sciences) do not work this way. This is because they take as their central object *people in society*, and since people *react* to their understandings about the world and the meaning they take from it, they need to be studied in a different way than rocks, planets, and pathogens.[^4] However, this does *not* mean that the social sciences and particularly sociology are therefore simply a realm where we assert opinions and call them facts; instead, it means that we have a wide inventory of careful, systematic ways of understanding the world, as well as many key concepts and theoretical traditions, and our job here in part is to introduce them.
+
+[^4]: As noted in the previous unit, this is Du Bois' notion of **reflexivity**.
 
 # What Is A Science?
 
-To answer the question "what kind of science is sociology?", we need to answer a prior question: just what is a **science**? Science is fundamentally a systematic investigation of what the world is like, and its organization strives to achieves two major things.
+To answer the question "what kind of science is sociology?", we need to answer a prior question: just what is a **science**? And to do *that* we have to take yet another step backwards, and, in turn, ask two basic questions about the structure of the world:
+
+1. What kinds of things make up the world?
+2. How do we know what those things are?
+
+These are both ultimately philosophical questions.  The first is a question of **ontology**---sometimes also called "metaphysics"---and represents our best understanding of not only what the smallest, most basic parts of the world are, but also how those parts combine into all of the things that exist.  The second question, meanwhile, is one of **epistemology**; *if* the world is populated with certain things, how can we know what they are?
+
+
+`The relationship between sociology and the other social and physical sciences is largely one of the ontological assumptions each field makes, and of the epistemological tools---"methods"---that are most common in each.`
+
+Science is fundamentally a systematic investigation of what the world is like, and its organization strives to achieve two major things.
 
 `no supernatural expalanation`
 
@@ -76,13 +88,15 @@ How I have described science above is quite broad, and encompasses everything fr
 
 One of the simplest and most direct, but also most notorious, concepts in sociology is social construction. If you have ever played any kind of game, engaged in make-believe with a young child, read fiction, or traveled in an unfamiliar culture, you have encountered social constructions and been aware of doing so. But *also*, if you ever used a bank, been in love, celebrated a birthday, or spoken to another person, you've also encountered a social construction, but perhaps with less awareness.
 
-### Social Order and Social Change
-
-`The two classic, "big" statements of this are Durkheim's dissertation book and Tonnies.`
+### Micro, Macro, Meso
 
 ### Agency and Structure
 
-### Micro, Macro, Meso
+`This is an application of the classic question of "do we have free will"?`
+
+### Social Order and Social Change
+
+`The two classic, "big" statements of this are Durkheim's dissertation book and Tonnies.`
 
 ## Key Theories in Contemporary Sociology
 
