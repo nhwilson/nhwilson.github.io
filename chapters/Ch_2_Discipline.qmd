@@ -43,14 +43,29 @@ To answer the question "what kind of science is sociology?", we need to answer a
 
 These are both ultimately philosophical questions.  The first is a question of **ontology**---sometimes also called "metaphysics"---and represents our best understanding of not only what the smallest, most basic parts of the world are, but also how those parts combine into all of the things that exist.  The second question, meanwhile, is one of **epistemology**; *if* the world is populated with certain things, how can we know what they are?
 
+`More on ontological realism and epistemological instrumentation; why the answers to both of these questions are not simply a matter of naive empiricism.`
+
+`Also, more on emergence.`
+
+All sciences share ontological and epistemological commitments. Two of the most important are related to `no supernatural expalanation` and `no settling of theoretical or empirical disputes by appeals to only power or authority.`
+
+Beyond those shared commitments, however, most sciences express very different ontological assumptions and use very different epistemological tools to learn about the world (these collections of tools, meanwhile, are what we call "methods"!)
 
 `The relationship between sociology and the other social and physical sciences is largely one of the ontological assumptions each field makes, and of the epistemological tools---"methods"---that are most common in each.`
 
-Science is fundamentally a systematic investigation of what the world is like, and its organization strives to achieve two major things.
+### STEM
 
-`no supernatural expalanation`
+`Usually assume atomism and a highly elaborated epistemological apparatus.  Example: quantum field theory.`
 
-`no settling of theoretical or empirical disputes by appeals to only power or authority`
+### Psychology
+
+`Psychology's central tendency is to ontologically assume a self with a personality (generally)`
+
+### Economics and Political Science
+
+### Anthropology
+
+# Components of a science
 
 ## What Is A Theory?
 
@@ -76,9 +91,11 @@ Science is fundamentally a systematic investigation of what the world is like, a
 
 How I have described science above is quite broad, and encompasses everything from a naturalist wading in a tidal pond to a theoretical physicist hypothesizing about the birth of the universe to an anthropologist observing a group's folkways. This is a highly *plural* view of science, which emphasizes its diveristy and resists efforts to reduce it to one or another "best" version---that is, instead of saying that laboratory experiments are indisputably the "most scientific" of any method, or that economics has a self-evidently better body of theory than political science, the theme of this perspective on science is that *any* method, kind of evidence, and theory should be considered as "science" so long as it does not appeal to supernatural explanations or pure authority and power to justify itself.
 
+`The problem of value-commitments`
+
 `The technical problem of commensuration`
 
-`Te substantive problem of scarcity---only so many resources in society, not enough to fund every method or science.  So what counts as "useful"?`
+`The substantive problem of scarcity---only so many resources in society, not enough to fund every method or science.  So what counts as "useful"?`
 
 # Key Concepts and Theories in Contemporary Sociology
 
@@ -90,6 +107,8 @@ One of the simplest and most direct, but also most notorious, concepts in sociol
 
 ### Micro, Macro, Meso
 
+`Sociologists generally admit that there are at least two ontological scales to social phenomena: the micro and macro levels.  There is substantial dispute about the existence of a third (meso) level.  This dispute revolves primarily around the generalizability of theories.`
+
 ### Agency and Structure
 
 `This is an application of the classic question of "do we have free will"?`
@@ -98,16 +117,26 @@ One of the simplest and most direct, but also most notorious, concepts in sociol
 
 `The two classic, "big" statements of this are Durkheim's dissertation book and Tonnies.`
 
+`Industrial capitalism and cultural modernity.`
+
 ## Key Theories in Contemporary Sociology
 
 ### Structural/Functionalism
 
-### Conflict Theory/Marxism
+`A macro-theory that emphasizes how any particular phenomenon does or does not contribute to the overall functioning/dysfunctioning of society.`
+
+`Manifest and latent functions.`
 
 ### Symbolic Interactionism
 
+`Approach that emphasizes micro-interactions and the shared basis of meaning that makes coordinated social life possible.`
+
+### Conflict Theory/Marxism
+
+`A key agonistic theory emphasizing how society is internally conflicted over the interests of different social groups.  Most famously over positions in the political economy of capitalism.`
+
 ### Practice Theory
+
 
 ### Feminist and Intersectional Theory
 
-### Challenges to the Current Theoretical Moment
