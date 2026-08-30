@@ -13,6 +13,39 @@ bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 ---
 
+# Components of a science
+
+## What Is A Theory?
+
+`A theory is a statement about how at least two different elements of the world relate to one another.`
+
+`They can vary from descriptive to highly formal statements.`
+
+## What Is A Hypothesis?
+
+`Scientists generally think that theories are best when they are parsimonious (containing a few simple elements) and general (able to explain at least a whole class of cases). One way to extend and deepen theories is to ask what they *predict* about the world.  If that prediction comes to pass, we typically call the underlying theory *corroborated*, and when it does not, we typically call the prediction *falsified*.  Collectively, this process of making guesses based on our theoretical knowledge and then trying them out in the world is what we call **hypothetical** reasoning.`
+
+## What Is Evidence?
+
+`At base, any science is interested in a phenomenon of some kind (plural "phenomna"), which is the broad label for something taking place in the world. When we are interested in one or a few phenomena, we usually call them *particular*, and when we are interested in very broad phenomena, we call them *general*.`
+
+`"Evidence" is the general name for the traces of phenomena we can observe, either directly with our senses or through various well-understood technological apparatuses.`
+
+## What Is A Method?
+
+`A "method" is just a name for how these bodies of theory and evidnce are put into dialog with one another.  Having sets of ways to establish this dialog allows use to form 'communities of inquiry,' which is to say, groups of scientists who share familiarity with a given method.`
+
+## Some Tensions In A Pluralistic Science
+
+How I have described science above is quite broad, and encompasses everything from a naturalist wading in a tidal pond to a theoretical physicist hypothesizing about the birth of the universe to an anthropologist observing a group's folkways. This is a highly *plural* view of science, which emphasizes its diveristy and resists efforts to reduce it to one or another "best" version---that is, instead of saying that laboratory experiments are indisputably the "most scientific" of any method, or that economics has a self-evidently better body of theory than political science, the theme of this perspective on science is that *any* method, kind of evidence, and theory should be considered as "science" so long as it does not appeal to supernatural explanations or pure authority and power to justify itself.
+
+`The problem of value-commitments`
+
+`The technical problem of commensuration`
+
+`The substantive problem of scarcity---only so many resources in society, not enough to fund every method or science.  So what counts as "useful"?`
+
+
 `You can arrange methods, in one way, according to how much the resemble everyday experience.  Each item on the list is counterposed with a challenge associated with it---there is no royal road to "perfect" knowledge in sociology!`
 
 # Ethnography
