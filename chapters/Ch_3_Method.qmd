@@ -13,6 +13,26 @@ bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 ---
 
+## Key Theories in Contemporary Sociology
+
+### Symbolic Interactionism
+
+`Approach that emphasizes micro-interactions and the shared basis of meaning that makes coordinated social life possible.`
+
+### Structural/Functionalism
+
+`A macro-theory that emphasizes how any particular phenomenon does or does not contribute to the overall functioning/dysfunctioning of society.`
+
+`Manifest and latent functions.`
+
+### Conflict Theory/Marxism
+
+`A key agonistic theory emphasizing how society is internally conflicted over the interests of different social groups.  Most famously over positions in the political economy of capitalism.`
+
+### Practice Theory
+
+### Feminist and Intersectional Theory
+
 # Components of a science
 
 ## What Is A Theory?
@@ -44,7 +64,6 @@ How I have described science above is quite broad, and encompasses everything fr
 `The technical problem of commensuration`
 
 `The substantive problem of scarcity---only so many resources in society, not enough to fund every method or science.  So what counts as "useful"?`
-
 
 `You can arrange methods, in one way, according to how much the resemble everyday experience.  Each item on the list is counterposed with a challenge associated with it---there is no royal road to "perfect" knowledge in sociology!`
 
