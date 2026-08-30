@@ -1,6 +1,6 @@
 ---
 title: "2: Discipline"
-subtitle: "Sociology, Science, and Their Core Concepts"
+subtitle: "Science, Sociology, and Their Core Concepts"
 format:
   html:
     mainfont: "Source Serif Pro"
@@ -8,8 +8,9 @@ format:
     grid:
       margin-width: 350px
   pdf: default
+toc: false
 reference-location: margin
-citation-location: margin
+#citation-location: margin
 bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 ---
@@ -32,94 +33,181 @@ Instead, I want to take aim at what seems to be a foundational assumption of tho
 
 As you will see below, at a very basic level sociology (and the rest of the social sciences) do not work this way. This is because they take as their central object *people in society*, and since people *react* to their understandings about the world and the meaning they take from it, they need to be studied in a different way than rocks, planets, and pathogens.[^4] However, this does *not* mean that the social sciences and particularly sociology are therefore simply a realm where we assert opinions and call them facts; instead, it means that we have a wide inventory of careful, systematic ways of understanding the world, as well as many key concepts and theoretical traditions, and our job here in part is to introduce them.
 
-[^4]: As noted in the previous unit, this is Du Bois' notion of **reflexivity**.
+[^4]: As noted in [the previous unit](../chapters/Ch_1_Imagination.html), this is Du Bois' notion of **reflexivity**.
 
 # What Is A Science?
 
 To answer the question "what kind of science is sociology?", we need to answer a prior question: just what is a **science**? And to do *that* we have to take yet another step backwards, and, in turn, ask two basic questions about the structure of the world:
 
-1. What kinds of things make up the world?
-2. How do we know what those things are?
+1.  What kinds of things make up the world?
+2.  How do we know what those things are?
 
-These are both ultimately philosophical questions.  The first is a question of **ontology**---sometimes also called "metaphysics"---and represents our best understanding of not only what the smallest, most basic parts of the world are, but also how those parts combine into all of the things that exist.  The second question, meanwhile, is one of **epistemology**; *if* the world is populated with certain things, how can we know what they are?
+These are both ultimately philosophical questions. The first is a question of **ontology**---sometimes also called "metaphysics"---and represents our best understanding of not only what the smallest, most basic parts of the world are, but also how those parts combine into all of the things that exist. The second question, meanwhile, is one of **epistemology**; *if* the world is populated with certain things, how can we know what they are?
 
-`More on ontological realism and epistemological instrumentation; why the answers to both of these questions are not simply a matter of naive empiricism.`
+::: column-margin
+**Ontology** is the study of the basic building blocks of the natural world.  **Epistemology** is the study of ways of knowing about and verifying the accuracy of our knowledge about the world.
+:::
 
-`Also, more on emergence.`
+Since the emergence of modern science about 500 years ago (depending on how you're counting; see @shapinSocialHistoryTruth1994), a strong consensus has grown around two epistemological commitments. The first is that all explanations and descriptions of things in the world---*what* is there, *how* those things interrelate, and *how* we know---must be **natural**.  Bluntly, this means that scientists aim to explain things in the world as the result of the workings of other observable things in the world, and not as the result of the will of one or another deity.
 
-All sciences share ontological and epistemological commitments. Two of the most important are related to `no supernatural expalanation` and `no settling of theoretical or empirical disputes by appeals to only power or authority.`
+::: column-margin
+**Naturalistic explanation** is a key aspect of scientific epistemology. It dictates that all phenomena subject to scientific description and explanation should relate only to processes and things in the world, not to supernatural forces.
+:::
 
-Beyond those shared commitments, however, most sciences express very different ontological assumptions and use very different epistemological tools to learn about the world (these collections of tools, meanwhile, are what we call "methods"!)
+The second point of consensus among all forms of science is a (more-or-less) **skeptical attitude** towards existing explanations about the world.  This means that, rather than accepting a description or explanation about how things work in the world just because they come from someone we respect or fear, we instead try to objectively verify that a given process *actually* works that way. Crucially, this does not mean that *anyone* is qualified to question scientific findings (since they often depend on years of experience and training to understand extremely complex processes), but rather that communities of scientists should work as hard as they can to subject all explanations to the most rigorous scrutiny they can imagine  [@mertonNormativeStructureScience1979].
 
-`The relationship between sociology and the other social and physical sciences is largely one of the ontological assumptions each field makes, and of the epistemological tools---"methods"---that are most common in each.`
+::: column-margin
+In scientific epistemology, the **skeptical attitude** is a commitment held by scientists to subject potential descriptions and explanations about the world to the most rigorous examination possible to verify them.
+:::
 
-### STEM
+As mentioned, commitments to skepticism and naturalism are key parts of what defines a science.  But there are also important tensions and divergences within science. Three of the most central to sociology are worth addressing in some depth.
 
-`Usually assume atomism and a highly elaborated epistemological apparatus.  Example: quantum field theory.`
+## The Problem of Realism vs. Empiricism
 
-### Psychology
+First and foremost, a central epistemological tension in science concerns the observability of phenomena under study. Most basically, things can be observed directly with our senses---we can see, hear, feel, touch, and taste what we want to know about. At the level of our raw, physical experience of the natural world, this gives us a lot of information necessary to survive.  For example, I know my coffee cup won't fall through the table right now.  Why?  Because, before I put it down, I can verify that the table has a physical property of being "hard" by touching it, and therefore be (pretty) sure that this will persist as long as the cup is there. Philosophers of science call this epistemological approach **empiricism**. 
 
-`Psychology's central tendency is to ontologically assume a self with a personality (generally)`
+But there is *large* class of phenomena---containing most of what sociologists care about---that are not readily accessible to an individual's direct observation in this way.  For instance, think of [the market]{.smallcaps}.^[I'm using smallcaps to denote [the market]{.smallcaps}, in the sense of the real social structure, and "markets" to denote concrete venues for buying and selling.]  Yes, you *can* go down to Smith Haven Mall, or even just to the food trucks collected outside the Student Activities Center, and see *parts* of [the market]{.smallcaps}. But what prices you will pay in either of those places, and, indeed, what will even be available to you, are actually driven by a world-spanning social structure.^[For the food trucks, this is the "global commodities market" for foodstuffs and other materials, which indirectly set the prices the vendors pay to their wholesalers, and which thus determines whether they can profitably offer you a tasty, tasty burrito. If wholesale prices become too high, they must either give you less of the best parts of the burrito (obviously the pulled pork) for the same price---"shrinkflation"---or substitute something less expensive.]  So those two places are *a part of* [the market]{.smallcaps}, but only parts, and there is literally no way to observe the whole thing; instead, scientists can only observe the *traces* and *parts* of it that *are* available to observation, and then work backwards, asking themselves "how would [the market]{.smallcaps} have to work for us to see prices, the availability of goods, and so on work in this way"?
 
-### Economics and Political Science
+In this case, [the market]{.smallcaps} *is* real and a part of the world, since it has effects we can observe and measure, and philosophers of science therefore call the process of reasoning backwards from those *observable effects* to the processes that cause them **realism**.
 
-### Anthropology
+::: column-margin
+**Realism** is the scientific approach of reasoning backwards from observable traces of a phenomenon to assess its structure and general effects in the world.
+:::
 
-# Components of a science
+Now, if you're thinking that there is a *large* gulf between these two positions, you're right!  A key way that scientists bridge the "directly observable" with "real but unobservable processes" is through **instrumentation**, or reliable machines and procedures that allow them to collect measurements that are only indirectly accessible.
 
-## What Is A Theory?
+::: column-margin
+Scientists use **instrumentation** to gather more precise measurements and observations about the operation of phenomena that are not ordinarily available to human senses.
+:::
 
-`A theory is a statement about how at least two different elements of the world relate to one another.`
+Continuing with the example of [the market]{.smallcaps} above, let's say that economists and economic sociologists want to know whether prices are generally going up or down for consumers.  In the United States, we have a government agency, the [Bureau of Labor Statistics](https://www.bls.gov/cpi/questions-and-answers.htm) that conducts a survey called the "Consumer Price Index", which 
 
-`They can vary from descriptive to highly formal statements.`
+> ...is a measure of the average change over time in the prices paid by consumers for a representative basket of consumer goods and services. The CPI measures inflation as experienced by consumers in their day-to-day living expenses.
 
-## What Is A Hypothesis?
+>The CPI represents all goods and services purchased for consumption by the reference population. BLS has classified all expenditure items into more than 200 categories, arranged into eight major groups (food and beverages, housing, apparel, transportation, medical care, recreation, education and communication, and other goods and services). Included within these major groups are various government-charged user fees, such as water and sewerage charges, auto registration fees, and vehicle tolls.
 
-`Scientists generally think that theories are best when they are parsimonious (containing a few simple elements) and general (able to explain at least a whole class of cases). One way to extend and deepen theories is to ask what they *predict* about the world.  If that prediction comes to pass, we typically call the underlying theory *corroborated*, and when it does not, we typically call the prediction *falsified*.  Collectively, this process of making guesses based on our theoretical knowledge and then trying them out in the world is what we call **hypothetical** reasoning.`
+The BLS works extremely hard to construct a sample that *accurately* measures the "real" CPI, but the point for our example here is that they are seeking to measure a *general property of the consumer goods market in the US*, and not any individual, particular price. In sum, you could not obtain this description of the behavior of [the market]{.smallcaps} in the US without the instrument of this survey, or something like it.^[Incidentally, most "hard" sciences work like this too.  Take the [Nancy Grace Roman Space Telescope](https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/), soon to be launched. It works by scanning the infrared spectrum of light, which you can't see with your eyes, but which is well-enough verified and understood that it has widespread applications today.]
 
-## What Is Evidence?
+## The Problem of Emergence vs. Reduction
 
-`At base, any science is interested in a phenomenon of some kind (plural "phenomna"), which is the broad label for something taking place in the world. When we are interested in one or a few phenomena, we usually call them *particular*, and when we are interested in very broad phenomena, we call them *general*.`
+The tension between realism and empiricism is heavily epistemological, but another tension in science involves ontology, and can be understood through instrumentation.  Most scientific instruments are built (and validated) using assumptions about what kinds of objects they are searching for.  To continue with our example above of [the market]{.smallcaps}, if we want to know its properties, it is probably not a good idea to interview a single consumer and ask about their feelings regarding prices.^[Scientists do, however, survey the *collective* sentiments of populations about the market. The most famous is done by the [University of Michigan](https://www.sca.isr.umich.edu/).] Yet at the same time, the behavior and properties of [the market]{.smallcaps} are driven by the actions of innumerable people acting (according to classical economics)^[The classical statement of this perspective of the "invisible hand," which vastly oversimplifies the perspective of contemporary economics, is from @smithWealthNations1976.] simply trying to maximize their own local interests.
 
-`"Evidence" is the general name for the traces of phenomena we can observe, either directly with our senses or through various well-understood technological apparatuses.`
+But which of these two perspectives---collective or individual---shows the "true" nature of [the market]{.smallcaps}?  This is not a philosophy class, so thankfully, we don't have to solve this ontological question.^[And indeed, how could we?  My own approach is pragmatic---different ontological perspectives are useful to do different things, and the question is what each allows and forbids, not which one is correct for all time.  See @hackingRepresentingInterveningIntroductory1983.]  Instead, it reveals that different scientific disciplines are at least partly defined by which ontological level they assume is fundamental to their studies.
 
-## What Is A Method?
+At one extreme, some disciplines try to **analytically reduce** their objects of study to those that they purport to be the most fundamental in the universe.  Thus, the last time I checked, physics recognizes seventeen [fundamental particles](https://en.wikipedia.org/wiki/Elementary_particle), and literally everything everywhere is composed of them.^[Fascinatingly, while this is the most reductive ontology that has achieved widespread scientific consensus, it has deficiences, and there are rumblings of even [further reductions](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model).]
 
-`A "method" is just a name for how these bodies of theory and evidnce are put into dialog with one another.  Having sets of ways to establish this dialog allows use to form 'communities of inquiry,' which is to say, groups of scientists who share familiarity with a given method.`
+::: column-margin
+**Analytic reduction** is the assertion that complex phenomena are actually collections of constituent parts, and therefore best studied in terms of those smaller components.
+:::
 
-## Some Tensions In A Pluralistic Science
+Analytic reduction can be extremely powerful and it has revealed some of the most fundamental mechanics of the world around us that we know of. But also think of the phenomena in the world that analytic reduction makes it *harder* to study.  Let's go back to [the market]{.smallcaps}, for instance.  *If* you ~~were insane and~~ wanted to study [the market]{.smallcaps} in terms of quantum physics, you would *at least* have to make the following steps:
 
-How I have described science above is quite broad, and encompasses everything from a naturalist wading in a tidal pond to a theoretical physicist hypothesizing about the birth of the universe to an anthropologist observing a group's folkways. This is a highly *plural* view of science, which emphasizes its diveristy and resists efforts to reduce it to one or another "best" version---that is, instead of saying that laboratory experiments are indisputably the "most scientific" of any method, or that economics has a self-evidently better body of theory than political science, the theme of this perspective on science is that *any* method, kind of evidence, and theory should be considered as "science" so long as it does not appeal to supernatural explanations or pure authority and power to justify itself.
+1. Explain how quantum particles become atoms.
+2. Explain how atoms become molecules.
+3. Explain how inorganic molecules become organisms.
+4. Explain how organisms' neural functions become sufficiently complex to attain conscious and intentionality.
+5. Explain how consciousnesses form collective abstract representations.
+6. Explain how those representations evolve and grow more complex to become the modern form of [the market]{.smallcaps}.
 
-`The problem of value-commitments`
+To my knowledge,^[Those of you who know more than me can tell me whether the other steps have been decisively accounted for.] only one of these steps (step 2) is well-understood, and if you tried to move across all 6, you would easily exhaust your own life trying to just explain *one* complex phenomenon.
 
-`The technical problem of commensuration`
+By consequence of the difficulty of working all the way back up from purportedly fundamental elements to complex phenomena, many sciences focus on the properties that **emerge** at a given level of complexity. In other words, for [the market]{.smallcaps}, you don't need to know the quantum-physical properties of the gold being sold in (one part of) it, because they are irrelevant to what you are trying to explain---say, the availability of gold at a certain price and at a certain time.  Likewise, a clinician who suspects one of their patients is subject to [intimate partner violence](https://www.cdc.gov/intimate-partner-violence/about/index.html) is unlikely to be concerned by the organic chemistry of their patients' injuries; instead, they will likely focus on the psychological and social processes at work.
 
-`The substantive problem of scarcity---only so many resources in society, not enough to fund every method or science.  So what counts as "useful"?`
+::: column-margin
+**Emergence** is the unfolding of new properties and higher levels of ontological complexity, which can be apprehended and studied without reference to subsidiary ontological levels.
+:::
+
+Throughout this discussion, you'll notice that I have not once asserted that any particular ontological level is "right," nor that reduction or emergence is always the best approach.  But I also want to emphasize that the boundaries among areas of research are not at all immutable.  Indeed, some of the most interesting areas of science today are at the boundaries between reduction and emergence, and protective "border skirmishes" between disciplines tend to be fought over them.^[For example, *sociological* social psychology tends to criticize *psychological* social psychology as having an impoverished account of the emergent properties of social structure and culture, whereas in the opposite direction, psychologists see sociologists as having woefully imprecise concepts of "the self," "personality," "motivation," and so on---which is to say, they have insufficiently analytically reduced their concepts to be useful.]  For instance, a great deal of work is being done trying to understand the intersection between the biochemical processes in the brain and our sense of ourselves as conscious beings.  And an emergent field of study is asking whether LLMs---trained on our collective discursive output---can be studied directly as repositories of social dynamics not evident in any given piece of discourse.  Instead, the ontological levels assumed by given disciplines act like centers of gravity around which most of the work considered to be "in" that discipline orbits.
+
+## The Problem of Subjectivity, Intersubjectivity, and Objectivity
+
+A final tension in science worth discussing involves the source of observations about the world---people themselves. People are both ontological and epistemological problems for science.  
+
+Ontologically, they represent something that is maddeningly hard to observe, which is interior self-conscious states and intentional motivations about the future. This is usually summarized as their **subjective**.  Worse still, people are also capable of *coordination*, which is to say they can exchange meaning^[The subject of [unit 4](../chapters/Ch_4_Meaning.qmd)!] with one another to align themselves into regular patterns, or even to *change* the state of the world through collective action to bring about something they imagine to be possible. Scientists usually call this kind of exchange and coordination **intersubjective**. And if even *that* were not complex enough, there are also sets of social and material forces working on whole populations, the planet itself, and physical processes that lie beyond the reach of even the most elaborate coordinated action we have ever observed.  It is these phenomena we usually call **objective.**
+
+::: column-margin
+A **subjective** ontology emphasizes people's interior states of mind, beliefs, and intentions about the world around them.  An **intersubjective** ontology concentrates on the shared beliefs, goals, and intentions held by groups of people coordinating their action.  And an **objective** ontology emphasizes how non-human material and large-scale social forces affect society and individual people.
+:::
+
+Each of these three ontological levels also carries epistemological challenges for scientists.  Scientists usually try to avoid purely **subjectivist** interpretations, which is to say, those than depend on an individual's perspective---or those belonging to one social category and not another---and aim to gather knowledge that transcends such narrow perspectives (or, at least, can be translated across perspectives).  
+
+::: column-margin
+A **subjectivist** epistemology focuses on people's internal mental states and how they influence people's actions and beliefs about the world.
+:::
+
+However, it is also the case that one's subjectivity, when used reflexively, can be a key mode of gathering knowledge about the world.  To take a trivial example, it is well-known that some people experience [white coat hypertension](https://pmc.ncbi.nlm.nih.gov/articles/PMC6233698/) where, because they are nervous to have their blood pressure taken in a hospital setting, their blood pressure measures higher than it would otherwise.  Depending on what you want to know, the patient's subjectivity---that is, their sense of themselves and the situation given their social position in a given setting---is either a source of scientific bias (about their "true" blood pressure) or a phenomenon worth directly studying itself.
+
+There are also **intersubjectivist** epistemological tensions in science.  On the one hand, as noted above, the apparatus of modern scientific instrumentation means that to be able to meaningfully contribute to science often takes *years* of specialized training, leaving only a tiny proportion of the overall population qualified to skeptically examine scientific claims.^[I have no scientifically-sound idea whether the better avenue for pursuing controlled nuclear fusion power is a [Tokamak Reactor](https://en.wikipedia.org/wiki/Tokamak) or a [Stellarator](https://en.wikipedia.org/wiki/Stellarator).  Do you?] At the same time, to the extent that intersubjective scientific communities become locked into a single collective perspective, the very boundaries of expertise can also become blinders, and crucial phenomena in the world can be left under- or unstudied.
+
+::: column-margin
+An **intersubjectivist** epistemology emphasizes how scientific perspectives, topics of inquiry, and interpretations are shaped by disciplinary experts in communication with one another.
+:::
+
+Partly in response to the threats of subjectivist and intersubjectivist bias, some scientists harken for an **objectivist** epistemology.  Here, the best knowledge is that cleansed of the corruptions of individual moral or political commitments biasing the conduct of research, and from being "steered" towards one or another topic or conclusion by a disciplinary community.  At a minimum, these scientists believe, this should mean that scientists commit to reporting their findings even if they show the opposite of what they hoped, or that scientific communities should protect or even reward conducting work on unpopular or controversial topics.  At maximum, however, objectivist epistemology seeks a "view from nowhere" [@nagelViewNowhere1989], completely detached and independent from any social influence.
+
+::: column-margin
+An **objectivist** epistemology seeks to eliminate subjective and intersubjective bias from inquiry, and ultimately achieve a totally independent view of reality.
+:::
+
+One tension in this objectivist epistemology should be obvious: there is *no* such thing as a position outside of society from which to study it, and plenty of social phenomena are constituted depending on concrete social positions only accessible to certain scientists. To this objection, defenders typically respond that instead of a purely objective ontological view, we should instead *aspire* to being as objective as we can, and that a crucial step in that direction is to deliberately admit and reward those with views outside of the scientific mainstream into the intersubjective conversation.
 
 # Key Concepts and Theories in Contemporary Sociology
+
+So now we have dined on some philosophy---hopefully without choking!---and are ready for another course, this time at the sociological buffet.  Here, my goal is to serve you a taste of what we will savor through the rest of the course: concepts and theories that we will see over and over.  I also hope you'll see how their flavors are all the richer for the philosophical background about science that we have just covered!^[Okay, okay, I'll stop beating the "food" metaphor to death!]
 
 ## Key Concepts
 
 ### Social Construction
 
-One of the simplest and most direct, but also most notorious, concepts in sociology is social construction. If you have ever played any kind of game, engaged in make-believe with a young child, read fiction, or traveled in an unfamiliar culture, you have encountered social constructions and been aware of doing so. But *also*, if you ever used a bank, been in love, celebrated a birthday, or spoken to another person, you've also encountered a social construction, but perhaps with less awareness.
+One of the simplest and most direct, but also most notorious, concepts in sociology is **social construction**. If you have ever played any kind of game, engaged in make-believe with a young child, read fiction, or traveled in an unfamiliar culture, you have encountered social constructions and been aware of doing so. But *also*, if you ever used a bank, been in love, celebrated a birthday, or spoken to another person, you've also encountered a social construction, but perhaps with less awareness.  Simply put, the concept means that a phenomenon in the world exists because of shared belief in its existence, and people behaving as though it exists.
 
-### Micro, Macro, Meso
+::: column-margin
+**Social construction** is when a phenomenon is constituted by shared belief in its existence.
+:::
 
-`Sociologists generally admit that there are at least two ontological scales to social phenomena: the micro and macro levels.  There is substantial dispute about the existence of a third (meso) level.  This dispute revolves primarily around the generalizability of theories.`
+Crucially, this does not mean that individual people can simply make up whatever they want or that nothing in the world is "real."^[For a lovely exposition of a sophisticated constructionist view, see @hackingHistoricalOntology2004.]  Instead, it means that most of what we treat as real and self-evident for the purposes of getting through our everyday lives is an unproblematic *composite* of objective, material matter and the meanings we attach to it.  We can (usually) treat the currency we hold in our hands as "good" to exchange for something else, and don't think twice about the fact that (US) currency is actually [fiat money](https://en.wikipedia.org/wiki/Fiat_money), and ultimately depends on global trust in the soundness of the US economy and treasury. And if we are using a credit card or our phones, we (usually) don't even think about the fact that the "dollars" we are spending are in fact simply electronic entries on various ledgers being changed, or that [currency in circulation](https://www.federalreserve.gov/releases/h6/current/default.htm) is a very different thing (much smaller) than the [total money supply](https://fred.stlouisfed.org/series/M2SL).  We just buy that tasty, tasty burrito.^[![A Burrito, because I realized I haven't used an image in this unit ([Source](https://commons.wikimedia.org/wiki/File:Burrito.JPG)).](../images/2_Burrito.jpeg)]
+
+### Micro and Macro
+
+Sociology as a whole is usually concerned with intersubjective phenomena, but that intersubjectivity can take place at (at least) two very different scales.  One is at the level of face-to-face interaction, and, indeed, a great deal of communication takes place in these venues: we shake hands, eat together, smile or frown at one another, laugh, cry, yell, fight, love, and so on.  When we are talking like this about our interactions with the immediately-present world and interactions within a given social setting, sociologists describe this as the **micro** level of analysis.
+
+::: column-margin
+**Micro-level** analysis focuses on face-to-face interactions with other people and interactions with the immediately present world.
+:::
+
+But as I've alluded to already, many phenomena sociologists care about exist at a higher level than just face-to-face interactions.  Think about "Stony Brook University," for instance. It's not *just* the buildings, faculty, students, and staff that make it up; instead, it is an "organization" that enforces durable patterns, and allows us to operate at a surprisingly-efficient level of coordination. Put differently, even if *one* section of SOC 105 was cancelled, SBU would continue to be a university, but at the same time, it could not be a university without having *some kind of* classes.  Taken together, a huge amount of the apparatus of modern life works like this, and collectively, sociologists call this level of analysis **macro**.
+
+::: column-margin
+**Macro-level** analysis focuses on scales of phenomena beyond the level of face-to-face, direct interaction with the world.
+:::
+
+One key area of sociological research today is how these two levels intersect [@martinSocialStructures2009], and whether or not they represent different ontological levels of social life [@hedstromDissectingSocialPrinciples2005].
 
 ### Agency and Structure
 
-`This is an application of the classic question of "do we have free will"?`
+At the level of our personal lives, we all have choices.  And when we organize collectively, those groups, too, can choose one course of action or another.  In turn, these choices can make a difference in our individual lives, or even on the fates of whole organizations or societies.  Sociologists call this process of making a difference in the world **agency** and the entities doing so **agents**.
+
+::: column-margin
+**Agency** is the capacity of some entity to make a difference in the world.
+:::
+
+Meanwhile, much of the social world also appears to us as constraint---it seems that our lots are set by factors outside of our control. For instance, it would nonsense in contemporary society for you to judge someone by saying "they should have picked their parents better!" This is because, of course, who we are born to (and, sociologically, the social class, national origin, race, and so on) is not chosen by us, but rather something we encounter as a given, and then must make our choices within that framework.  We call these kinds of factors in the world **structures** and usually thing of them as determining individual or collective social outcomes.
+
+::: column-margin
+**Structures** are patterned social phenomena that dtermien individual or collective outcomes.
+:::
 
 ### Social Order and Social Change
 
 `The two classic, "big" statements of this are Durkheim's dissertation book and Tonnies.`
 
-`Industrial capitalism and cultural modernity.`
+`Industrial capitalism and rationalization.`
 
 ## Key Theories in Contemporary Sociology
+
+### Symbolic Interactionism
+
+`Approach that emphasizes micro-interactions and the shared basis of meaning that makes coordinated social life possible.`
 
 ### Structural/Functionalism
 
@@ -127,16 +215,12 @@ One of the simplest and most direct, but also most notorious, concepts in sociol
 
 `Manifest and latent functions.`
 
-### Symbolic Interactionism
-
-`Approach that emphasizes micro-interactions and the shared basis of meaning that makes coordinated social life possible.`
-
 ### Conflict Theory/Marxism
 
 `A key agonistic theory emphasizing how society is internally conflicted over the interests of different social groups.  Most famously over positions in the political economy of capitalism.`
 
 ### Practice Theory
 
-
 ### Feminist and Intersectional Theory
 
+# References
