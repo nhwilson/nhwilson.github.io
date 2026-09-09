@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>3: Method(s) in Sociology – Stony Brook University SOC 105</title>
+<title>3: Theor(ies) and Method(s) in Sociology – Stony Brook University SOC 105</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,7 +26,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -83,6 +102,35 @@ gtag('js', new Date());
 gtag('config', 'G-1F9ZPDGGE0', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -123,7 +171,7 @@ gtag('config', 'G-1F9ZPDGGE0', { 'anonymize_ip': true});
   </li>  
         <li>
     <a class="dropdown-item" href="../chapters/Ch_3_Method.html">
- <span class="dropdown-text">3: Method(s) in Sociology</span></a>
+ <span class="dropdown-text">3: Theor(ies) and Method(s) in Sociology</span></a>
   </li>  
     </ul>
   </li>
@@ -209,14 +257,58 @@ gtag('config', 'G-1F9ZPDGGE0', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="Ch_3_Method.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#key-theories-in-contemporary-sociology" id="toc-key-theories-in-contemporary-sociology" class="nav-link" data-scroll-target="#key-theories-in-contemporary-sociology">Key Theories in Contemporary Sociology</a>
+  <ul class="collapse">
+  <li><a href="#micro-oriented-theoretical-traditions" id="toc-micro-oriented-theoretical-traditions" class="nav-link" data-scroll-target="#micro-oriented-theoretical-traditions">Micro-Oriented Theoretical Traditions</a>
+  <ul class="collapse">
+  <li><a href="#symbolic-interactionism" id="toc-symbolic-interactionism" class="nav-link" data-scroll-target="#symbolic-interactionism">Symbolic Interactionism</a></li>
+  <li><a href="#practice-theory" id="toc-practice-theory" class="nav-link" data-scroll-target="#practice-theory">Practice Theory</a></li>
+  </ul></li>
+  <li><a href="#macro-oriented-theoretical-traditions" id="toc-macro-oriented-theoretical-traditions" class="nav-link" data-scroll-target="#macro-oriented-theoretical-traditions">Macro-Oriented Theoretical Traditions</a>
+  <ul class="collapse">
+  <li><a href="#structuralfunctionalism" id="toc-structuralfunctionalism" class="nav-link" data-scroll-target="#structuralfunctionalism">Structural/Functionalism</a></li>
+  <li><a href="#conflict-theorymarxism" id="toc-conflict-theorymarxism" class="nav-link" data-scroll-target="#conflict-theorymarxism">Conflict Theory/Marxism</a></li>
+  </ul></li>
+  <li><a href="#exotic-newcomer-theoretical-traditions" id="toc-exotic-newcomer-theoretical-traditions" class="nav-link" data-scroll-target="#exotic-newcomer-theoretical-traditions">Exotic Newcomer Theoretical Traditions</a>
+  <ul class="collapse">
+  <li><a href="#field-theory" id="toc-field-theory" class="nav-link" data-scroll-target="#field-theory">Field Theory</a></li>
+  <li><a href="#black-feminist-and-intersectional-theory" id="toc-black-feminist-and-intersectional-theory" class="nav-link" data-scroll-target="#black-feminist-and-intersectional-theory">Black, Feminist and Intersectional Theory</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#some-sociological-methods" id="toc-some-sociological-methods" class="nav-link" data-scroll-target="#some-sociological-methods">Some Sociological Methods</a>
+  <ul class="collapse">
+  <li><a href="#ethnography" id="toc-ethnography" class="nav-link" data-scroll-target="#ethnography">Ethnography</a>
+  <ul class="collapse">
+  <li><a href="#ethnographic-analysis-reflexivity" id="toc-ethnographic-analysis-reflexivity" class="nav-link" data-scroll-target="#ethnographic-analysis-reflexivity">Ethnographic Analysis: Reflexivity</a></li>
+  </ul></li>
+  <li><a href="#experiments" id="toc-experiments" class="nav-link" data-scroll-target="#experiments">Experiments</a>
+  <ul class="collapse">
+  <li><a href="#experimental-analysis-ecological-validity" id="toc-experimental-analysis-ecological-validity" class="nav-link" data-scroll-target="#experimental-analysis-ecological-validity">Experimental Analysis: Ecological Validity</a></li>
+  </ul></li>
+  <li><a href="#quantitative-modeling" id="toc-quantitative-modeling" class="nav-link" data-scroll-target="#quantitative-modeling">Quantitative Modeling</a>
+  <ul class="collapse">
+  <li><a href="#key-statistical-terms" id="toc-key-statistical-terms" class="nav-link" data-scroll-target="#key-statistical-terms">Key Statistical Terms</a></li>
+  <li><a href="#quantitative-analysis-sampling-bias-and-embedded-data" id="toc-quantitative-analysis-sampling-bias-and-embedded-data" class="nav-link" data-scroll-target="#quantitative-analysis-sampling-bias-and-embedded-data">Quantitative Analysis: Sampling Bias and Embedded Data</a></li>
+  </ul></li>
+  <li><a href="#historical-and-comparative-sociology" id="toc-historical-and-comparative-sociology" class="nav-link" data-scroll-target="#historical-and-comparative-sociology">Historical and Comparative Sociology</a>
+  <ul class="collapse">
+  <li><a href="#historical-analysis-archival-silences" id="toc-historical-analysis-archival-silences" class="nav-link" data-scroll-target="#historical-analysis-archival-silences">Historical Analysis: Archival Silences</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="Ch_3_Method.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">3: Method(s) in Sociology</h1>
+<h1 class="title">3: Theor(ies) and Method(s) in Sociology</h1>
 </div>
 
 
@@ -233,10 +325,229 @@ gtag('config', 'G-1F9ZPDGGE0', { 'anonymize_ip': true});
 </header>
 
 
+<section id="introduction" class="level1 page-columns page-full">
+<h1>Introduction</h1>
+<p>In contemporary sociology, given the multitude of different epistemological viewpoints the discipline employs and ontological levels it addresses, scholars come from many different theoretical traditions and use several different methods. A full survey of these approaches is beyond the scope of any introduction to the field, so here I simply recount major families of theory that are still in use today, as well as different popular methods (with examples!)</p>
+<p>One last caveat about the nature of “methods” bears repeating. Contemporary critics of science tend to argue for a strict, even strident, division among key components of the <strong>research process</strong>: forbidding one’s personal commitments from influencing the selection of a research topic; demanding a strict separation of research design from data collection; and emphasizing that the <em>only</em> means to accrue “true” knowledge is via extremely stringent research designs (which are often impossible to construct except for certain topics). By contrast, along with the pluralist approach I emphasized in the <a href="../chapters/Ch_2_Discipline.html">last unit</a>, here too I stress the mixture of these different steps of the research process together. Put differently, it is rare indeed for a working scientist (social or otherwise) to obey a strict separation among the formulation of a question, designing a study, conducting it, analyzing data, and drawing conclusion. Instead, they are mixed together.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>The <strong>research process</strong> is a mixture of practices undertaken by scientists to learn about the social and material world. It includes formulating a question that can be answered empirically; designing a procedure to systematically answer the question with appropriate evidence; understanding what other scientists have argued about the question; and analyzing the data collected. These steps are usually treated as distinct, but in practice they are deeply intertwined with one another.</p>
+</div></div></section>
+<section id="key-theories-in-contemporary-sociology" class="level1 page-columns page-full">
+<h1>Key Theories in Contemporary Sociology</h1>
+<p>There are several noteworthy theoretical traditions in sociology today, and broadly, I group them into three pairs: two micro-sociological traditions, two macro-sociological traditions, and two “exotic newcomers,” by which I mean traditions which purport to resolve tensions in the older traditions, and which are the subject of intense discussion today.</p>
+<section id="micro-oriented-theoretical-traditions" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="micro-oriented-theoretical-traditions">Micro-Oriented Theoretical Traditions</h2>
+<p>I group these theories under the heading of “micro-oriented” because, as discussed in the <a href="../chapters/Ch_2_Discipline.html">last unit</a>, sociology generally focuses on two ontological levels. Accordingly, “micro-” theories tend to be based in, and focus their theorizing on, the plane of face-to-face interaction among people, and their direct interactions with the material world.</p>
+<section id="symbolic-interactionism" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="symbolic-interactionism">Symbolic Interactionism</h3>
+<p>The older of these two traditions is called “symbolic interactionism,” and was pioneered by Herbert Blumer <span class="citation" data-cites="blumerSymbolicInteractionismPerspective1986">(<a href="#ref-blumerSymbolicInteractionismPerspective1986" role="doc-biblioref"><strong>blumerSymbolicInteractionismPerspective1986?</strong></a>)</span>, who himself was a student of a classical sociological theorist at the University of Chicago named George Herbert Mead. This tradition draws from “pragmatism,” a philosophical tradition which asks how people in the world encounter, formulate, and overcome problems in their concrete actions.</p>
+<p>As an example of the pragmatist perspective, consider a recent (excellent) piece of science fiction that has been made into <a href="https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)">a movie</a>: <a href="https://en.wikipedia.org/wiki/Project_Hail_Mary"><em>Project Hail Mary</em></a><em>.</em> The story follows a human astronaut who is tasked with saving the planet Earth by traveling to a nearby star. While doing so, he encounters an alien on a parallel mission, who has radically different biology and no ability to make speech-like sounds. However, the two learn to communicate, solve engineering challenges together, and (SPIOLERS!) save both of their home planets.</p>
+<p>That these two beings from radically different biologies, cultures, and backgrounds learn to communicate illustrates a pragmatist perspective well. They do not worry about the ontology or epistemology of language before communicating; they are simply trying to solve problems (how to communicate, then how to save themselves and others) and communication is necessary for them to coordinate. Moreover, they don’t ask themselves what the <em>optimal</em> or <em>purest</em> form of communication is; instead, they go with “whatever works.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;<a href="https://www.youtube.com/watch?v=-mwLAjsdgVM&amp;t=107s">They begin</a> with shared behavior, then counting to establish a shared number system, and go from there.</p></div><div id="fn2"><p><sup>2</sup>&nbsp;In which I point at flames and yell “fire,” and you understand that the word “fire” represents those flames.</p></div><div id="fn3"><p><sup>3</sup>&nbsp;In which I draw a little stick figure on the board, and you understand that it represents a person, since it has a head, limbs, and so on.</p></div><div id="fn4"><p><sup>4</sup>&nbsp;In which I declare that, in the equation <span class="math display">\[Y = \beta_0 + \beta_1X_1 + \epsilon\]</span> <span class="math inline">\(\epsilon\)</span> stands for the error in coefficient estimation.</p></div></div><p>This pragmatist heritage demonstrates the central concepts of symbolic interactionism. In situations where people need to coordinate action—that is, in which they need to do something together, even if that “something” is to cohabit without conflict—they do this by <strong>interacting</strong>. And they do this by exchanging shared <strong>symbols.</strong> A symbol is simply a representation of another thing, encompassing everything from direct indexes,<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> to iconic representations,<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> to highly abstract conceptual representations<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<p>As you can imagine by these examples of the exchange of symbols, symbolic interaction <em>heavily</em> privileges micro-interactions. As shown by another famous symbolic interactionist, Erving Goffman <span class="citation" data-cites="goffmanFrameAnalysisEssay1974">(<a href="#ref-goffmanFrameAnalysisEssay1974" role="doc-biblioref">1974</a>)</span>, these interactions can become highly elaborate, including everything from simple interactions based on eye contact all the way to elaborate ruses in which some people are “keyed into” the nature of the con, while others are unwitting “marks.” However, these interactions, for symbolic interactionists, are irredicible to the intentions of any one person involved in them; instead, they are governed by emergent <strong>frames</strong> which define what the interaction is “about.” As we will discuss more in <a href="../chapters/Ch_5_Interaction.html">unit 5</a>, symbolic interactionists see modern social life as made up of the intersection of innumerable frames for understanding situations, but for now, it will suffice to note that they think that <em>every</em> social interaction must have at least one frame.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><strong>Interactions</strong> are exchanges of shared meanings. <strong>Symbols</strong> are representations of one thing by means of another, including words, pictures, gestures, and material structures. <strong>Frames</strong> are shared meanings that define the nature of a particular set of interactions.</p>
+</div></div></section>
+<section id="practice-theory" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="practice-theory">Practice Theory</h3>
+<p>One drawback of symbolic interactionism, even when taken as a limited micro-theory of social action, is that it depends (at least implicitly) on relatively explicit and discursively elaborated symbolic meanings.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a> However, much evidence from socialization and action in the world suggests that this is not true, and that instead, people depend on stocks of “tacit knowledge” that they can’t necessarily articulate, but which form the foundation of social action <span class="citation" data-cites="collinsTacitExplicitKnowledge2010 polanyiPersonalKnowledgePostCritical1962">(<a href="#ref-collinsTacitExplicitKnowledge2010" role="doc-biblioref">Collins 2010</a>; <a href="#ref-polanyiPersonalKnowledgePostCritical1962" role="doc-biblioref">Polanyi 1962</a>)</span>.</p>
+<div class="no-row-height column-margin column-container"><div id="fn5"><p><sup>5</sup>&nbsp;This is a fancy way of saying “all components of the interaction and what is being exchanged can be epressed in symbols.”</p></div></div><p>To address this shortcoming, a school of micro-analysis has grown up around the study of “practice,” and is usually now identified with the work of Pierre Bourdieu <span class="citation" data-cites="bourdieuOutlineTheoryPractice1977 bourdieuInvitationReflexiveSociology1992">(<a href="#ref-bourdieuInvitationReflexiveSociology1992" role="doc-biblioref">Bourdieu and Wacquant 1992</a>; <a href="#ref-bourdieuOutlineTheoryPractice1977" role="doc-biblioref"><strong>bourdieuOutlineTheoryPractice1977?</strong></a>)</span>. The central idea of practice theory is that it is inadequate to only study the symbols expressed by people in interactions, one must also observe what they <em>do</em> in the material world <span class="citation" data-cites="lizardoImprovingCulturalAnalysis2017">(<a href="#ref-lizardoImprovingCulturalAnalysis2017" role="doc-biblioref">Lizardo 2017</a>)</span>. Thus, for instance, one might <em>say</em> during an interview that they are committed to abstaining from drug use, but if you <em>observe</em> them and their environment, you might find evidence that belies this declaration <span class="citation" data-cites="jerolmackTalkCheapEthnography2014">(<a href="#ref-jerolmackTalkCheapEthnography2014" role="doc-biblioref">Jerolmack and Khan 2014</a>)</span>.</p>
+<p>Notably, the assertion of practice theory is <em>not</em> that these implicit orientations to the world, expressed in practices, are not socialized; rather, it is the realist argument that there are socialized dispositions towards the world that are expressed, and can only be observed, in nondiscursive ways.</p>
+</section>
+</section>
+<section id="macro-oriented-theoretical-traditions" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="macro-oriented-theoretical-traditions">Macro-Oriented Theoretical Traditions</h2>
+<p>As I have emphasized already, social life contains at least two levels of analysis. Consequently for our purposes here, another pair of theories have emerged to address macro-phenomena, and like micro-oriented theories, they two are partially responsive to one another.</p>
+<section id="structuralfunctionalism" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="structuralfunctionalism">Structural/Functionalism</h3>
+<p>A first macro-theory grew up to explain how society “holds together” given its modern complexity. This tradition is usually identified with Emile Durkheim, who wrote a famous book arguing that modern societies were held together by their economic “division of labor” which made people interdependent on one another <span class="citation" data-cites="durkheimDivisionLaborSociety1997">(<a href="#ref-durkheimDivisionLaborSociety1997" role="doc-biblioref">Durkheim 1997</a>)</span>. To understand how and why a person doing a certain job was able to survive without doing <em>everything</em> for their own subsistence, as well as how the social fabric as a whole stayed woven together, for theorists like Durkheim, you had to consider the form taken by the overall social <em>structure</em> as well as the <em>function</em> of any given phenomenon for the overall “health” of that structure. Accordingly, this tradition is usually called “structural functionalism.”</p>
+<p>When taken up in the middle of the Twentieth Century as the dominant theoretical approach in American sociology, structural functionalist explanations became highly elaborate. Talcott Parsons, for instance, elaborated a description of society (which he claimed to be basically complete) which accounted for all major contemporary social phenomena—the family, schooling, war, economic behavior, religion, and so on—according to how they “integrated” people into social structures and contributed to the overall continuity of society <span class="citation" data-cites="parsonsSocialSystem1951">(<a href="#ref-parsonsSocialSystem1951" role="doc-biblioref">Parsons 1951</a>)</span>.</p>
+<p>Crucially, these functions relative to the overall functioning of society need not be known to the people undertaking them; instead, Robert Merton distinguished between <strong>manifest</strong> and <strong>latent</strong> functions <span class="citation" data-cites="mertonSocialTheorySocial1968">(<a href="#ref-mertonSocialTheorySocial1968" role="doc-biblioref">Merton 1968</a>)</span>. A manifest function <em>is</em> the function known to a group—a sports team, for instance, wants to win a game or have a successful season, and therefore undertakes intensive practices together to do so. But these practices also have a latent function, which the players and coaches may only be aware of in retrospect, if at all—the practices together bond the team and embed them in social relations that may endure well beyond the season or their participation in the sport, and which socialize them into disciplined work and coordinated social action.</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>A <strong>manifest</strong> function of an activity is one that participants are aware of. A <strong>latent</strong> function of an acitivity is one that participants are not aware of.</p>
+</div></div></section>
+<section id="conflict-theorymarxism" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="conflict-theorymarxism">Conflict Theory/Marxism</h3>
+<p>As is evident from the above discussion, structural functionalism, heavily emphasized the overall continuity and stability of society, as well as the role every individual plays in sustaining that order.<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> In light of these oversights, and the manifest social conflict that emerged globally in the 20th century, another macro-tradition found traction in sociology. Whereas structural functionalism (and, to a lesser extent, symbolic interactionism as well) emphasized the overall nature of social structures being driven by <em>consensus</em> around shared meanings and the overall health of society, this tradition emphasized that societies are characterized by ongoing <em>conflict</em> among different groups within them.</p>
+<div class="no-row-height column-margin column-container"><div id="fn6"><p><sup>6</sup>&nbsp;Structural functionalism <em>did</em> claim to account for activities that didn’t contribute to overall social order, labeling them “dysfunctional.” However, they were criticized for failing to provide a satisfying account of what made activity dysfunctional, and when such activities could be expected to appear.</p></div></div><p>Conflict theories are usually traced to the writings of Karl Marx <span class="citation" data-cites="tuckerMarxEngelsReader1989">(<a href="#ref-tuckerMarxEngelsReader1989" role="doc-biblioref">Tucker 1989</a>)</span>, thought this heritage only became explicit after anti-communist fervor in the United States faded by the 1970s <span class="citation" data-cites="burawoySociologicalMarxismComplementary2003">(<a href="#ref-burawoySociologicalMarxismComplementary2003" role="doc-biblioref">Burawoy 2003</a>)</span>. Rather than a particular activity contributing to the overall health of society, instead it reflected the pursuit of interests of one group within society, often in conflict with the interests of other groups. Most famously, Marx theorized that this was the central dynamic of capitalism: owners of the means of production, called capitalists, sought to maximize their profits at the expense of workers, called the proletariat. Over time (debatably, as it happens), Marx thought that this conflict would worsen social inequalities, but it temporarily held society together in a kind of stalemate to the extent that the most powerful group in society could simply impose its will on others—or persuade them that their real interests were not in fact “really” what was best for them <span class="citation" data-cites="laclauHegemonySocialistStrategy1985">(<a href="#ref-laclauHegemonySocialistStrategy1985" role="doc-biblioref">Laclau and Mouffe 1985</a>)</span>.</p>
+<p>Marx’s theory, which is by far the most famous conflict theory, remains heavily economic, by other conflict theories, as well as contemporary Marxist theorizing, both relax the <em>direct</em> connection between economic organization and social conflict. C. Wright Mills, for instance, theorized that the “Power Elite” spanned all relevant social institutions, not just economic ones <span class="citation" data-cites="millsPowerElite2000">(<a href="#ref-millsPowerElite2000" role="doc-biblioref">Mills 2000</a>)</span>, and neo-Marxist theorists now emphasize how domination of society by one group and its interests is a complex political, cultural, and economic process <span class="citation" data-cites="jagerHyperpoliticsExtremePoliticization2026">(<a href="#ref-jagerHyperpoliticsExtremePoliticization2026" role="doc-biblioref">Jäger 2026</a>)</span>.</p>
+</section>
+</section>
+<section id="exotic-newcomer-theoretical-traditions" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="exotic-newcomer-theoretical-traditions">Exotic Newcomer Theoretical Traditions</h2>
+<p>I label these “exotic newcomer” traditions not because they are temporally new, but rather for two reasons.</p>
+<ol type="1">
+<li>They both purport to address central oversights of the previous four major traditions and claim to be doing so in new ways, and</li>
+<li>While they both have long intellectual histories, it is only relatively recently that they have achieved widespread recognition within sociology’s disciplinary mainstream.</li>
+</ol>
+<section id="field-theory" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="field-theory">Field Theory</h3>
+<p>The first newcomer is “field theory.” Derived in part from the work of Pierre Bourdieu above, field theory argues for, rather than a micro- or macro-perspective, a “meso-” or middle-range view of social structure. The central concept is the <strong>field</strong>, which is a social space in which actors (people, organizations, or even states) orient themselves towards one another and, together, struggle over the meaning of their shared action <span class="citation" data-cites="martinWhatFieldTheory2003a">(<a href="#ref-martinWhatFieldTheory2003a" role="doc-biblioref">Martin 2003</a>)</span>. Moreover, fields are populated by “incumbents”—who have been in the field for a long time and usually have accrued a dominant position within it—and “newcomers”—who have entered the field recently and are struggling for recognition and power within it <span class="citation" data-cites="fligsteinTheoryFields2012">(<a href="#ref-fligsteinTheoryFields2012" role="doc-biblioref">Fligstein and McAdam 2012</a>)</span>.</p>
+<p>Let’s say you want to become an influencer. Unlike symbolic interactionism, you’re not <em>directly</em> interacting with all other influencers, but rather, to the extent you learn about being one, you’re aware of the different kinds of influencers, how they do it, and you have ideas about the audiences they reach by doing so. In other words, you’re a member of the <em>field</em> of influencers, and to the extent you do it and are successful, you might even become a model for others. And if the field itself is changing rapidly, you might creatively (based on your knowledge, history, and the substance of what you’re trying to be an influencer about) form a new kind of practice that gets recognized as being “an influencer.”<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a> In this case, the shared frame for understanding your action is <em>not</em> face-to-face or micro-scale (as in symbolic interaction) <em>nor</em> are the actions of groups within it directly tied to their interests in society as a whole or society’s overall functioning (as in macro-perspectives).</p>
+<div class="no-row-height column-margin column-container"><div id="fn7"><p><sup>7</sup>&nbsp;This may be hard to believe, but there was a time when there was no such thing as “health influencers” or “fashion influencers.” These ways of being an influencer had to be invented.</p></div></div></section>
+<section id="black-feminist-and-intersectional-theory" class="level3">
+<h3 class="anchored" data-anchor-id="black-feminist-and-intersectional-theory">Black, Feminist and Intersectional Theory</h3>
+<p>Last, but far from least, among our theoretical traditions is the black, feminist, and intersectional tradition. These are grouped together because they share a common insight, often said to be built from DuBois’ work on reflexivity and double-consciousness. It begins from the emphatic rejection of the “<a href="../chapters/Ch_2_Discipline.html">view from nowhere</a>” that is sometimes taken to be core of the scientific approach. Instead, from either the foundations of racial experience, or that of women <span class="citation" data-cites="hardingDiscoveringRealityFeminist2003">(<a href="#ref-hardingDiscoveringRealityFeminist2003" role="doc-biblioref">Harding and Hintikka 2003</a>)</span>, these approaches criticize the supposedly “universal” view of phenomena purportedly offered by mainstream sociology.</p>
+<p>This style of theorizing makes three basic interventions in sociology:</p>
+<ol type="1">
+<li>It argues that to do good sociology, you need as diverse a group of sociologists as you can find. This is because more diversity in viewpoints fosters motivation to study perhaps-overlooked phenomena <span class="citation" data-cites="kellertScientificPluralism2006">(<a href="#ref-kellertScientificPluralism2006" role="doc-biblioref">Kellert, Longino, and Waters 2006</a>)</span>.</li>
+<li>It also argues that, at the level of policy interventions into society (whether by governments or by social movements advocating for change), groups must be considered along the intersection of <em>all</em> salient social categories, and not just those supposedly in common to them <span class="citation" data-cites="collinsBlackFeministThought2002">(<a href="#ref-collinsBlackFeministThought2002" role="doc-biblioref">Collins 2002</a>)</span>. (In other words, for instance, black women may have substantially different interests than white women, and a coalition advocating for both groups cannot simply assume that white women’s concerns are the same as <em>all</em> women’s concerns.)</li>
+<li>It also argues that the direct experience of individual people, and particularly <em>marginalized</em> people, is a crucial form of sociological evidence.</li>
+</ol>
+</section>
+</section>
+</section>
+<section id="some-sociological-methods" class="level1 page-columns page-full">
+<h1>Some Sociological Methods</h1>
+<p>There are a variety of methods employed in sociology, each of which has a different relationship to our direct sensory experience. (Put differently, in the language of <a href="../chapters/Ch_2_Discipline.html">unit 2</a>, each expresses a different variety of realism and departs from naive empiricism.)</p>
+<section id="ethnography" class="level2">
+<h2 class="anchored" data-anchor-id="ethnography">Ethnography</h2>
+<p>The first method I will discuss is ethnography, which is oriented fundamentally around observing social phenomena as they take place, as closely as it is feasible for the scholar to do. This may include observation of social interactions or direct participation in them, and may mean conducting formal interviews with people or undertaking the same practices they do to get a sense of how their social locations shape their outlooks and behaviors.</p>
+<p>One excellent recent example of ethnography comes from Stony Brook’s own department, in the work of Alex Diamond <span class="citation" data-cites="diamondGoverningExcluded2026">(<a href="#ref-diamondGoverningExcluded2026" role="doc-biblioref"><strong>diamondGoverningExcluded2026?</strong></a>)</span>. In his research of the demilitarizing peace process in war-torn Colombia, Alex lived in a small rural village and interviewed farmers and state officials as the Colombian government tried to wean the farmers from growing coca (the key raw component of cocaine).</p>
+<section id="ethnographic-analysis-reflexivity" class="level3">
+<h3 class="anchored" data-anchor-id="ethnographic-analysis-reflexivity">Ethnographic Analysis: Reflexivity</h3>
+<p>A key challenge in ethnographic research is maintaining reflexivity; after all, if the goal of the researcher is to directly embed themselves in an ongoing phemonenon, it can be difficult to tell (1) if what they are observing is particular to a given instance of that phenomenon or characertistic of it as a whole; and (2) whether certain aspects of what the ethnographer is observing are a product of their involvement and the presence of the social categories they represent.</p>
+</section>
+</section>
+<section id="experiments" class="level2">
+<h2 class="anchored" data-anchor-id="experiments">Experiments</h2>
+<p>Next, sociologists rarely, but increasingly, conduct experiments. The fundamental logic of an experiment rests on intervening in the world and then observing the difference in outcomes with and without your intervention. More elaborate experimental designs try to narrow the scope of interventions to just a single mechanism in the world, often by strictly controlling every possible factor in the setting of the experiment.</p>
+<p>One of the most famous examples of a sociological experiment was conducted by Devah Pager <span class="citation" data-cites="pagerMarkCriminalRecord2003">(<a href="#ref-pagerMarkCriminalRecord2003" role="doc-biblioref">Pager 2003</a>)</span>. In this “experimental audit,” she sought to understand the social costs of having a criminal record. Accordingly, she took college-student volunteers, and asked them to apply for entry-level jobs. (The measure used was whether they were even called for an interview; the experiment did no go farther for many reasons.) She divided the volunteers into white and black applicants, and then created identical resumes for applicants, save for one difference: whether they had a non-violent petty drug arrest on their record. Famously, those with an arrest record received fewer call-backs than those without (as one might expect), but also, black men <em>without</em> an arrest record were less likely to receive a callback than white men <em>with</em> an arrest record. (This is an especially powerful finding because, remember, all other aspects of their resumes were functionally identical; <em>only</em> their race and arrest records differed.)</p>
+<section id="experimental-analysis-ecological-validity" class="level3">
+<h3 class="anchored" data-anchor-id="experimental-analysis-ecological-validity">Experimental Analysis: Ecological Validity</h3>
+<p>One challenge for experimental studies is that it is rarely “neutral” to analytically reduce a phenomenon to a single mechanism. For instance, in famous and controversial studies of students’ “grit” <span class="citation" data-cites="duckworth2007grit">(<a href="#ref-duckworth2007grit" role="doc-biblioref"><strong>duckworth2007grit?</strong></a>)</span>, however carefully psychologists may try to isolate a student’s “passion” and “perseverance” from other social and psychological factors, the very experimental setups (involving carefully monitoring students over long periods to judge their long-term outcomes) are themselves forms of intervention that tend to privilege certain kinds of students over others to even participate in the study in the first place. This problem of a experiment’s findings being “valid” (which is to say, actually a measurement of what you think you are measuring) within an experiment but being far more questionable in complex social reality is usually called the problem of “ecological validity.”</p>
+</section>
+</section>
+<section id="quantitative-modeling" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="quantitative-modeling">Quantitative Modeling</h2>
+<p>Another class of methods in sociology depend on the quantification of social phenomena, and then the subjection of that quantified data to modeling. By “modeling,” I simply mean a formal mathematical statement about the relationship between two measurements in the world. (Thus this includes all statistical techniques, whether they are relatively simple ones that you will learn in undergraduate methods like regression, testing the difference in means for two populations, or highly elaborate forms of non-parametric regression, Bayesian parameter estimation, or random-forest regression.) In other words, the key ideas of quantitative modeling are that the world can be observed and then represented numerically, and that those numerical representations either “hang together” if the pheneomena they represent are related to one another, or do no express a relationship, if the phenomena are unrelated.</p>
+<p>As you can see from a classic sociological study, which was based on a set of surveys of young people in the American midwest over the course of their lives from high school until well into their careers <span class="citation" data-cites="sewell1972causes">(<a href="#ref-sewell1972causes" role="doc-biblioref"><strong>sewell1972causes?</strong></a>)</span>, it is possible to represent the (hypothesized) relationship among different variables through elaborate diagrams.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/3_Sewell_Hauser_Fig_1.png" class="img-fluid figure-img"></p>
+<figcaption>Sewell and Hauser 1972, Figure 1. Diagram of Correlational Model Explaining the Relationship Between High-School Aspirations and Career Achievement.</figcaption>
+</figure>
+</div>
+<p>And, further, the power of quantitative modeling comes into its full force when we can see that <em>each</em> of these hypothesized mathematical relationships among different social factors can, in turn, be directly estimated using the survey data underlying the study.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/3_Sewell_Hauser_Table_1.png" class="img-fluid figure-img"></p>
+<figcaption>Sewell and Hauser 1972, Table 1. Table Enumerating Correlation Coefficients Between Factors in Achievement Model.</figcaption>
+</figure>
+</div>
+<section id="key-statistical-terms" class="level3">
+<h3 class="anchored" data-anchor-id="key-statistical-terms">Key Statistical Terms</h3>
+<p>While we are “here” in the land of quantiative modeling, let me briefly discuss a few key statistical terms that, whether or not you go on to study statistics further, will be of use in your everyday public literacy and numeracy.</p>
+<p>First, there is a group of <strong>measures of central tendency</strong> which are typically confused with one another: mean, mode, and median. The <strong>mean</strong> is usually the simple average of a group of numbers: you sum them up, then divide by the number of observations. The <strong>mode</strong>, meanwhile, is the most freqently occuring observation. The <strong>median</strong>, finally, is the “middle” observations of a group of observations ordered from lowest to highest.</p>
+<p>Additionally, there is a <strong>measure of dispersion</strong> that is commonly referred to in quantitative discussions: the standard deviation of the data. The computation of this number is beyond the scope of this course (but <a href="https://en.wikipedia.org/wiki/Standard_deviation">not <em>that</em> complicated</a>), but it essentially refers to how “spread out” the data is around its mean. The <em>higher</em> the standard deviation, the more spread out the data is, and the <em>lower</em> the standard deviation, the more concentrated it is around the mean.</p>
+<p>Finally, you’ll notice that in Sewell and Hauser table 1, each of the relationships among the variable is represented by a number. The is is the <strong>correlation coefficient</strong> of the two variables. Again, for our (simplistic) purposes, this is a single number that describes how reliably you can know the state of one variable if you know the state of the other. Correlations run from -1 to 1, where, if the coefficient is -1, the variables are said to be “negatively correlated,” and an increase in one variable will lead to a (mathematically perfect) decrease in the other. If it is 1, but contrast, the variables are perfectly “positively correlated,” and increasing one will increase the other. In between those two numbers, the relationship between the two variables is imperfect, but knowing the state of one variable tells you <em>something</em> about the state of the other.</p>
+<p><img src="../images/3_correlation.png" class="img-fluid"></p>
+<p>As a coda, it is well worth remembering: read all of the information provided to you in a table or figure! It often tells you a great deal (almost as much as reading the text) about the information being presented to you!</p>
+</section>
+<section id="quantitative-analysis-sampling-bias-and-embedded-data" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="quantitative-analysis-sampling-bias-and-embedded-data">Quantitative Analysis: Sampling Bias and Embedded Data</h3>
+<p>Among sociology’s methods, quantitative modeling has the (in my view, unearned) reputation for being the most technically precise and difficult to master. However, like any other method, it confronts key challenges. The first is that it fundamentally cannot observe actual causation; instead, it is limited to (more or less sophisticated) <em>inference of</em> causal mechanisms given observed correlations. Thus, quantitative modeling is cursed to pursue something it can never achieve.</p>
+<p>Second, the correlations that we <em>can</em> observe are only as informative as the data collected in the first place. This is true no matter what statistical wizardry is brought to bear—there is <em>no</em> foolproof way to “make up for” poorly-conducted surveys or a badly-formulated operationalization<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a> of a variable.</p>
+<div class="no-row-height column-margin column-container"><div id="fn8"><p><sup>8</sup>&nbsp;In this context, “operationalization” is just a fancy word for “taking a concept and then deciding how to concretely measure it.” For instance, in the figure above, we want to know how “fuel-efficient” a car is, but have a variety of different ways we could assess that. We chose miles-per-gallon, and thus “operationalized” the concept of fuel-efficiency.</p></div></div></section>
+</section>
+<section id="historical-and-comparative-sociology" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="historical-and-comparative-sociology">Historical and Comparative Sociology</h2>
+<p>Last, and best, sociologists also use historical and comparative methods! This family of methods uses information form the human past (whether published records, archival materials, oral histories, or even the writings of historians themselves) as the source of data for their investigations. These data can span all of recorded human history, and often emphasize <em>comparing</em> at least two different phenomena to explain why their outcomes were different or similar to one another.<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn9"><p><sup>9</sup>&nbsp;If you want to know more, I wrote a book with a colleague about this! See <span class="citation" data-cites="mayrlComparisonPositivism2024">Mayrl and Wilson (<a href="#ref-mayrlComparisonPositivism2024" role="doc-biblioref">2024</a>)</span>.</p></div></div><p>A <em>wonderful</em> recent example of historical and comparative sociology was published by Anna Skarpelis <span class="citation" data-cites="skarpelisHorrorVacuiRacial2023">(<a href="#ref-skarpelisHorrorVacuiRacial2023" role="doc-biblioref">2023</a>)</span>, who investigated the way that the Nazi regime thought about race. Using careful archival work to examine the Nazi’s “photo books,” Skarpelis finds that the Nazi’s agonized over the fact that many members of the “master race” did not resemble the fair-haired, handsome and pretty imagery often seen in Nazi propaganda. The photo books at the heart of Skarpelis’ study sought to “demonstrate” how what people thought was a too-big nose or dark hair was “really” a representation of another form of Aryan heritage, thus resolving a key contradiction in the racial regime the Nazi’s were trying to construct.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../images/3_archival_example.png" class="img-fluid figure-img"></p>
+<figcaption>An example of archival material for historical sociology.</figcaption>
+</figure>
+</div>
+<section id="historical-analysis-archival-silences" class="level3">
+<h3 class="anchored" data-anchor-id="historical-analysis-archival-silences">Historical Analysis: Archival Silences</h3>
+<p>Like quantitative modeling, the key challenges for historical and comparative sociology as a method revolve around its access to data. On the one hand, historical sociologists are limited to what archival materials actually exist in the archival record, which, unfortunately, often does not record marginalized communities directly <span class="citation" data-cites="trouillotSilencingPowerProduction1995 stoler2009a">(<a href="#ref-stoler2009a" role="doc-biblioref">Stoler 2009</a>; <a href="#ref-trouillotSilencingPowerProduction1995" role="doc-biblioref"><strong>trouillotSilencingPowerProduction1995?</strong></a>)</span>. On the other hand, and this is something that is less discussed in the method, historical sociologists can also sometimes have <em>too much</em> data. The amount of historical work produced about the Holocaust, for example, or the Russian Revolution, is nearly infinite, and you could spend your whole life just reading about either <span class="citation" data-cites="abbottDemographyScholarlyReading2016">(<a href="#ref-abbottDemographyScholarlyReading2016" role="doc-biblioref">Abbott 2016</a>)</span>. Accordingly, historical sociologists must almost always make decisions not only about where to <em>start</em> their data collection, but also, eventually, where to <em>stop</em> it.</p>
 
 
 
-</main> <!-- /main -->
+</section>
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-abbottDemographyScholarlyReading2016" class="csl-entry" role="listitem">
+Abbott, Andrew. 2016. <span>“The <span>Demography</span> of <span>Scholarly Reading</span>.”</span> <em>The American Sociologist</em> 47(2):302–18. doi:<a href="https://doi.org/10.1007/s12108-016-9315-z">10.1007/s12108-016-9315-z</a>.
+</div>
+<div id="ref-bourdieuInvitationReflexiveSociology1992" class="csl-entry" role="listitem">
+Bourdieu, Pierre, and Loic J. D. Wacquant. 1992. <em>An <span>Invitation</span> to <span>Reflexive Sociology</span></em>. Chicago: University of Chicago Press.
+</div>
+<div id="ref-burawoySociologicalMarxismComplementary2003" class="csl-entry" role="listitem">
+Burawoy, Michael. 2003. <span>“For a <span>Sociological Marxism</span>: <span>The Complementary Convergence</span> of <span>Antonio Gramsci</span> and <span>Karl Polanyi</span>.”</span> <em>Politics &amp; Society</em> 31(2):193–261. doi:<a href="https://doi.org/10.1177/0032329203252270">10.1177/0032329203252270</a>.
+</div>
+<div id="ref-collinsTacitExplicitKnowledge2010" class="csl-entry" role="listitem">
+Collins, H. M. 2010. <em>Tacit and Explicit Knowledge</em>. Chicago ; London: The University of Chicago Press.
+</div>
+<div id="ref-collinsBlackFeministThought2002" class="csl-entry" role="listitem">
+Collins, Patricia Hill. 2002. <em>Black <span>Feminist Thought</span>: <span>Knowledge</span>, <span>Consciousness</span>, and the <span>Politics</span> of <span>Empowerment</span></em>. Routledge.
+</div>
+<div id="ref-durkheimDivisionLaborSociety1997" class="csl-entry" role="listitem">
+Durkheim, Émile. 1997. <em>The <span>Division</span> of <span>Labor</span> in <span>Society</span></em>. New York: <span>Simon and Schuster</span>.
+</div>
+<div id="ref-fligsteinTheoryFields2012" class="csl-entry" role="listitem">
+Fligstein, Neil, and Doug McAdam. 2012. <em>A <span>Theory</span> of <span>Fields</span></em>. Oxford: Oxford University Press.
+</div>
+<div id="ref-goffmanFrameAnalysisEssay1974" class="csl-entry" role="listitem">
+Goffman, Erving. 1974. <em>Frame Analysis: <span>An Essay</span> on the <span>Organization</span> of <span>Experience</span></em>. New York: Harper &amp; Row.
+</div>
+<div id="ref-hardingDiscoveringRealityFeminist2003" class="csl-entry" role="listitem">
+Harding, Sandra G., and Merrill B. Hintikka. 2003. <em>Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science</em>. 2nd ed. Synthese Library. Dordrecht [Netherlands]: Kluwer Academic Publishers.
+</div>
+<div id="ref-jagerHyperpoliticsExtremePoliticization2026" class="csl-entry" role="listitem">
+Jäger, Anton. 2026. <em>Hyperpolitics: <span>Extreme Politicization</span> Without <span>Political Consequences</span></em>. Brooklyn: Verso.
+</div>
+<div id="ref-jerolmackTalkCheapEthnography2014" class="csl-entry" role="listitem">
+Jerolmack, Colin, and Shamus Khan. 2014. <span>“Talk <span>Is Cheap</span>: <span>Ethnography</span> and the <span>Attitudinal Fallacy</span>.”</span> <em>Sociological Methods &amp; Research</em> 43(2):178–209. doi:<a href="https://doi.org/10.1177/0049124114523396">10.1177/0049124114523396</a>.
+</div>
+<div id="ref-kellertScientificPluralism2006" class="csl-entry" role="listitem">
+Kellert, Stephen H., Helen E. Longino, and C. Kenneth Waters, eds. 2006. <em>Scientific Pluralism</em>. Minnesota Studies in the Philosophy of Science. Minneapolis, MN: University of Minnesota Press.
+</div>
+<div id="ref-laclauHegemonySocialistStrategy1985" class="csl-entry" role="listitem">
+Laclau, Ernesto, and Chantal Mouffe. 1985. <em><a href="https://doi.org/10.1515/9781474472593-004">Hegemony and <span>Socialist Strategy</span></a></em>. New York: Verso.
+</div>
+<div id="ref-lizardoImprovingCulturalAnalysis2017" class="csl-entry" role="listitem">
+Lizardo, Omar. 2017. <span>“Improving <span>Cultural Analysis</span>: <span>Considering Personal Culture</span> in Its <span>Declarative</span> and <span>Nondeclarative Modes</span>.”</span> <em>American Sociological Review</em> 82(1):88–115. doi:<a href="https://doi.org/10.1177/0003122416675175">10.1177/0003122416675175</a>.
+</div>
+<div id="ref-martinWhatFieldTheory2003a" class="csl-entry" role="listitem">
+Martin, John Levi. 2003. <span>“What <span>Is Field Theory</span>?”</span> <em>American Journal of Sociology</em> 109(1):1–49. doi:<a href="https://doi.org/10.1086/375201">10.1086/375201</a>.
+</div>
+<div id="ref-mayrlComparisonPositivism2024" class="csl-entry" role="listitem">
+Mayrl, Damon, and Nicholas Hoover Wilson, eds. 2024. <em>Comparison <span>After Positivism</span></em>. New York: Columbia University Press.
+</div>
+<div id="ref-mertonSocialTheorySocial1968" class="csl-entry" role="listitem">
+Merton, Robert K. 1968. <em>Social <span>Theory</span> and <span>Social Structure</span></em>. Revised Edition. New York: Free Press.
+</div>
+<div id="ref-millsPowerElite2000" class="csl-entry" role="listitem">
+Mills, C. Wright. 2000. <em>The <span>Power Elite</span></em>. New York: Oxford University Press.
+</div>
+<div id="ref-pagerMarkCriminalRecord2003" class="csl-entry" role="listitem">
+Pager, Devah. 2003. <span>“The <span>Mark</span> of a <span>Criminal Record</span>.”</span> <em>American Journal of Sociology</em> 108(5):937–75. doi:<a href="https://doi.org/10.1086/374403">10.1086/374403</a>.
+</div>
+<div id="ref-parsonsSocialSystem1951" class="csl-entry" role="listitem">
+Parsons, Talcott. 1951. <em>The <span>Social System</span></em>. Glencoe, Ill.: Free Press.
+</div>
+<div id="ref-polanyiPersonalKnowledgePostCritical1962" class="csl-entry" role="listitem">
+Polanyi, Michael. 1962. <em>Personal <span>Knowledge</span>: <span>Towards</span> a <span>Post-Critical Philosophy</span></em>. Chicago: University of Chicago Press.
+</div>
+<div id="ref-skarpelisHorrorVacuiRacial2023" class="csl-entry" role="listitem">
+Skarpelis, A. K. M. 2023. <span>“Horror <span>Vacui</span>: <span>Racial Misalignment</span>, <span>Symbolic Repair</span>, and <span>Imperial Legitimation</span> in <span>German National Socialist Portrait Photography</span>.”</span> <em>American Journal of Sociology</em> 129(2):313–83. doi:<a href="https://doi.org/10.1086/727562">10.1086/727562</a>.
+</div>
+<div id="ref-stoler2009a" class="csl-entry" role="listitem">
+Stoler, Ann Laura. 2009. <em>_<span>Along</span> the Archival Grain: <span>Epistemic</span> Anxieties and Colonial Common Sense_</em>. Princeton: Princeton University Press.
+</div>
+<div id="ref-tuckerMarxEngelsReader1989" class="csl-entry" role="listitem">
+Tucker, Robert C., ed. 1989. <em>The <span>Marx-Engels Reader</span></em>. W W Norton &amp; Company Incorporated.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
