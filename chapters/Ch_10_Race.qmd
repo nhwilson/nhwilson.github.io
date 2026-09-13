@@ -14,4 +14,3 @@ csl: ../american-sociological-association.csl
 toc: False
 ---
 
-# 
