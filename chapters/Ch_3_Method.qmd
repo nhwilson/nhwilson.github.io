@@ -162,8 +162,23 @@ Additionally, there is a **measure of dispersion** that is commonly referred to 
 
 Finally, you'll notice that in Sewell and Hauser table 1, each of the relationships among the variable is represented by a number. The is is the **correlation coefficient** of the two variables. Again, for our (simplistic) purposes, this is a single number that describes how reliably you can know the state of one variable if you know the state of the other. Correlations run from -1 to 1, where, if the coefficient is -1, the variables are said to be "negatively correlated," and an increase in one variable will lead to a (mathematically perfect) decrease in the other. If it is 1, but contrast, the variables are perfectly "positively correlated," and increasing one will increase the other. In between those two numbers, the relationship between the two variables is imperfect, but knowing the state of one variable tells you *something* about the state of the other.
 
-![](../images/3_correlation.png)
+```{r correlation demonstration, echo = F, message = F}
 
+library(tidyverse)
+
+data(mtcars)
+
+mtcars %>%
+  ggplot(aes(x = hp, y = mpg)) +
+  geom_point() +
+  labs(title = "An Example of Negatively Correlated Data",
+       subtitle = "From R's 'mtcars' dataset",
+       caption = "If you're curious, the correlation coefficient is -0.77.") +
+  xlab("Horsepower of a Car's Engine") +
+  ylab("Fuel-Efficiency (MPG) of a Car's Engine") +
+  theme_minimal()
+
+```
 
 As a coda, it is well worth remembering: read all of the information provided to you in a table or figure! It often tells you a great deal (almost as much as reading the text) about the information being presented to you!
 
