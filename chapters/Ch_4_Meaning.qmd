@@ -14,4 +14,74 @@ bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 ---
 
-# 
+# What is "Meaning" and why is it so important to Sociology?
+
+Look at this illustration.[^1] What do you see?
+
+[^1]: This illusion is the famous "rabbit and duck" illustration, originally [from](https://en.wikipedia.org/wiki/Rabbit%E2%80%93duck_illusion) an 1884 German Newspaper, which is commonly used to demonstrate the "gestalt shift" in psychology by which the illustration's appearance suddenly shifts from "being" a rabbit to "being" a duck.
+
+![An Optical Illusion](../images/4_rabbit_and_duck.png)
+
+Some people see a rabbit.  Some see a duck.  Some see something in between.  But what matters for us here is not exactly *what* you saw, but *that* you saw something in the first place.  Someone, inspired perhaps by a rabbit or a duck, made an illustration with a pen and their hand, then that was scanned digitally and it now *is* only an arragment of pixels on your screen.  But your brain was able to take that arragement of pixels and integrate it into a symbol representing something else, namely, a rabbit (or duck, or something in between).  Sociologists (and other social scientists and humanities scholars) summarize this action of your brain to integrate stimuli into references to something else out ability to perceive **meaning** or **significance** in the world.  `Meaning and significance also shows us the central "glue" of social construction: the ability to make one thing "about" something else, imagined or real.`
+
+As we discussed in the [last unit](../chapters/Ch_3_Method.qmd), when discussing Symbolic Interactionism, the meanings we find in symbols have a general structure: that of a **symbol**.  A symbol is composed of two parts: the **signifier**, which is the thing that is doing the representing, and the **signified**, which is the meaning or significance being represented.  Sometimes, the relationship between signifier and signfied is *iconic*, which is to say, one of direct resemblance. `[Example of hieroglyphic langauges for iconic representation.`]  But there are also times where meaning is highly dependent on its contextual appearance among other symbols. [`example: non-iconic languages or emojis in particular conversations versus others`]
+
+Sociologists tend to study these complex objects, symbols, and their meaning at two levels of analysis, the micro and macro.
+
+### Micro-Analysis of Culture
+
+`Start with Weber's basic sociological terms.`
+
+`How do meanings motivate and justify action for people and groups?`
+
+### Macro-Analysis of Culture
+
+`Starts with Durkheim's views from the duality of human nature.`
+
+`Asks how meanings are structured in relationship to one another, and how they mutate and change over time in complex societies.`
+
+`Study the overall social function of some meanings vs others and their sociostructural outcomes.`
+
+`The composition of meaning into symbols, made of signifier and signfied.  In simple cases, what is signified is a concrete, material entity in the world.  In a great number of other cases, however, what is signified by a symbol is *not* concrete, as in the concepts of a "market" or "love."`
+
+## Meaning as unifying
+
+`it is difficult to overstate the imporance of culture and meaning to the conduct of your everyday life.  It is there that all information is stored that literally keeps you alive, and allows you to interact with society.`
+
+## Meaning as a source of conflict and a vector for power
+
+`But from very on in human history, culture has also been a way to (intentionally or not) establish boundaries and legitimate domination.`
+
+`One "natural" source of conflict around culture is **polysemy**, or the fact that particular symbols can be interpreted in a variety of ways.`
+
+# Cultural Universals
+
+## Marriage
+
+## Property Rights
+
+## Religious Ritual
+
+## Language
+
+# A brief history of civilization with a specific focus on culture
+
+The best evidence we have for the origins of sophisticated human culture are around 50,000 "BP" (so, 48,000 years BCE or so), when there was sudden, rapid evolution of human's burial practices, use of technology, collective hunting practices, and even cultural artifacts like cave paintings [@aubertPalaeolithicCaveArt2018].^[There is considerable debate among archaeologists about whether this emergence was gradual or a "sudden leap" constituting a new phase of evolution.]
+
+For about 40,000 years, nothing happened.^[This is a [Simpson's joke](https://getyarn.io/yarn-clip/6c7a19d7-d428-456e-b8d1-29ae296660a6) that only your grandparents are aware of.]  Then the last global ice age (which began around 110,000 BP) ended, which both cut off the Americas from the rest of the world (by flooding what is now the Bering Strait between Siberia and Alaska), and also led to more favorable climactic conditions for the domestication of animals and plants by humans. Accordingly, pockets of durable human settlement--even, by 8 to 6,000 years BP, growing to the size of modest towns today.^[Estimates of one of the earliest human settlements, in Turkey, suggest it was populated by around 600 to 800 people [@kuijtHowManyPeople2024].]
+
+![The last global ice age vastly *lowered* sea levels, making land much more connected than it is today ([Source](https://en.wikipedia.org/wiki/Last_Glacial_Period#/media/File:Global_sea_levels_during_the_last_Ice_Age.jpg.))](../images/4_Global_sea_levels_during_the_last_Ice_Age.jpg)
+
+Residing in cities meant that all aspects of human life gained a more durable base, including human culture.  The next major innovation was the invention of *writing,* or the ability to make human linguistic expression *durable* and *distributable* across distances.  The first [evidence of writing](https://en.wikipedia.org/wiki/History_of_writing#Emergence) comes from Mesopotamia around 5000 years BP, and the consensus is that it emerged independently in at least four places: Mesopotamia, Mesoameria, China, and Egypt.
+
+For our purposes of a sociological history of culture, however, it is important to note that *almost no one* outside of religious and government officials could read or write until very recently.
+
+![Literacy rates (including historical esitmates) for the last 500 years among selected countries.](../images/4_cross-country-literacy-rates.png)
+
+Roughly on the same time scale (but accelerating more recently, afte the last two hundred years or so) as the emergence of mass literacy, human societies also experienced the rise and global dominance of industrialization.  This was organized accordingly to variety of logics (the two most famous families are capitalism and communism), but its key effect from a structural standpoint for the history of human culture was to mechanize agriculture, thus *vastly* reducing the number of people who had to work to grow food for everyone else.
+
+![The share of employment in agriculture, from 1475 to 2025.](../images/4_share-of-employment-in-agriculture.png)
+
+A final coda to our history of human culture: the emergence of mass literacy, until the recent past, was organized around a **broadcast** model, in which some central authority made decisions (say, TV network executives) about what would be broadcast, and then consumers received that product.  Today, we may well have fragmented into a much more **networked** dynamic, in which culture is distributed along a series of channels that provide much more tailored messages and meanings than we previously possible.
+
+# Dynamics today
