@@ -42,13 +42,13 @@ At this micro-level, meaning operates as a form of motivating and justifying act
 
 ### Macro-Analysis of Culture
 
-Meanings also have a macro-analytic dimension, which can be well-exemplified by the classsical sociological theorist Emile Durkheim:
+Meanings also have a macro-analytic dimension, which can be well-exemplified by the classical sociological theorist Emile Durkheim:
 
 > Concepts...are always common to t aplurality of men. They are constituted by means of words, and neither the vocabulary nor the grammar of a language is the work or product of one particular person. They are rather the result of a collective elaboration, and they express the anonymous collectivty that employs them. The ideas of *man* or *animal* are not persona and are not restricted to me; I share them to a large degree, with all the men who belong to the same social group that I do [@durkheimEmileDurkheimMorality1973, p. 151-152].
 
 Here, meaning is at least intersubjective, and even approaches "objectivity," insofar as it transcends any given perspective of a member of society. But the passage also suggests that meanings are interrelated on a social level: that, for instance, grammar structures the meaning that we take from words.[^2] And for Durkheim, these interrelated meanings, in complex societies especially, work downwards on individual people; that is, they represent an emergent plane of cultural dynamics.
 
-[^2]: Consider, for instance, that in the sentences "I have a cold," and "I am cold," the word "cold" has two different meanings only by virtue of its relationship to the other words in the sentence, not to a demonstration of a different siginified in each case.
+[^2]: Consider, for instance, that in the sentences "I have a cold," and "I am cold," the word "cold" has two different meanings only by virtue of its relationship to the other words in the sentence, not to a demonstration of a different signified in each case.
 
 ## Dimensions of "Culture" and Meaning
 
@@ -73,7 +73,7 @@ There are several elements of the human organization of meaning that we have obs
 1.  *Marriage.* This is a socially-sanctioned sexual relationship between at least two people. It is *not* necessarily always between a man and woman, between to people, or involving romantic attraction.
 2.  *Property rights.* Every culture has some set of norms regarding the distrubtion of goods within it---rules, in other words, about who gets what, when.
 3.  *Religious Ritual.* Every culture also has some form of venerating supernatural entities, whether they are explicitly religious or simply spiritual activities oriented around the "unknown."
-4.  *Language.* Finally (and perhaps obviously), every culture has a system of language, which can vary considerably, but minimally involves the exchange of symbols.
+4. *Language.* Finally (and perhaps obviously), every culture has a system of language, which can vary considerably, but minimally involves the exchange of symbols.
 
 # A brief history of civilization with a specific focus on culture
 
@@ -81,11 +81,11 @@ The best evidence we have for the origins of sophisticated human culture are aro
 
 [^4]: There is considerable debate among archaeologists about whether this emergence was gradual or a "sudden leap" constituting a new phase of evolution.
 
-For about 40,000 years, nothing happened.[^5] Then the last global ice age (which began around 110,000 BP) ended, which both cut off the Americas from the rest of the world (by flooding what is now the Bering Strait between Siberia and Alaska), and also led to more favorable climactic conditions for the domestication of animals and plants by humans. Accordingly, pockets of durable human settlement--even, by 8 to 6,000 years BP, growing to the size of modest towns today.[^6]
+For about 40,000 years, nothing happened.[^5] Then the last global ice age (which began around 110,000 BP) ended, which both cut off the Americas from the rest of the world (by flooding what is now the Bering Strait between Siberia and Alaska), and also led to more favorable climactic conditions for the domestication of animals and plants by humans. Accordingly, pockets of durable human settlement--even, by 8 to 6,000 years BP, growing to the size of modest towns today [@kuijtHowManyPeople2024].[^6]
 
 [^5]: This is a [Simpson's joke](https://getyarn.io/yarn-clip/6c7a19d7-d428-456e-b8d1-29ae296660a6) that only your grandparents are aware of.
 
-[^6]: Estimates of one of the earliest human settlements, in Turkey, suggest [@kuijtHowManyPeople2024] it was populated by around 600 to 800 people.
+[^6]: Estimates of one of the earliest human settlements, in Turkey, suggest it was populated by around 600 to 800 people.
 
 ![The last global ice age vastly *lowered* sea levels, making land much more connected than it is today ([Source](https://en.wikipedia.org/wiki/Last_Glacial_Period#/media/File:Global_sea_levels_during_the_last_Ice_Age.jpg.))](../images/4_Global_sea_levels_during_the_last_Ice_Age.jpg)
 
@@ -112,7 +112,7 @@ In complex societies, different sub-groups can sometimes develop distinctive nor
 
 ## Assimilation vs Multiculturalism
 
-Another tension surrounding culture and meaning in contemporary socities involves how to integrate newcomers who might have different cultural backgrounds. On the one hand, they can be **assimilated**, which is to say, adopt the culture dominant in the mainstream of society, or society can accommodate or adapt to subcultures, which leads to **multiculutral** diversity.
+Another tension surrounding culture and meaning in contemporary socities involves how to integrate newcomers who might have different cultural backgrounds. On the one hand, they can be **assimilated**, which is to say, adopt the culture dominant in the mainstream of society, or society can accommodate or adapt to subcultures, which leads to **multicultural** diversity.
 
 ## Ethnocentrism vs Cultural Relativism
 
