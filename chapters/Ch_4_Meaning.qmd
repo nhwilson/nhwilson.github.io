@@ -26,49 +26,50 @@ Some people see a rabbit. Some see a duck. Some see something in between. But wh
 
 Sociologists care so much about meaning for a few reasons, but the most central relates to social constructions. Recall that social constructions are just real phemonena in the world which exist by virtue of our shared acceptance that the exist. That word *shared* is the key: for *how can it be* that we manage to arrive at the same, or even just similar, collective (or at least intersubjective) understandings of what is happening? A theory of meaning provides the answer–it is the ability to arrive at a shared understanding of what a thing, social setting, or phenomenon is "about," at least enough so to enable communication.
 
-As we discussed in the [last unit](../chapters/Ch_3_Method.qmd), when discussing Symbolic Interactionism, the meanings we find in symbols have a general structure: that of a **symbol**. A symbol is composed of two parts: the **signifier**, which is the thing that is doing the representing, and the **signified**, which is the meaning or significance being represented. Sometimes, the relationship between signifier and signfied is *iconic*, which is to say, one of direct resemblance. This is most famous in some languages, like [ancient Egyptian hieroglyphics](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs). But there are also times where meaning is highly dependent on its contextual appearance among other symbols. Most modern languages follow this more complex pattern.
+As we discussed in the [last unit](../chapters/Ch_3_Method.qmd), when discussing Symbolic Interactionism, the meanings we find in symbols have a general structure: that of a **symbol**. A symbol is composed of two parts: the **signifier**, which is the thing that is doing the representing, and the **signified**, which is the meaning or significance being represented. Sometimes, the relationship between signifier and signfied is **iconic**, which is to say, one of direct resemblance. This is most famous in some languages, like [ancient Egyptian hieroglyphics](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs). But there are also times where meaning is highly dependent on its contextual appearance among other symbols. Most modern languages follow this more complex pattern.  And today, we live in a world of symbols where many, even most, do not refer to something that can be materially represented: we instead represent "love" with a heart, and use images like "stock tickers" or physical components of collective social phenomena like "markets."
 
 Sociologists tend to study these complex objects, symbols, and their meaning at two levels of analysis, the micro and macro.
 
 ### Micro-Analysis of Culture
 
-At the micro level, going back to the beginning of the sociological tradition (this time to a sociologist named Max Weber, who also theorized "rationalization"), sociologists have seen a tight coupling of meaning and action together. Indeed, Weber saw them as identical: for a person to "act" (which is to say, do something), was for him to 
+At the micro level, going back to the beginning of the sociological tradition (this time to a sociologist named Max Weber, who also theorized "rationalization"), sociologists have seen a tight coupling of meaning and action together. Indeed, Weber saw them as identical: for a person to "act" (which is to say, do something), was for him to
 
-> [attach] subjective meaning to his behavior---be it overt or covert, omission or acquiesence.  Action is 'social' insofar as its subjective meaning takes account of the behavior of others and is thereby oriented in its course...in no case does [meaning] refer to an objectively 'correct' meaning or one whihc is 'true' in some metaphysical sense [@weberEconomySociety1978, p. 4].
+> \[attach\] subjective meaning to his behavior---be it overt or covert, omission or acquiesence. Action is 'social' insofar as its subjective meaning takes account of the behavior of others and is thereby oriented in its course...in no case does \[meaning\] refer to an objectively 'correct' meaning or one which is 'true' in some metaphysical sense [@weberEconomySociety1978, p. 4].
 
-`Start with Weber's basic sociological terms.`
+Here we see that "meaning" is subjective, in the sense that it is a significance attached to the perspective of particular people, but so too is it oriented towards the meanings that people infer in others.
 
-`How do meanings motivate and justify action for people and groups?`
+At this micro-level, meaning operates as a form of motivating and justifying action [@vaiseyMotivationJustificationDualProcess2009].  That is, meanings can supply the *goals* you are pursuing, or they can provide the *reasons* for what you are doing.
 
 ### Macro-Analysis of Culture
 
-`Starts with Durkheim's views from the duality of human nature.`
+Meanings also have a macro-analytic dimension, which can be well-exemplified by the classsical sociological theorist Emile Durkheim:
 
-`Asks how meanings are structured in relationship to one another, and how they mutate and change over time in complex societies.`
+> Concepts...are always common to t aplurality of men.  They are constituted by means of words, and neither the vocabulary nor the grammar of a language is the work or product of one particular person.  They are rather the result of a collective elaboration, and they express the anonymous collectivty that employs them.  The ideas of *man* or *animal* are not persona and are not restricted to me; I share them to a large degree, with all the men who belong to the same social group that I do [@durkheimEmileDurkheimMorality1973, p. 151-152].
 
-`Study the overall social function of some meanings vs others and their sociostructural outcomes.`
+Here, meaning is at least intersubjective, and even approaches "objectivity," insofar as it transcends any given perspective of a member of society.  But the passage also suggests that meanings are interrelated on a social level: that, for instance, grammar structures the meaning that we take from words.^[Consider, for instance, that in the sentences "I have a cold," and "I am cold," the word "cold" has two different meanings only by virtue of its relationship to the other words in the sentence, not to a demonstration of a different siginified in each case.]  And for Durkheim, these interrelated meanings, in complex societies especially, work downwards on individual people; that is, they represent an emergent plane of cultural dynamics.
 
-`The composition of meaning into symbols, made of signifier and signfied.  In simple cases, what is signified is a concrete, material entity in the world.  In a great number of other cases, however, what is signified by a symbol is *not* concrete, as in the concepts of a "market" or "love."`
+## Dimensions of "Culture" and Meaning
+
+The system of symbols and their meanings is what sociologists usually call **culture**, and it has several dimensions.  The first is **values**, which as we noted in [Unit 1](../chapters/Ch_1_Imagination.qmd), amount to statements of what is good, bad, valuable, or ultimately important for people.  But culture and meaning is also often expressed in **norms,** which are rule-like statements about what is appropriate or inappropriate in a given setting.^[Usually, a norm and value can be differentiated conceptually because a norm can be stated like a rule relative to a given situation, when a value cannot.  So in the statement "You should not talk in the library, because it is good to be polite," the first clause in the sentence is a norm (specifying what you should not not and where you should not do it), and the second is the value from which the norm is derived (implying that it is generally good to be polite, regardless of where you are).]  Finally, culture and meaning are organized at the level of **material culture** which encompasses all organized, purposeful intervention by humans into the physical world, including all technology, building, and material symbolic representation.
 
 ## Meaning as unifying
 
-`it is difficult to overstate the imporance of culture and meaning to the conduct of your everyday life.  It is there that all information is stored that literally keeps you alive, and allows you to interact with society.`
+As might be obvious, in some ways, culture and meaning are intensely unifying, since they are the vector through which social order is possible.  Indeed, without a shared sense of the meaning of symbols and gestures, it would be literally impossible for interactions to take place, and for complex social organizations to function.  (Just imagine if you couldn't take for granted whether a driver would actually stop at a red light, since you couldn't assume that a red light would have the same meaning for anyone else that it does for you!)
 
 ## Meaning as a source of conflict and a vector for power
 
-`But from very on in human history, culture has also been a way to (intentionally or not) establish boundaries and legitimate domination.`
+Yet at the same time that culture unifies and binds us together, it can also be used to divide or justify power.  At the most basic level, this is because symbols contain not only information about what we *share*, but also potential ways to differentiate us from one another.  (For instance, meaning and culture is what lends certain eating practices a religious significance, which in turn can be used to tell the difference between a Jewish person keeping kosher or a Muslim keeping halal.)  And moreover, meaning can also provide justification for inequality, as when suffering and deprivation are given "higher" purposes in some religions.
 
-`One "natural" source of conflict around culture is **polysemy**, or the fact that particular symbols can be interpreted in a variety of ways.`
+When materialized, meaning can also directly aid the operation of power.  Consider writing, which is just the material representation of spoken language.  Writing down information emerged as a way to record the obligations of one group to another, which meant that (because the two groups didn't have to remember every agreement they made) society could grow more complex and stratified, and also that more people could be (interchangeably) involved in enforcing and coordinating those obligations.  Put simply, writing allows a central authority to use a variety of agents across both space and time to track, record, and observe people at a much larger scale than previously possible.
 
 # Cultural Universals
 
-## Marriage
+There are several elements of the human organization of meaning that we have observed in every recorded society.
 
-## Property Rights
-
-## Religious Ritual
-
-## Language
+1. *Marriage.* This is a socially-sanctioned sexual relationship between at least two people.  It is *not* necessarily always between a man and woman, between to people, or involving romantic attraction.
+2. *Property rights.*  Every culture has some set of norms regarding the distrubtion of goods within it---rules, in other words, about who gets what, when.
+3. *Religious Ritual.* Every culture also has some form of venerating supernatural entities, whether they are explicitly religious or simply spiritual activities oriented around the "unknown."
+4. *Language.*  Finally (and perhaps obviously), every culture has a system of language, which can vary considerably, but minimally involves the exchange of symbols.
 
 # A brief history of civilization with a specific focus on culture
 
@@ -94,6 +95,20 @@ Roughly on the same time scale (but accelerating more recently, afte the last tw
 
 ![The share of employment in agriculture, from 1475 to 2025.](../images/4_share-of-employment-in-agriculture.png)
 
-A final coda to our history of human culture: the emergence of mass literacy, until the recent past, was organized around a **broadcast** model, in which some central authority made decisions (say, TV network executives) about what would be broadcast, and then consumers received that product. Today, we may well have fragmented into a much more **networked** dynamic, in which culture is distributed along a series of channels that provide much more tailored messages and meanings than we previously possible.
+A final coda to our history of human culture: the emergence of mass literacy, until the recent past, was organized around a **broadcast** model, in which some central authority made decisions (say, TV network executives or government officials) about what would be represented, and then consumers received that product. Today, we may well have fragmented into a much more **networked** dynamic, in which culture is distributed along a series of channels that provide much more tailored messages and meanings than we previously possible.
 
 # Cultural Dynamics today
+
+There are three main cultural dynamics in contemporary societies that are sources of much controversy, and which also seem very difficult to resolve.
+
+## Community and Socialization vs Fragmented Subcultures
+
+In complex societies, different sub-groups can sometimes develop distinctive norms, values, and material culture, in which case we call them **subcultures.** Subcultures can present a challenge when they become *so* distinctive that it is difficult, or even impossible for them to interface with mainstream society.  (Indeed, at that point it can even become difficult to refer to "society" at all, since it has become so fragmented that it is no longer coherent.)
+
+## Assimilation vs Multiculturalism
+
+Another tension surrounding culture and meaning in contemporary socities involves how to integrate newcomers who might have different cultural backgrounds.  On the one hand, they can be **assimilated**, which is to say, adopt the culture dominant in the mainstream of society, or society can accommodate or adapt to subcultures, which leads to **multiculutral** diversity.
+
+## Ethnocentrism vs Cultural Relativism
+
+Finally, the question of how we value our values themselves is a tense one.  There are, after all, certain value commitments we might give up (by replacing them with another, such as "live and let live" or "do unto other as you would have them do unto you"), but there are others ("every human life is inherently valuable," perhaps?) that are difficult to let go of.  And yet, in the variety of cultures we encounter, there are some that *do* hold contrary values to those we hold dear?  There are, again broadly, two options.  One is **ethnocentrism,** which is to argue that one's own cultural commitments are superior for some reason (intellectual or not, rational or irrational), while **cultural relativism** means to just accept the difference between one's own and another culture's commitments.
