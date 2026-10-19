@@ -13,4 +13,38 @@ bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 ---
 
-# 
+Now that we understand [meaning](./Ch_4_Meaning.qmd) and [socialization and interaction](./Ch_5_Interaction.qmd), we can take the next step of abstraction in our sociological journey.  The central object of sociological analysis is people-in-society, and the binding agents connecting them are **social structures**, the regular patterns of interaction which organize social life.
+
+Social structures come in three main varieties: groups, organizations, and networks.
+
+# From Aggregates and Groups
+
+## Kinds of Groups
+
+## Group Size
+
+## Conformity and Groups
+
+# From Groups to Organizations
+
+## Especially Formal, Modern Organizations: Bureaucracies
+
+![Organization Chart, Stony Brook College of Business](../images/6_org_chart.png)
+
+## The Functions and Dysfunctions of Formal Organizations
+
+![The Rough Size of the Federal Government](../images/6_fed_size.png)
+
+![The Rough Size of the Federal Government and State Governments](../images/6_fed_state_size.png)
+
+![The Rough Size of the Government, Compared to the Labor Force](../images/6_fed_state_size_labor_force.png)
+
+![The Rough Size of the Government, Compared to Population](../images/6_fed_state_size_population.png)
+
+# Networks
+
+## Findings of Network Analysis
+
+## The Interface of Network and Organization
+
+# The Internet and Organizations
