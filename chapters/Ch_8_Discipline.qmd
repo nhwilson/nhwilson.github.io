@@ -12,3 +12,16 @@ citation-location: margin
 bibliography: ../nick.bib
 csl: ../american-sociological-association.csl
 ---
+
+# Central Concepts in Deviance and Crime
+
+
+# Theories of Deviance and Crime
+
+## Control Theory
+
+## Conflict Theory
+
+## Functionalist Theory
+
+## Interactionist Theory
