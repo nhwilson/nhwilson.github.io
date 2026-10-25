@@ -15,13 +15,30 @@ csl: ../american-sociological-association.csl
 
 # Central Concepts in Deviance and Crime
 
+All societies are governed by norms, and modern societies are characterized by complex internal differentiation.  Thus, we encounted the problem of **deviance**, modes of action that do not conform to the norms and values of "most members of society," and when that deviance is codified and enforced by government action, **laws**.  As implied by quotation marks around the phrase above, however, there is little consensus on just how extensive consensus around values and norms need to be to constitute deviance or crime.
 
 # Theories of Deviance and Crime
 
 ## Control Theory
 
+The theory of deviance and crime that is most directly connected to mainstream American common sense is control theory.  By this perspective, crime occurs because the perceived benefits of committing it (for the potential criminal) outweigh the costs.  Thus, to deter crime is to raise the costs or decrease the benefits of committing one.
+
 ## Conflict Theory
+
+Conflict theory, meanwhile, stems from the Marxian tradition, and argues that, far from being a neutral guide to "what is right and wrong" in a society, the law in fact is a code written by elites in their own defense, and to criminalize activity that deviates away from their interests.  In an extrmee form, this theory also implies that breaking the law is an implicit protest against the overall social order.
 
 ## Functionalist Theory
 
+Functionalist theories of crime and deviance, primarily derived from Durkheim, make arguments both about the *source* of crime and deviance and the social *response* to it.  As for the source, Durkheim argued that deviant behavior in complex societies was driven by **anomie,** or the progressive weakening of the force of social institutions.  When institutions weaken, people are more likely to act on their impulses, and thus commit crimes of passion or simply self-interest.
+
+But Durkheim also thought that when crimes *do* occur, well-functioning societies could use them as opportunities to reinforce social norms.  Thus, rituals of punishment and collective renewal often follow extraordinary crimes.
+
 ## Interactionist Theory
+
+Interactionist theories, finally, make arguments that are primarily about socialization.  On a micro-scale, they argue, essentially, that people can be socialized *into* criminal activity, to the extent that subcultures exist in which deviant or criminal behavior is normative or even expected.  And, on a more macro-level, they emphasize how what is considered criminal (or just deviant) is a malleable social construction, and thus the boundary between what is acceptable and criminal can mutate and change over time.
+
+# Notes on Crime and Deviance Today
+
+There are two germane points (covered in more detail in the lecture slides) about the empirical terrain of crime in the United States today.  First, violent and property crime is falling and has been doing so (except for a brief increase during COVID) throughout the U.S., rendering life today (in urban and non-urban areas) safer than it has been in recorded history.
+
+Second, a politically-controversial position holds that strident immigration law enforcement within the United States is justified because immigrants commit crimes more than native-born people.  This is demonstrably false, both historically and in the present, given all of the evidence we have.
