@@ -20,7 +20,7 @@ So far in the course, we have emphasized how your social identity is structured,
 
 # Basic Concepts
 
-In mordern societies, these durable markers are almost always distributed **unequally**. This means, simply, that within a given society, some people have more of that marker, and some less. One key factor of this unequal distribution is that the marker in question is subject to **scarcity**; there is not an infinite supply of it, and so not everyone can have all they want.
+In modern societies, these durable markers are almost always distributed **unequally**. This means, simply, that within a given society, some people have more of that marker, and some less. One key factor of this unequal distribution is that the marker in question is subject to **scarcity**; there is not an infinite supply of it, and so not everyone can have all they want.
 
 It is perhaps easiest to think of this situation via money. Money is a marker of the command over the goods and services of others (this is what you do when you exchange it for things and other people's labor). And because the world of material goods and other people's time is not infinite, not everyone can have an infinite amount of money (because, if they did, money would literally be able to buy less and less---this is what inflation is.) Consequently, in a normally-functioning modern economy, the amount of money in circulation is not exactly fixed,[^1] but it is scarce---not everyone can have all they want. And as social dynamics (which we discuss below) play out, **structural inequalities** in the distribution of money emerge: who gets more and who gets less tends to be determined by social markers, which we tend to group under the broad term "class."
 
@@ -30,7 +30,7 @@ It is perhaps easiest to think of this situation via money. Money is a marker of
 
 ### Prologue: Before Class
 
-Before we directly excamine the components of class (with an eye to their complexity), let us first note that class is historically not the only system of structural inequality. One major historical alternative was **slavery**, a system where some people (and thus their labor) were directly owned by others, and thus the major axis of inequality was freedom and unfreedom. **Caste**, meanwhile, was (and is still, in some parts of the world) a system in which religion prescribed certain social statuses on people by virtue of their birth, and prohibited some kinds of inter-caste interactions and movement between classes over the life course. **Ethnic inequality**, finally, is a system of structural inequality centered on shared cultural identities that are made salient in contrast to other identities in a society.
+Before we directly examine the components of class (with an eye to their complexity), let us first note that class is historically not the only system of structural inequality. One major historical alternative was **slavery**, a system where some people (and thus their labor) were directly owned by others, and thus the major axis of inequality was freedom and unfreedom. **Caste**, meanwhile, was (and is still, in some parts of the world) a system in which religion prescribed certain social statuses on people by virtue of their birth, and prohibited some kinds of inter-caste interactions and movement between classes over the life course. **Ethnic inequality**, finally, is a system of structural inequality centered on shared cultural identities that are made salient in contrast to other identities in a society.
 
 ### Components of Class
 
@@ -48,7 +48,7 @@ Another major adjustment that is commonly made to income is its regional **purch
 
 #### Wealth
 
-For most people in the united states, real income is the key determinant of their economic well-being. For others, however, we must add **wealth** when considering their class. This is usually measured by "net worth," which is to say, the total value of all your debts (loans etc.) subtracted from the total value of all your assets (real estate, cars, stocks, money, etc.).
+For most people in the United States, real income is the key determinant of their economic well-being. For others, however, we must add **wealth** when considering their class. This is usually measured by "net worth," which is to say, the total value of all your debts (loans etc.) subtracted from the total value of all your assets (real estate, cars, stocks, money, etc.).
 
 Wealth can be much more difficult to measure than income, primarily because, in the U.S., most people know their incomes (from their pay stubs and taxes) but not everyone knows that total value of their debts and assets (because this can involve complex calculations). However, one of the [best surveys](https://www.federalreserve.gov/publications/files/scf26.pdf) we have available shows vast disparities: in 2026, the median net worth for the top ten percent of U.S. households was about 5 million dollars. The median net worth for the bottom quarter of households was \$1,700. That is *almost* 3,000 times smaller.
 
@@ -64,12 +64,12 @@ Class is also composed of a person's **occupation**, or their paid or unpaid emp
 
 #### The Controversial Element: Lifestyle
 
-The controversial component of class is **lifestyle**. This comprises what people consume, how they are educated, who they associate with, and even the kinds of cultural judgments they make. For instance, the sociologist Anette Lareau [@lareauUnequalChildhoodsClass2011] found that children from different class backgrounds were socialized to two very different "styles" of interacting with intstitutions. Children from working-class backgrounds were socialized into the *the accomplishment of natural growth*, which emphasized comparatively little structured play and fostered relatively little experience in challenging adverse decisions by authorities. The *concerted cultivation* practiced by middle-class families, meanwhile, socialized children into highly-structured institutional play (such as music lessons, camps, and so on) while teaching them to question and challenge decisions they disagreed with.
+The controversial component of class is **lifestyle**. This comprises what people consume, how they are educated, who they associate with, and even the kinds of cultural judgments they make. For instance, the sociologist Annette Lareau [@lareauUnequalChildhoodsClass2011] found that children from different class backgrounds were socialized to two very different "styles" of interacting with institutions. Children from working-class backgrounds were socialized into *the accomplishment of natural growth*, which emphasized comparatively little structured play and fostered relatively little experience in challenging adverse decisions by authorities. The *concerted cultivation* practiced by middle-class families, meanwhile, socialized children into highly-structured institutional play (such as music lessons, camps, and so on) while teaching them to question and challenge decisions they disagreed with.
 
-There is also some evidence that these lifestyle differences extend to cultural taste. Consider the following table, which shows the percentage of respondents who like or dislike classical music accoding to their "subjective" (i.e., self-assessed) class. As you can see, the appeal of classical music rises with class position, and distaste for it rises class falls.
+There is also some evidence that these lifestyle differences extend to cultural taste. Consider the following table, which shows the percentage of respondents who like or dislike classical music according to their "subjective" (i.e., self-assessed) class. As you can see, the appeal of classical music rises with class position, and distaste for it rises as class falls.
 
 |                      | Lower Class | Working Class | Middle Class | Upper Class |
-|:--------------------:|:-----------:|:-------------:|:------------:|:-----------:|
+|:--------------:|:------------:|:------------:|:------------:|:------------:|
 |  Like It Very Much   |     2%      |      37%      |     51%      |     8%      |
 |       Like It        |     4%      |      43%      |     50%      |     3%      |
 |    Mixed Feelings    |     5%      |      42%      |     49%      |     3%      |
@@ -102,7 +102,7 @@ Marx and the structural functionalists overwhelming concentrate on *economic* fa
 
 ## Bourdieu
 
-Finally, Pierre Bourdieu, in his monumental *Distinction* [-@bourdieuDistinctionSocialCritique1984] argued that there was yet another neglected dimension of inequality and class, which he named **cultural capital.** One of the crucial theorists of "lifestyle" and class discussed above, Bourdieu argued that cultural captial was the ability of people not only to make judgments themselves, but also to claim that those judgments are authoritative and legitimate. For instance, in the case of art, "high art" wasn't just reducible to who had the money to pay for art, but rather to a special class of *critics* who were recognized with the ability to distinguish between "good art and bad." Crucially, this rarely correlated directly with other markers of class, but observed a dynamic all its own.
+Finally, Pierre Bourdieu, in his monumental *Distinction* [-@bourdieuDistinctionSocialCritique1984] argued that there was yet another neglected dimension of inequality and class, which he named **cultural capital.** One of the crucial theorists of "lifestyle" and class discussed above, Bourdieu argued that cultural capital was the ability of people not only to make judgments themselves, but also to claim that those judgments are authoritative and legitimate. For instance, in the case of art, "high art" wasn't just reducible to who had the money to pay for art, but rather to a special class of *critics* who were recognized with the ability to distinguish between "good art and bad." Crucially, this rarely correlated directly with other markers of class, but observed a dynamic all its own.
 
 # Class in the United States
 
@@ -110,9 +110,9 @@ Finally, Pierre Bourdieu, in his monumental *Distinction* [-@bourdieuDistinction
 
 It is surprisingly difficult to measure poverty. One reason for this is because to be "poor" is to be poor *relative to some standard.* At a basic level there are two such standards, and each standard has its own measure of poverty.
 
-The first of these is **absolute poverty**, which measures poverty according to the costs of fulfilling basic life needs. This is the standard used by the federal government, which sets the "poverty line" at three times the assumed cost of a nutritionally-adequate diet per person. (This means that, [in 2026](https://aspe.hhs.gov/sites/default/files/documents/b1bfa16b20ae9b89d525bc35de7c1643/detailed-guidelines-2026.pdf), the poverty line for a single person, excluding Hawaii and Alaska, is 15,960 dollars a year. That's \~\$43.72 a day.)[^5]
+The first of these is **absolute poverty**, which measures poverty according to the costs of fulfilling basic life needs. This is the standard used by the federal government, which sets the "poverty line" at three times the assumed cost of a nutritionally-adequate diet per person. (This means that, [in 2026](https://aspe.hhs.gov/sites/default/files/documents/b1bfa16b20ae9b89d525bc35de7c1643/detailed-guidelines-2026.pdf), the poverty line for a single person, excluding Hawaii and Alaska, is 15,960 dollars a year. That's \~\$43.72 a day.)[^4]
 
-[^5]: Note also that this aboluste poverty measure is *not* regionally or cost-of-living adjusted (except for AK and HI)!
+[^4]: Note also that this aboluste poverty measure is *not* regionally or cost-of-living adjusted (except for AK and HI)!
 
 The second standard is poverty is measured relative to the standards of mainstream society, and is thus called **relative poverty.** Why use this measure? Simply, there is now lots of evidence that *feeling* poor relative to the rest of society has numerous poor effects on one's life, including on people's physical and mental health [@pickettHealthInequality2008].
 
@@ -142,9 +142,9 @@ The point of this example is that it mimics a natural experiment: three people h
 
 One of the greatest controversies in contemporary society, given the very high levels of relative poverty demonstrated in the U.S., is what causes people to be poor. Observers note that a substantial group of poor people *do* work (about 1/3 of people 16 and older who fell below the federal poverty line worked in the last year), and that poverty is disproportionately black and latino. And, even in places where poverty has substantially improved (such as among the elderly), there are still large racial and gender gaps (black older women living along are about ten times more likely to be poor as White married elderly men).
 
-In U.S. politics, one common response (comprising about a third of the population) is that the poor---and especially, the *racialized* poor---do not work sufficiently hard to lift themselves out of poverty.[^6]
+In U.S. politics, one common response (comprising about a third of the population) is that the poor---and especially, the *racialized* poor---do not work sufficiently hard to lift themselves out of poverty.[^5]
 
-[^6]: The survey question was: "On the average Black people have worse jobs, income, and housing than white people. Do you think these differences are...Because most Black people just don't have the motivation or will power to pull themselves up out of poverty?" [Source](https://gssdataexplorer.norc.org/trends?category=Civil%20Liberties&measure=racdif4_r1)
+[^5]: The survey question was: "On the average Black people have worse jobs, income, and housing than white people. Do you think these differences are...Because most Black people just don't have the motivation or will power to pull themselves up out of poverty?" [Source](https://gssdataexplorer.norc.org/trends?category=Civil%20Liberties&measure=racdif4_r1)
 
 ![Proportion of U.S. Population Ascribing Black Poverty to Lack of Will Over Time](../images/9_black_poverty.png)
 
